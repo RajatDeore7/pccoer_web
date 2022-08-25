@@ -54,7 +54,7 @@
 					<h1 align="center">Research</h1>
 					<hr> 
 						
-					    <div class="col-md-8">
+					    <div class="col-md-12">
 							
 							<div class="col-md-4">
 								<a href="pdf/Book-Publication-Yearwise.pdf" target="_blank"><img src="images/download.png"  alt="Research Publications"></a>
