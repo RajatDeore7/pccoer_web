@@ -13,9 +13,9 @@
 			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href='pdf/induction-20-21-sem-1&2.pdf'>Induction</a></li>
 			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href=''>Department Activities</a></li>
 			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href=''>Student's View</a></li>
-			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href=''>Result</a></li>
+			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href='pdf/Toppers-FROM-2014-15-TO-2019-20.pdf'>Result</a></li>
 			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href=''>E-Library</a></li>
-			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href=''>E-Magazine</a></li>
+			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href='e-magazine.php'>E-Magazine</a></li>
 			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href='pdf/Product-Developed-PBL-Yearwise.pdf'>Product Developed</a></li>
 			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href='fesa.php'>FESA</a></li>
 			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href=''>Question Papers</a></li>
