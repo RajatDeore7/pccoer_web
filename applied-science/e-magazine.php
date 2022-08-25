@@ -34,7 +34,7 @@
 						<ol class="breadcrumb">
 							<li class="breadcrumb-item"><i class="fa fa-home"></i> Home</li>					
 							<li class="breadcrumb-item">Applied Science</li>
-							<li class="breadcrumb-item"><a href="#">Research</a></li>
+							<li class="breadcrumb-item"><a href="#">E-Magazine</a></li>
 						</ol>
 					</nav>
 				</div>
@@ -51,7 +51,7 @@
 				<div class="col-xs-12 col-sm-12 col-md-9">
 					<div class="hdg-bdr"><span class="hdg-bdr-1"></span><span class="hdg-bdr-2"></span><span class="hdg-bdr-3"></span></div>
 					<br>
-					<h1 align="center">Research</h1>
+					<h1 align="center">Download</h1>
 					<hr> 
 						
 					    <div class="col-md-12">
