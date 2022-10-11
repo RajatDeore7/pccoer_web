@@ -15,6 +15,9 @@
     <link href="../css/pccoer.css" rel="stylesheet">
     <link href="../css/menu.css" rel="stylesheet">
 	<link rel="icon" href="../images/pccoer-favicon-icon.png" type="image/png">
+    
+	<!-- my style -->
+	<link rel="stylesheet" href="./applied-science.css">
 	
 	<!--Font Awesome Stylesheets -->
 	<link href="../css/all.min.css" rel="stylesheet">
@@ -67,7 +70,9 @@
 						5. To provide training in the area of mental, spiritual growth, sound health, good conduct and communication for students which shall be based on our values and ethics.
 					</p>
                     <h3>Logo of the Department:</h3>
-					<img src="images/pccoer-fe-deprt-logo.jpg" alt="PCCOER is best engineering college in Pune" class="pccoer-logo">	
+					<div class="comp_logo">
+					<img src="images/pccoer-fe-deprt-logo.jpg" alt="PCCOER is best engineering college in Pune" class="pccoer-logo">
+                    </div>	
 					<h3><a href="pdf/COURSE-OUTCOMES.pdf" target="_blank" style="color:#005bab;"><u>COURSE OUTCOMES (COs)</u></a><a></a></h3>
 				</div>
 			</div>
