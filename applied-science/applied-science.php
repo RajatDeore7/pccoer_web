@@ -68,7 +68,7 @@
 					</p>
                     <h3>Logo of the Department:</h3>
 					<img src="images/pccoer-fe-deprt-logo.jpg" alt="PCCOER is best engineering college in Pune" class="pccoer-logo">	
-					<h3><a href="pdf/COURSE-OUTCOMES.pdf" target="_blank" style="color:#005bab;"><u>COURSE OUTCOMES (COs):</u></a><a></a></h3>
+					<h3><a href="pdf/COURSE-OUTCOMES.pdf" target="_blank" style="color:#005bab;"><u>COURSE OUTCOMES (COs)</u></a><a></a></h3>
 				</div>
 			</div>
 		</div>

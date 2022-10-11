@@ -5,9 +5,10 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <title>Department of Applied Science | Pimpri Chinchwad College Of Engineering And Research | PCCOER - PCMC, Pune</title>
-    <meta name="description" content="The goal of the Applied Science department at PCCOER is to introduce students to the field of engineering by means of introductory courses in electrical, mechanical, civil, electronics and computer engineering."/>
-    <meta name="keywords" content="pimpri chinchwad college of engineering and research, applied science">
+    <title>Head of Department of Applied Science | Pimpri Chinchwad College Of Engineering And Research |  PCCOER - PCMC, Pune</title>
+    <meta name="description" content="Under the valueable  guidence of our head of department of applied science, PCCOER develop the student’s academics and self-improvement. We constantly strive to impart quality education and develop the engineering skills, knowledge and confidence in our engineering students.
+"/>
+  <meta name="keywords" content="pimpri chinchwad college of engineering and research, applied science, head of department">
 
     <!-- Bootstrap -->
     <link href="../css/bootstrap.min.css" rel="stylesheet">
