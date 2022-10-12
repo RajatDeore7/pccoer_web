@@ -39,7 +39,7 @@ body {
 }
 
 .span2 {
-	color: #eb3135;
+	color: #3b5999;
 	font-weight: bold;
 	font-size: 30px;
 	padding: 3px 0px;
@@ -81,7 +81,7 @@ body {
 
 #pccoer h1, h2, h3 {
 	font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif;
-	color: #eb3135;
+	color: #3b5999;
 	font-weight: 700;
 	margin-bottom: 15px;
 }
@@ -132,7 +132,7 @@ body {
 .section-counter .employee-p, .customer-p, .order-p, .design-p {
 	font-size: 18px;
 	margin-top: 10px;
-	color: #eb3135;
+	color: #3b5999;
 }
 
 .section-campus {
@@ -380,11 +380,11 @@ figure:hover+span {
 }
 
 .section-footer p a:hover {
-	color: #eb3135;
+	color: #3b5999;
 }
 
 .section-footer p i {
-	color: #eb3135;
+	color: #3b5999;
 }
 
 .section-footer-copyright {
@@ -452,7 +452,7 @@ figure:hover+span {
 }
 
 .rdmore-btn:hover {
-	background: #eb3135;
+	background: #3b5999;
 	border-radius: 0px !important;
 }
 
@@ -505,7 +505,7 @@ figure:hover+span {
 	margin-top: 0px;
 	margin-bottom: 20px;
 	font-size: 32px;
-	color: #eb3135;
+	color: #3b5999;
 }
 
 .page_details p {
@@ -515,19 +515,19 @@ figure:hover+span {
 .page_details h2 {
 	margin-bottom: 10px;
 	font-size: 24px;
-	color: #eb3135;
+	color: #3b5999;
 	font-weight: 600;
 }
 
 .page_details h3 {
 	margin-bottom: 10px;
 	font-size: 20px;
-	color: #eb3135;
+	color: #3b5999;
 	font-weight: 600;
 }
 
 .sidebar {
-	background: #eb3135;
+	background: #3b5999;
 	border-top: 7px solid #333;
 	padding: 10px 0px;
 	margin-bottom: 20px;

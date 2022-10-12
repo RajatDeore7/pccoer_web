@@ -9,7 +9,6 @@
 
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
-    <link href="css/style.css" rel="stylesheet">
     <link href="css/pccoer.css" rel="stylesheet">
     <link href="css/menu.css" rel="stylesheet">
 	<link rel="icon" href="images/pccoer-favicon-icon.png" type="image/png">
@@ -20,7 +19,8 @@
 	<!-- Owl Stylesheets -->
     <link rel="stylesheet" href="css/owl.carousel.min.css">
     <link rel="stylesheet" href="css/owl.theme.default.min.css">
-
+	
+    <link href="css/style.css" rel="stylesheet">
     <style>
 		
 	</style>
