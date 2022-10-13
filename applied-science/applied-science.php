@@ -55,6 +55,9 @@
 					<div class="hdg-bdr"><span class="hdg-bdr-1"></span><span class="hdg-bdr-2"></span><span class="hdg-bdr-3"></span></div>
 					<br>
 					<h1 align="center">About the Department - First year Engineering</h1>
+					<div class="comp_logo">
+					<img src="images/pccoer-fe-deprt-logo.jpg" alt="PCCOER is best engineering college in Pune" class="pccoer-logo">
+                    </div>	
 					<hr> 
 					<p>The Department of First-Year Engineering includes multidisciplinary faculty from the Applied Sciences and Humanities. First-Year Engineering was founded in 2014 with the mission of addressing basic Sciences, Programming, Mathematics, Basic Engineering Subjects, Life skills, Language and Communication Skills, and Environmental studies to help students for analyzing problems related to engineering and society.<br><br>
 					The Applied Sciences and Humanities courses in the first year develop skills, innovations, professional skills and interpersonal skills enhanced with intellectual skills of engineering. The department believes in developing the core competencies through hands-on activities. Project-based learning is a regular part of the curriculum that happens in collaboration with the industry professionals and their presentations have been a motivation for the students to grow skilled. The teaching learning process includes multi disciplinary faculty who adopt innovative pedagogy and application of knowledge.<br><br>
@@ -69,11 +72,29 @@
 						4. To inculcate an integrated approach towards learning along with research orientation.<br>
 						5. To provide training in the area of mental, spiritual growth, sound health, good conduct and communication for students which shall be based on our values and ethics.
 					</p>
-                    <h3>Logo of the Department:</h3>
-					<div class="comp_logo">
-					<img src="images/pccoer-fe-deprt-logo.jpg" alt="PCCOER is best engineering college in Pune" class="pccoer-logo">
-                    </div>	
-					<h3><a href="pdf/COURSE-OUTCOMES.pdf" target="_blank" style="color:#005bab;"><u>COURSE OUTCOMES (COs)</u></a><a></a></h3>
+
+					<!-- <div class="accordian_main">
+						<button class="accordion">Section 1</button>
+						<div class="panel">
+							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+						</div>
+
+						<button class="accordion">Section 2</button>
+						<div class="panel">
+							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+						</div>
+
+						<button class="accordion">Section 3</button>
+						<div class="panel">
+							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+						</div>
+
+						<button class="accordion">Section 4</button>
+						<div class="panel">
+							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+						</div>
+					</div> -->
+					
 				</div>
 			</div>
 		</div>
@@ -84,6 +105,9 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
     <script src="../js/bootstrap.min.js"></script>
     <script src="../js/menu.js"></script>
+
+    <!-- my js -->
+	<script src="../js/applied-science.js"></script>
 	
   </body>
 </html>

@@ -48,7 +48,7 @@
 			<div class="row">
         <?php include 'applied-science-sidebar.php';?>
         <div class="Staff_0">
-          <p class="Staff_0"><a href="faculty.php" class="Staff_1">Teaching</a>  /  <a href="nonteach.php" class="Staff_1">Non Teaching</a></p>
+          <p class="Staff_0"><a href="faculty.php" class="Staff_1">Teaching</a>  /  <a href="nonteach.php" class="Staff_1">Non-Teaching</a></p>
         </div>
       <div class="col-md-16">
         <div class="col-md-4" id="faculty-card">

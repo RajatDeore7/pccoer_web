@@ -104,7 +104,7 @@ body {
 }
 
 .section-counter {
-	padding: 50px 0px 30px 0px;
+	padding: 50px 0px 40px 0px;
 	text-align: center;
 	background: linear-gradient(0deg, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(../images/counter-bg.png);
 	background-repeat: repeat, repeat;
@@ -366,7 +366,7 @@ figure:hover+span {
 	font-weight: 700;
 	font-size: 21px;
 	margin-bottom: 25px;
-	color: #fff;
+	color: #3b5999;
 }
 
 .section-footer p {
