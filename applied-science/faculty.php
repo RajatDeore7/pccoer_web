@@ -47,12 +47,17 @@
 		<div class="container">
 			<div class="row">
         <?php include 'applied-science-sidebar.php';?>
-
-        <div>
+        <div class="Staff_0">
+          <p class="Staff_0"><a href="faculty.php" class="Staff_1">Teaching</a>  /  <a href="nonteach.php" class="Staff_1">Non Teaching</a></p>
+        </div>
+      <div class="col-md-16">
+        <div class="col-md-4" id="faculty-card">
           <div class="flip-card">
             <div class="flip-card-inner">
               <div class="flip-card-front">
-                  <img src="images/Tushar Gaikwad.jpg" alt="faculty" height =100 width= 100 class="faculty_card">
+                <div class="faculty_img">
+                  <img src="images/Tushar Gaikwad.jpg" alt="faculty" height =150 width= 150 class="faculty_card">
+                </div>
                   <h1>faculty name</h1>
                   <h3>faculty name</h3>
                   <h3>faculty name</h3>
@@ -63,7 +68,237 @@
                 <p>We love that guy</p>
               </div>
             </div>
+          </div>
         </div>
+        <div class="col-md-4" id="faculty-card">
+          <div class="flip-card">
+            <div class="flip-card-inner">
+              <div class="flip-card-front">
+                <div class="faculty_img">
+                  <img src="images/Tushar Gaikwad.jpg" alt="faculty" height =150 width= 150 class="faculty_card">
+                </div>
+                  <h1>faculty name</h1>
+                  <h3>faculty name</h3>
+                  <h3>faculty name</h3>
+              </div>
+              <div class="flip-card-back">
+                <h1>John Doe</h1> 
+                <p>Architect & Engineer</p> 
+                <p>We love that guy</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4" id="faculty-card">
+          <div class="flip-card">
+            <div class="flip-card-inner">
+              <div class="flip-card-front">
+                <div class="faculty_img">
+                  <img src="images/Tushar Gaikwad.jpg" alt="faculty" height =150 width= 150 class="faculty_card">
+                </div>
+                  <h1>faculty name</h1>
+                  <h3>faculty name</h3>
+                  <h3>faculty name</h3>
+              </div>
+              <div class="flip-card-back">
+                <h1>John Doe</h1> 
+                <p>Architect & Engineer</p> 
+                <p>We love that guy</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4" id="faculty-card">
+          <div class="flip-card">
+            <div class="flip-card-inner">
+              <div class="flip-card-front">
+                <div class="faculty_img">
+                  <img src="images/Tushar Gaikwad.jpg" alt="faculty" height =150 width= 150 class="faculty_card">
+                </div>
+                  <h1>faculty name</h1>
+                  <h3>faculty name</h3>
+                  <h3>faculty name</h3>
+              </div>
+              <div class="flip-card-back">
+                <h1>John Doe</h1> 
+                <p>Architect & Engineer</p> 
+                <p>We love that guy</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4" id="faculty-card">
+          <div class="flip-card">
+            <div class="flip-card-inner">
+              <div class="flip-card-front">
+                <div class="faculty_img">
+                  <img src="images/Tushar Gaikwad.jpg" alt="faculty" height =150 width= 150 class="faculty_card">
+                </div>
+                  <h1>faculty name</h1>
+                  <h3>faculty name</h3>
+                  <h3>faculty name</h3>
+              </div>
+              <div class="flip-card-back">
+                <h1>John Doe</h1> 
+                <p>Architect & Engineer</p> 
+                <p>We love that guy</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4" id="faculty-card">
+          <div class="flip-card">
+            <div class="flip-card-inner">
+              <div class="flip-card-front">
+                <div class="faculty_img">
+                  <img src="images/Tushar Gaikwad.jpg" alt="faculty" height =150 width= 150 class="faculty_card">
+                </div>
+                  <h1>faculty name</h1>
+                  <h3>faculty name</h3>
+                  <h3>faculty name</h3>
+              </div>
+              <div class="flip-card-back">
+                <h1>John Doe</h1> 
+                <p>Architect & Engineer</p> 
+                <p>We love that guy</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4" id="faculty-card">
+          <div class="flip-card">
+            <div class="flip-card-inner">
+              <div class="flip-card-front">
+                <div class="faculty_img">
+                  <img src="images/Tushar Gaikwad.jpg" alt="faculty" height =150 width= 150 class="faculty_card">
+                </div>
+                  <h1>faculty name</h1>
+                  <h3>faculty name</h3>
+                  <h3>faculty name</h3>
+              </div>
+              <div class="flip-card-back">
+                <h1>John Doe</h1> 
+                <p>Architect & Engineer</p> 
+                <p>We love that guy</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4" id="faculty-card">
+          <div class="flip-card">
+            <div class="flip-card-inner">
+              <div class="flip-card-front">
+                <div class="faculty_img">
+                  <img src="images/Tushar Gaikwad.jpg" alt="faculty" height =150 width= 150 class="faculty_card">
+                </div>
+                  <h1>faculty name</h1>
+                  <h3>faculty name</h3>
+                  <h3>faculty name</h3>
+              </div>
+              <div class="flip-card-back">
+                <h1>John Doe</h1> 
+                <p>Architect & Engineer</p> 
+                <p>We love that guy</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4" id="faculty-card">
+          <div class="flip-card">
+            <div class="flip-card-inner">
+              <div class="flip-card-front">
+                <div class="faculty_img">
+                  <img src="images/Tushar Gaikwad.jpg" alt="faculty" height =150 width= 150 class="faculty_card">
+                </div>
+                  <h1>faculty name</h1>
+                  <h3>faculty name</h3>
+                  <h3>faculty name</h3>
+              </div>
+              <div class="flip-card-back">
+                <h1>John Doe</h1> 
+                <p>Architect & Engineer</p> 
+                <p>We love that guy</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4" id="faculty-card">
+          <div class="flip-card">
+            <div class="flip-card-inner">
+              <div class="flip-card-front">
+                <div class="faculty_img">
+                  <img src="images/Tushar Gaikwad.jpg" alt="faculty" height =150 width= 150 class="faculty_card">
+                </div>
+                  <h1>faculty name</h1>
+                  <h3>faculty name</h3>
+                  <h3>faculty name</h3>
+              </div>
+              <div class="flip-card-back">
+                <h1>John Doe</h1> 
+                <p>Architect & Engineer</p> 
+                <p>We love that guy</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4" id="faculty-card">
+          <div class="flip-card">
+            <div class="flip-card-inner">
+              <div class="flip-card-front">
+                <div class="faculty_img">
+                  <img src="images/Tushar Gaikwad.jpg" alt="faculty" height =150 width= 150 class="faculty_card">
+                </div>
+                  <h1>faculty name</h1>
+                  <h3>faculty name</h3>
+                  <h3>faculty name</h3>
+              </div>
+              <div class="flip-card-back">
+                <h1>John Doe</h1> 
+                <p>Architect & Engineer</p> 
+                <p>We love that guy</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4" id="faculty-card">
+          <div class="flip-card">
+            <div class="flip-card-inner">
+              <div class="flip-card-front">
+                <div class="faculty_img">
+                  <img src="images/Tushar Gaikwad.jpg" alt="faculty" height =150 width= 150 class="faculty_card">
+                </div>
+                  <h1>faculty name</h1>
+                  <h3>faculty name</h3>
+                  <h3>faculty name</h3>
+              </div>
+              <div class="flip-card-back">
+                <h1>John Doe</h1> 
+                <p>Architect & Engineer</p> 
+                <p>We love that guy</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4" id="faculty-card">
+          <div class="flip-card">
+            <div class="flip-card-inner">
+              <div class="flip-card-front">
+                <div class="faculty_img">
+                  <img src="images/Tushar Gaikwad.jpg" alt="faculty" height =150 width= 150 class="faculty_card">
+                </div>
+                  <h1>faculty name</h1>
+                  <h3>faculty name</h3>
+                  <h3>faculty name</h3>
+              </div>
+              <div class="flip-card-back">
+                <h1>John Doe</h1> 
+                <p>Architect & Engineer</p> 
+                <p>We love that guy</p>
+              </div>
+            </div>
+          </div>
+        </div>
+          
       </div>
 		</div>
 	</div>

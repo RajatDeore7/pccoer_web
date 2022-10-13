@@ -5,8 +5,8 @@
 /* faculty and staff */
 .flip-card {
     background-color: transparent;
-    width: 300px;
-    height: 300px;
+    width: 250px;
+    height: 320px;
     perspective: 1000px;
 }
 
@@ -41,4 +41,24 @@
     background-color: #2980b9;
     color: white;
     transform: rotateY(180deg);
+}
+
+div.faculty_img {
+    padding: 10px;
+}
+
+img.faculty_card {
+    border-radius: 50%;
+}
+
+#faculty-card {
+    padding-top: 10px;
+    width: 290px;
+    padding-bottom: 40px;
+}
+
+a.Staff_1 {
+    color: #2980b9;
+    text-decoration: none;
+    border-bottom: #bbb solid 2px;
 }
