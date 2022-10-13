@@ -52,7 +52,19 @@
                         <div class="wm-title-full">
                             <h2>Student's View</h2>
                         </div>
-						  	   
+						
+                        <div class="views">
+                            <h3>Shubhidiya Ghosh's experience with PCCOER</h3>
+                            <iframe width="560" height="315" src="https://www.youtube.com/embed/vSQK5Ym5kRY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+                        </div>
+                        <div class="views">
+                            <h3>PCET's PCCOER Student Talks | Jui Pangare | First Year Engineering, PCCOER</h3>
+                            <iframe width="560" height="315" src="https://www.youtube.com/embed/8jwNhtnbI6U"  frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+                        </div>
+                        <div class="views">
+                            <h3>PCET's PCCOER Student Talks | Sneha Pujari | First Year Engineering, PCCOER</h3>
+                            <iframe width="560" height="315" src="https://www.youtube.com/embed/ww1ohRTVEMQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+                        </div>
                 </div>
             </div>
 		</div>
