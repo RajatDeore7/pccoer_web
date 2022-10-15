@@ -78,12 +78,12 @@ div.infra_table {
 }
 
 .flip-card-front {
-    background-color: #00b6dd;
+    background-color: #EEEEEE;
     color: black;
 }
 
 .flip-card-back {
-    background-color: #00b6dd;
+    background-color: #EEEEEE;
     transform: rotateY(180deg);
 }
 
