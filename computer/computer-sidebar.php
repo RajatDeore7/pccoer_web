@@ -6,7 +6,7 @@
 			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href='computer.php'>About Department</a></li>
 			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href='hod-desk.php'>HOD Desk</a></li>
 			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href='faculty.php'>Faculty & Staff</a></li>
-			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href=''>Infrastruchure & Facilities</a></li>
+			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href='./pdf/Comp_Infrastructure_Details.pdf'>Infrastruchure & Facilities</a></li>
 			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href='research.php'>Research</a></li>
 			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href='download.php'>Downloads</a></li>
 			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href='pdf/FE_Achievement.pdf'>Achievements</a></li>
@@ -21,9 +21,10 @@
 			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href='e-magazine.php'>E-Magazine</a></li>
 			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href='pdf/Product-Developed-PBL-Yearwise.pdf'>Product Developed</a></li>
 			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href=''>Question Paper</a></li>
+			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href=''>GDSC</a></li>
 			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href=''>C-CUBE</a></li>
 			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href=''>Industry Interaction</a></li>
-			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href=''>ACM</a></li>
+			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href='http://pccoer.acm.org/'>ACM</a></li>
 			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href="http://pccoerfe.com/">Department Website</a></li>
 		</ul>
 	</div>

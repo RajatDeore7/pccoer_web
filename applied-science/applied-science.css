@@ -110,6 +110,35 @@ a.faculty_blog {
     padding: 30px 4px;
 }
 
+/* nonteach */
+.flip-card-inner_1 {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    transform-style: preserve-3d;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+p.faculty_nonteach_name {
+    font-size: 15px;
+    color: #3b5999;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+
+p.faculty_card_nonteach {
+    font-size: 13px;
+    padding: 0 0 0 7px;
+    margin: 0;
+}
+
+.fa-envelope {
+    padding: 10px 0;
+    font-size: 20px;
+}
+
 
 
 /* student-view */
