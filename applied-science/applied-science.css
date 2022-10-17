@@ -84,14 +84,7 @@ p.faculty_name {
 
 p.faculty_card_link {
     font-size: 15px;
-    padding: 0;
-    margin: 0;
-    text-align: center;
-}
-
-p.faculty_card_email {
-    font-size: 15px;
-    padding: 0;
+    padding: 0 0 0 7px;
     margin: 0;
 }
 

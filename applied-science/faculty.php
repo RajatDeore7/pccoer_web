@@ -69,11 +69,11 @@
                   </div>
                   <div class="flip-card-back">
                     <p class="faculty_name"><b>Mr. Gaikwad Tushar Balkrishna</b></p>
-                    <p class="faculty_card_link"><b>Qualification: </b>M.Sc.(Chemistry)- .(NET)</p>
-                    <p class="faculty_card_link"><b>Experience: </b> <b>Teaching:</b> 14 Year,<br><b>Industry:</b>0.5 yr,<br><b>Research:</b>1 Yr</p>
-                    <p class="faculty_card_email"><b>Email-Id:</b> tushar.gaikwad@pccoer.in</p>
+                    <p class="faculty_card_link"><b>Qualification: </b>M.Sc (Chemistry) - .(NET)</p>
+                    <p class="faculty_card_link"><b>Experience: </b> <b>Teaching :</b> 14 Years,<br><b>Industry :</b> 0.5 yr,<br><b>Research :</b> 1 Yr</p>
+                    <p class="faculty_card_link"><b>Email-Id:</b> tushar.gaikwad@pccoer.in</p>
                     <a href="https://tushargaikwad1382.blogspot.com/" class="faculty_blog"><i class="fa-solid fa-blog"></i></a>
-                    <a href="https://pccoer.com/applied-science/pdf/view-profile/TBG-converted.pdf" class="faculty_blog"><i class="fa-solid fa-user"></i></a>
+                    <a href="./pdf/view-profile/TBG-converted.pdf" class="faculty_blog"><i class="fa-solid fa-user"></i></a>
                     <a href="https://www.youtube.com/user/12345652162" class="faculty_blog"><i class="fa-brands fa-youtube"></i></a>
                   </div>
                 </div>
@@ -84,19 +84,19 @@
                 <div class="flip-card-inner">
                   <div class="flip-card-front">
                     <div class="faculty_img">
-                      <img src="images/faculty_teaching/tushar.png" alt="faculty" height=150 width=150 class="faculty_card">
+                      <img src="images/faculty_teaching/sonali.png" alt="faculty" height=150 width=150 class="faculty_card">
                     </div>
-                    <p class="faculty_name"><b>Mr. Gaikwad Tushar Balkrishna</b></p>
-                    <p class="faculty_card_link"><b>Designation: </b>Head Of First Year Engineering Department And Asst. Professor</p>
+                    <p class="faculty_name"><b>Mrs. Sonali Kedar Kanase</b></p>
+                    <p class="faculty_card_link"><b>Designation: </b>Assistant Professor</p>
                   </div>
                   <div class="flip-card-back">
-                    <p class="faculty_name"><b>Mr. Gaikwad Tushar Balkrishna</b></p>
-                    <p class="faculty_card_link"><b>Qualification: </b>M.Sc.(Chemistry)- .(NET)</p>
-                    <p class="faculty_card_link"><b>Experience: </b> <b>Teaching:</b> 14 Year,<br><b>Industry:</b>0.5 yr,<br><b>Research:</b>1 Yr</p>
-                    <p class="faculty_card_email"><b>Email-Id:</b> tushar.gaikwad@pccoer.in</p>
-                    <a href="https://tushargaikwad1382.blogspot.com/" class="faculty_blog"><i class="fa-solid fa-blog"></i></a>
-                    <a href="https://pccoer.com/applied-science/pdf/view-profile/TBG-converted.pdf" class="faculty_blog"><i class="fa-solid fa-user"></i></a>
-                    <a href="https://www.youtube.com/user/12345652162" class="faculty_blog"><i class="fa-brands fa-youtube"></i></a>
+                    <p class="faculty_name"><b>Mrs. Sonali Kedar Kanase</b></p>
+                    <p class="faculty_card_link"><b>Qualification: </b>ME Electrical - Power Systems</p>
+                    <p class="faculty_card_link"><b>Experience: </b> <b>Teaching:</b> 18 Years</p>
+                    <p class="faculty_card_link"><b>Email-Id:</b> sonali.kanase@pccoer.in</p>
+                    <a href="https://sonalikanase.blogspot.com/" class="faculty_blog"><i class="fa-solid fa-blog"></i></a>
+                    <!-- <a href="https://pccoer.com/applied-science/pdf/view-profile/TBG-converted.pdf" class="faculty_blog"><i class="fa-solid fa-user"></i></a> -->
+                    <a href="https://www.youtube.com/channel/UCJwIzzrkN3C5-qBmL0fTLfQ" class="faculty_blog"><i class="fa-brands fa-youtube"></i></a>
                   </div>
                 </div>
               </div>
@@ -106,88 +106,19 @@
                 <div class="flip-card-inner">
                   <div class="flip-card-front">
                     <div class="faculty_img">
-                      <img src="images/faculty_teaching/tushar.png" alt="faculty" height=150 width=150 class="faculty_card">
+                      <img src="images/faculty_teaching/rupesh.png" alt="faculty" height=150 width=150 class="faculty_card">
                     </div>
-                    <p class="faculty_name"><b>Mr. Gaikwad Tushar Balkrishna</b></p>
-                    <p class="faculty_card_link"><b>Designation: </b>Head Of First Year Engineering Department And Asst. Professor</p>
+                    <p class="faculty_name"><b>Dr. Rupesh Kumar Nilkanth Patil</b></p>
+                    <p class="faculty_card_link"><b>Designation: </b>Assistant Professor</p>
                   </div>
                   <div class="flip-card-back">
-                    <p class="faculty_name"><b>Mr. Gaikwad Tushar Balkrishna</b></p>
-                    <p class="faculty_card_link"><b>Qualification: </b>M.Sc.(Chemistry)- .(NET)</p>
-                    <p class="faculty_card_link"><b>Experience: </b> <b>Teaching:</b> 14 Year,<br><b>Industry:</b>0.5 yr,<br><b>Research:</b>1 Yr</p>
-                    <p class="faculty_card_email"><b>Email-Id:</b> tushar.gaikwad@pccoer.in</p>
-                    <a href="https://tushargaikwad1382.blogspot.com/" class="faculty_blog"><i class="fa-solid fa-blog"></i></a>
-                    <a href="https://pccoer.com/applied-science/pdf/view-profile/TBG-converted.pdf" class="faculty_blog"><i class="fa-solid fa-user"></i></a>
-                    <a href="https://www.youtube.com/user/12345652162" class="faculty_blog"><i class="fa-brands fa-youtube"></i></a>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="row">
-            <div class="col-md-3" id="faculty-card">
-              <div class="flip-card">
-                <div class="flip-card-inner">
-                  <div class="flip-card-front">
-                    <div class="faculty_img">
-                      <img src="images/faculty_teaching/tushar.png" alt="faculty" height=150 width=150 class="faculty_card">
-                    </div>
-                    <p class="faculty_name"><b>Mr. Gaikwad Tushar Balkrishna</b></p>
-                    <p class="faculty_card_link"><b>Designation: </b>Head Of First Year Engineering Department And Asst. Professor</p>
-                  </div>
-                  <div class="flip-card-back">
-                    <p class="faculty_name"><b>Mr. Gaikwad Tushar Balkrishna</b></p>
-                    <p class="faculty_card_link"><b>Qualification: </b>M.Sc.(Chemistry)- .(NET)</p>
-                    <p class="faculty_card_link"><b>Experience: </b> <b>Teaching:</b> 14 Year,<br><b>Industry:</b>0.5 yr,<br><b>Research:</b>1 Yr</p>
-                    <p class="faculty_card_email"><b>Email-Id:</b> tushar.gaikwad@pccoer.in</p>
-                    <a href="https://tushargaikwad1382.blogspot.com/" class="faculty_blog"><i class="fa-solid fa-blog"></i></a>
-                    <a href="https://pccoer.com/applied-science/pdf/view-profile/TBG-converted.pdf" class="faculty_blog"><i class="fa-solid fa-user"></i></a>
-                    <a href="https://www.youtube.com/user/12345652162" class="faculty_blog"><i class="fa-brands fa-youtube"></i></a>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="col-md-3" id="faculty-card">
-              <div class="flip-card">
-                <div class="flip-card-inner">
-                  <div class="flip-card-front">
-                    <div class="faculty_img">
-                      <img src="images/faculty_teaching/tushar.png" alt="faculty" height=150 width=150 class="faculty_card">
-                    </div>
-                    <p class="faculty_name"><b>Mr. Gaikwad Tushar Balkrishna</b></p>
-                    <p class="faculty_card_link"><b>Designation: </b>Head Of First Year Engineering Department And Asst. Professor</p>
-                  </div>
-                  <div class="flip-card-back">
-                    <p class="faculty_name"><b>Mr. Gaikwad Tushar Balkrishna</b></p>
-                    <p class="faculty_card_link"><b>Qualification: </b>M.Sc.(Chemistry)- .(NET)</p>
-                    <p class="faculty_card_link"><b>Experience: </b> <b>Teaching:</b> 14 Year,<br><b>Industry:</b>0.5 yr,<br><b>Research:</b>1 Yr</p>
-                    <p class="faculty_card_email"><b>Email-Id:</b> tushar.gaikwad@pccoer.in</p>
-                    <a href="https://tushargaikwad1382.blogspot.com/" class="faculty_blog"><i class="fa-solid fa-blog"></i></a>
-                    <a href="https://pccoer.com/applied-science/pdf/view-profile/TBG-converted.pdf" class="faculty_blog"><i class="fa-solid fa-user"></i></a>
-                    <a href="https://www.youtube.com/user/12345652162" class="faculty_blog"><i class="fa-brands fa-youtube"></i></a>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="col-md-3" id="faculty-card">
-              <div class="flip-card">
-                <div class="flip-card-inner">
-                  <div class="flip-card-front">
-                    <div class="faculty_img">
-                      <img src="images/faculty_teaching/tushar.png" alt="faculty" height=150 width=150 class="faculty_card">
-                    </div>
-                    <p class="faculty_name"><b>Mr. Gaikwad Tushar Balkrishna</b></p>
-                    <p class="faculty_card_link"><b>Designation: </b>Head Of First Year Engineering Department And Asst. Professor</p>
-                  </div>
-                  <div class="flip-card-back">
-                    <p class="faculty_name"><b>Mr. Gaikwad Tushar Balkrishna</b></p>
-                    <p class="faculty_card_link"><b>Qualification: </b>M.Sc.(Chemistry)- .(NET)</p>
-                    <p class="faculty_card_link"><b>Experience: </b> <b>Teaching:</b> 14 Year,<br><b>Industry:</b>0.5 yr,<br><b>Research:</b>1 Yr</p>
-                    <p class="faculty_card_email"><b>Email-Id:</b> tushar.gaikwad@pccoer.in</p>
-                    <a href="https://tushargaikwad1382.blogspot.com/" class="faculty_blog"><i class="fa-solid fa-blog"></i></a>
-                    <a href="https://pccoer.com/applied-science/pdf/view-profile/TBG-converted.pdf" class="faculty_blog"><i class="fa-solid fa-user"></i></a>
-                    <a href="https://www.youtube.com/user/12345652162" class="faculty_blog"><i class="fa-brands fa-youtube"></i></a>
+                    <p class="faculty_name"><b>Dr. Rupesh Kumar Nilkanth Patil</b></p>
+                    <p class="faculty_card_link"><b>Qualification: </b> M.SC.(Chemistry), Ph.D</p>
+                    <p class="faculty_card_link"><b>Experience: </b> <b>Teaching:</b> 20.2 Years</p>
+                    <p class="faculty_card_link"><b>Email-Id:</b> rupeshkumar.patil@pccoer.in</p>
+                    <a href="https://sites.google.com/pccoer.in/drrupeshkumarnilkanthpatil/home" class="faculty_blog"><i class="fa-solid fa-blog"></i></a>
+                    <a href="./pdf/view-profile/RNP-converted.pdf" class="faculty_blog"><i class="fa-solid fa-user"></i></a>
+                    <a href="https://sites.google.com/pccoer.in/drrupeshkumarnilkanthpatil/home" class="faculty_blog"><i class="fa-brands fa-youtube"></i></a>
                   </div>
                 </div>
               </div>
@@ -200,19 +131,88 @@
                 <div class="flip-card-inner">
                   <div class="flip-card-front">
                     <div class="faculty_img">
-                      <img src="images/faculty_teaching/tushar.png" alt="faculty" height=150 width=150 class="faculty_card">
+                      <img src="images/faculty_teaching/manisha.png" alt="faculty" height=150 width=150 class="faculty_card">
                     </div>
-                    <p class="faculty_name"><b>Mr. Gaikwad Tushar Balkrishna</b></p>
-                    <p class="faculty_card_link"><b>Designation: </b>Head Of First Year Engineering Department And Asst. Professor</p>
+                    <p class="faculty_name"><b>Mrs. Manisha Hemant Despande</b></p>
+                    <p class="faculty_card_link"><b>Designation: </b>Assistant Professor</p>
                   </div>
                   <div class="flip-card-back">
-                    <p class="faculty_name"><b>Mr. Gaikwad Tushar Balkrishna</b></p>
-                    <p class="faculty_card_link"><b>Qualification: </b>M.Sc.(Chemistry)- .(NET)</p>
-                    <p class="faculty_card_link"><b>Experience: </b> <b>Teaching:</b> 14 Year,<br><b>Industry:</b>0.5 yr,<br><b>Research:</b>1 Yr</p>
-                    <p class="faculty_card_email"><b>Email-Id:</b> tushar.gaikwad@pccoer.in</p>
-                    <a href="https://tushargaikwad1382.blogspot.com/" class="faculty_blog"><i class="fa-solid fa-blog"></i></a>
-                    <a href="https://pccoer.com/applied-science/pdf/view-profile/TBG-converted.pdf" class="faculty_blog"><i class="fa-solid fa-user"></i></a>
-                    <a href="https://www.youtube.com/user/12345652162" class="faculty_blog"><i class="fa-brands fa-youtube"></i></a>
+                    <p class="faculty_name"><b>Mrs. Manisha Hemant Despande</b></p>
+                    <p class="faculty_card_link"><b>Qualification: </b>M.Sc.Mathematics (NET AIR38)</p>
+                    <p class="faculty_card_link"><b>Experience: </b> <b>Teaching:</b> 17 Years</p>
+                    <p class="faculty_card_link"><b>Email-Id:</b> manisha.deshpande@pccoer.in</p>
+                    <a href="https://manishadeshpandepassion.blogspot.com/" class="faculty_blog"><i class="fa-solid fa-blog"></i></a>
+                    <a href="./pdf/view-profile/manisha Deshpande-converted.pdf" class="faculty_blog"><i class="fa-solid fa-user"></i></a>
+                    <a href="https://www.youtube.com/channel/UCqanpdstUmraE80JHYgLzgA" class="faculty_blog"><i class="fa-brands fa-youtube"></i></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-3" id="faculty-card">
+              <div class="flip-card">
+                <div class="flip-card-inner">
+                  <div class="flip-card-front">
+                    <div class="faculty_img">
+                      <img src="images/faculty_teaching/shital.png" alt="faculty" height=150 width=150 class="faculty_card">
+                    </div>
+                    <p class="faculty_name"><b>Mr Shital Anant Patil</b></p>
+                    <p class="faculty_card_link"><b>Designation: </b>Assistant Professor</p>
+                  </div>
+                  <div class="flip-card-back">
+                    <p class="faculty_name"><b>Mr Shital Anant Patil</b></p>
+                    <p class="faculty_card_link"><b>Qualification: </b>M.Sc(Mathematics)NET qualified</p>
+                    <p class="faculty_card_link"><b>Experience: </b> <b>Teaching:</b> 15 Years</p>
+                    <p class="faculty_card_link"><b>Email-Id:</b> shital.patil@pccoer.in</p>
+                    <a href="https://shitalpatilmathematics.blogspot.com/" class="faculty_blog"><i class="fa-solid fa-blog"></i></a>
+                    <a href="./pdf/view-profile/Faculty Profile of S A Patil.pdf" class="faculty_blog"><i class="fa-solid fa-user"></i></a>
+                    <a href="https://www.youtube.com/channel/UC7Qx2vzroTE7JxASKPzCLlA" class="faculty_blog"><i class="fa-brands fa-youtube"></i></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-3" id="faculty-card">
+              <div class="flip-card">
+                <div class="flip-card-inner">
+                  <div class="flip-card-front">
+                    <div class="faculty_img">
+                      <img src="images/faculty_teaching/maheshmadhukar.png" alt="faculty" height=150 width=150 class="faculty_card">
+                    </div>
+                    <p class="faculty_name"><b>Mr. Mahesh Madhukar Sarada</b></p>
+                    <p class="faculty_card_link"><b>Designation: </b>Assistant Professor</p>
+                  </div>
+                  <div class="flip-card-back">
+                    <p class="faculty_name"><b>Mr. Mahesh Madhukar Sarada</b></p>
+                    <p class="faculty_card_link"><b>Qualification: </b>M.Tech(Mathematics)</p>
+                    <p class="faculty_card_link"><b>Experience: </b> <b>Teaching:</b> 11 Years</p>
+                    <p class="faculty_card_link"><b>Email-Id:</b> mahesh.sarada@gmail.com</p>
+                    <a href="https://maheshsarada.blogspot.com/" class="faculty_blog"><i class="fa-solid fa-blog"></i></a>
+                    <a href="./pdf/view-profile/Faculty Profile MMS.pdf" class="faculty_blog"><i class="fa-solid fa-user"></i></a>
+                    <a href="https://www.youtube.com/channel/UCJM4GloozmlCT0rTMKnj_2g" class="faculty_blog"><i class="fa-brands fa-youtube"></i></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="row">
+            <div class="col-md-3" id="faculty-card">
+              <div class="flip-card">
+                <div class="flip-card-inner">
+                  <div class="flip-card-front">
+                    <div class="faculty_img">
+                      <img src="images/faculty_teaching/priya.png" alt="faculty" height=150 width=150 class="faculty_card">
+                    </div>
+                    <p class="faculty_name"><b>Mrs. Priya Balkrishna Oghe</b></p>
+                    <p class="faculty_card_link"><b>Designation: </b>Assistant Professor</p>
+                  </div>
+                  <div class="flip-card-back">
+                    <p class="faculty_name"><b>Mrs. Priya Balkrishna Oghe</b></p>
+                    <p class="faculty_card_link"><b>Qualification: </b>M.Sc. Physics, B. Ed.( Maths & Physics)</p>
+                    <p class="faculty_card_link"><b>Experience: </b> <b>Teaching:</b> 12 Years</p>
+                    <p class="faculty_card_link"><b>Email-Id:</b> priya.oghe@pccoer.in</p>
+                    <a href="https://priyaoghephysics.blogspot.com/" class="faculty_blog"><i class="fa-solid fa-blog"></i></a>
+                    <a href="./pdf/view-profile/Faculty Profile format_PBO-converted.pdf" class="faculty_blog"><i class="fa-solid fa-user"></i></a>
+                    <a href="https://www.youtube.com/channel/UCI00n_SE6wlaOKDLG1eROeA" class="faculty_blog"><i class="fa-brands fa-youtube"></i></a>
                   </div>
                 </div>
               </div>
@@ -224,17 +224,17 @@
                     <div class="faculty_img">
                       <img src="images/faculty_teaching/tushar.png" alt="faculty" height=150 width=150 class="faculty_card">
                     </div>
-                    <p class="faculty_name"><b>Mr. Gaikwad Tushar Balkrishna</b></p>
-                    <p class="faculty_card_link"><b>Designation: </b>Head Of First Year Engineering Department And Asst. Professor</p>
+                    <p class="faculty_name"><b>Mrs. Shrivastava Deepshikha</b></p>
+                    <p class="faculty_card_link"><b>Designation: </b>Assistant Professor</p>
                   </div>
                   <div class="flip-card-back">
-                    <p class="faculty_name"><b>Mr. Gaikwad Tushar Balkrishna</b></p>
-                    <p class="faculty_card_link"><b>Qualification: </b>M.Sc.(Chemistry)- .(NET)</p>
-                    <p class="faculty_card_link"><b>Experience: </b> <b>Teaching:</b> 14 Year,<br><b>Industry:</b>0.5 yr,<br><b>Research:</b>1 Yr</p>
-                    <p class="faculty_card_email"><b>Email-Id:</b> tushar.gaikwad@pccoer.in</p>
-                    <a href="https://tushargaikwad1382.blogspot.com/" class="faculty_blog"><i class="fa-solid fa-blog"></i></a>
-                    <a href="https://pccoer.com/applied-science/pdf/view-profile/TBG-converted.pdf" class="faculty_blog"><i class="fa-solid fa-user"></i></a>
-                    <a href="https://www.youtube.com/user/12345652162" class="faculty_blog"><i class="fa-brands fa-youtube"></i></a>
+                    <p class="faculty_name"><b>Mrs. Shrivastava Deepshikha</b></p>
+                    <p class="faculty_card_link"><b>Qualification: </b>M.Tech (Control System)</p>
+                    <p class="faculty_card_link"><b>Experience: </b> <b>Teaching:</b> 8 Years</p>
+                    <p class="faculty_card_link"><b>Email-Id:</b> deepshikha.shrivastava@pccoer.in</p>
+                    <a href="https://shrivastavadeepshikha.blogspot.com/" class="faculty_blog"><i class="fa-solid fa-blog"></i></a>
+                    <a href="./pdf/view-profile/Deepshikha Shrivastava-converted.pdf" class="faculty_blog"><i class="fa-solid fa-user"></i></a>
+                    <a href="https://www.youtube.com/channel/UCFfJiIixTj0Amgy44nBZSOA" class="faculty_blog"><i class="fa-brands fa-youtube"></i></a>
                   </div>
                 </div>
               </div>
@@ -246,16 +246,16 @@
                     <div class="faculty_img">
                       <img src="images/faculty_teaching/tushar.png" alt="faculty" height=150 width=150 class="faculty_card">
                     </div>
-                    <p class="faculty_name"><b>Mr. Gaikwad Tushar Balkrishna</b></p>
-                    <p class="faculty_card_link"><b>Designation: </b>Head Of First Year Engineering Department And Asst. Professor</p>
+                    <p class="faculty_name"><b>Mr. Sandeep S. Borgaonkar</b></p>
+                    <p class="faculty_card_link"><b>Designation: </b>Assistant Professor</p>
                   </div>
                   <div class="flip-card-back">
-                    <p class="faculty_name"><b>Mr. Gaikwad Tushar Balkrishna</b></p>
-                    <p class="faculty_card_link"><b>Qualification: </b>M.Sc.(Chemistry)- .(NET)</p>
-                    <p class="faculty_card_link"><b>Experience: </b> <b>Teaching:</b> 14 Year,<br><b>Industry:</b>0.5 yr,<br><b>Research:</b>1 Yr</p>
-                    <p class="faculty_card_email"><b>Email-Id:</b> tushar.gaikwad@pccoer.in</p>
+                    <p class="faculty_name"><b>Mr. Sandeep S. Borgaonkar</b></p>
+                    <p class="faculty_card_link"><b>Qualification: </b>M.Sc. (Physics) NET</p>
+                    <p class="faculty_card_link"><b>Experience: </b> <b>Teaching:</b> 9 Years</p>
+                    <p class="faculty_card_link"><b>Email-Id:</b> sandeep.borgaonkar@pccoer.in</p>
                     <a href="https://tushargaikwad1382.blogspot.com/" class="faculty_blog"><i class="fa-solid fa-blog"></i></a>
-                    <a href="https://pccoer.com/applied-science/pdf/view-profile/TBG-converted.pdf" class="faculty_blog"><i class="fa-solid fa-user"></i></a>
+                    <a href="./pdf/view-profile/Faculty Profile format_PBO-converted.pdf" class="faculty_blog"><i class="fa-solid fa-user"></i></a>
                     <a href="https://www.youtube.com/user/12345652162" class="faculty_blog"><i class="fa-brands fa-youtube"></i></a>
                   </div>
                 </div>
@@ -272,15 +272,15 @@
                       <img src="images/faculty_teaching/tushar.png" alt="faculty" height=150 width=150 class="faculty_card">
                     </div>
                     <p class="faculty_name"><b>Mr. Gaikwad Tushar Balkrishna</b></p>
-                    <p class="faculty_card_link"><b>Designation: </b>Head Of First Year Engineering Department And Asst. Professor</p>
+                    <p class="faculty_card_link"><b>Designation: </b>Assistant Professor</p>
                   </div>
                   <div class="flip-card-back">
                     <p class="faculty_name"><b>Mr. Gaikwad Tushar Balkrishna</b></p>
                     <p class="faculty_card_link"><b>Qualification: </b>M.Sc.(Chemistry)- .(NET)</p>
                     <p class="faculty_card_link"><b>Experience: </b> <b>Teaching:</b> 14 Year,<br><b>Industry:</b>0.5 yr,<br><b>Research:</b>1 Yr</p>
-                    <p class="faculty_card_email"><b>Email-Id:</b> tushar.gaikwad@pccoer.in</p>
+                    <p class="faculty_card_link"><b>Email-Id:</b> tushar.gaikwad@pccoer.in</p>
                     <a href="https://tushargaikwad1382.blogspot.com/" class="faculty_blog"><i class="fa-solid fa-blog"></i></a>
-                    <a href="https://pccoer.com/applied-science/pdf/view-profile/TBG-converted.pdf" class="faculty_blog"><i class="fa-solid fa-user"></i></a>
+                    <a href="./pdf/view-profile/Faculty Profile format_PBO-converted.pdf" class="faculty_blog"><i class="fa-solid fa-user"></i></a>
                     <a href="https://www.youtube.com/user/12345652162" class="faculty_blog"><i class="fa-brands fa-youtube"></i></a>
                   </div>
                 </div>
@@ -294,15 +294,15 @@
                       <img src="images/faculty_teaching/tushar.png" alt="faculty" height=150 width=150 class="faculty_card">
                     </div>
                     <p class="faculty_name"><b>Mr. Gaikwad Tushar Balkrishna</b></p>
-                    <p class="faculty_card_link"><b>Designation: </b>Head Of First Year Engineering Department And Asst. Professor</p>
+                    <p class="faculty_card_link"><b>Designation: </b>Assistant Professor</p>
                   </div>
                   <div class="flip-card-back">
                     <p class="faculty_name"><b>Mr. Gaikwad Tushar Balkrishna</b></p>
                     <p class="faculty_card_link"><b>Qualification: </b>M.Sc.(Chemistry)- .(NET)</p>
                     <p class="faculty_card_link"><b>Experience: </b> <b>Teaching:</b> 14 Year,<br><b>Industry:</b>0.5 yr,<br><b>Research:</b>1 Yr</p>
-                    <p class="faculty_card_email"><b>Email-Id:</b> tushar.gaikwad@pccoer.in</p>
+                    <p class="faculty_card_link"><b>Email-Id:</b> tushar.gaikwad@pccoer.in</p>
                     <a href="https://tushargaikwad1382.blogspot.com/" class="faculty_blog"><i class="fa-solid fa-blog"></i></a>
-                    <a href="https://pccoer.com/applied-science/pdf/view-profile/TBG-converted.pdf" class="faculty_blog"><i class="fa-solid fa-user"></i></a>
+                    <a href="./pdf/view-profile/Faculty Profile format_PBO-converted.pdf" class="faculty_blog"><i class="fa-solid fa-user"></i></a>
                     <a href="https://www.youtube.com/user/12345652162" class="faculty_blog"><i class="fa-brands fa-youtube"></i></a>
                   </div>
                 </div>
@@ -316,15 +316,15 @@
                       <img src="images/faculty_teaching/tushar.png" alt="faculty" height=150 width=150 class="faculty_card">
                     </div>
                     <p class="faculty_name"><b>Mr. Gaikwad Tushar Balkrishna</b></p>
-                    <p class="faculty_card_link"><b>Designation: </b>Head Of First Year Engineering Department And Asst. Professor</p>
+                    <p class="faculty_card_link"><b>Designation: </b>Assistant Professor</p>
                   </div>
                   <div class="flip-card-back">
                     <p class="faculty_name"><b>Mr. Gaikwad Tushar Balkrishna</b></p>
                     <p class="faculty_card_link"><b>Qualification: </b>M.Sc.(Chemistry)- .(NET)</p>
                     <p class="faculty_card_link"><b>Experience: </b> <b>Teaching:</b> 14 Year,<br><b>Industry:</b>0.5 yr,<br><b>Research:</b>1 Yr</p>
-                    <p class="faculty_card_email"><b>Email-Id:</b> tushar.gaikwad@pccoer.in</p>
+                    <p class="faculty_card_link"><b>Email-Id:</b> tushar.gaikwad@pccoer.in</p>
                     <a href="https://tushargaikwad1382.blogspot.com/" class="faculty_blog"><i class="fa-solid fa-blog"></i></a>
-                    <a href="https://pccoer.com/applied-science/pdf/view-profile/TBG-converted.pdf" class="faculty_blog"><i class="fa-solid fa-user"></i></a>
+                    <a href="./pdf/view-profile/Faculty Profile format_PBO-converted.pdf" class="faculty_blog"><i class="fa-solid fa-user"></i></a>
                     <a href="https://www.youtube.com/user/12345652162" class="faculty_blog"><i class="fa-brands fa-youtube"></i></a>
                   </div>
                 </div>
@@ -341,15 +341,15 @@
                       <img src="images/faculty_teaching/tushar.png" alt="faculty" height=150 width=150 class="faculty_card">
                     </div>
                     <p class="faculty_name"><b>Mr. Gaikwad Tushar Balkrishna</b></p>
-                    <p class="faculty_card_link"><b>Designation: </b>Head Of First Year Engineering Department And Asst. Professor</p>
+                    <p class="faculty_card_link"><b>Designation: </b>Assistant Professor</p>
                   </div>
                   <div class="flip-card-back">
                     <p class="faculty_name"><b>Mr. Gaikwad Tushar Balkrishna</b></p>
                     <p class="faculty_card_link"><b>Qualification: </b>M.Sc.(Chemistry)- .(NET)</p>
                     <p class="faculty_card_link"><b>Experience: </b> <b>Teaching:</b> 14 Year,<br><b>Industry:</b>0.5 yr,<br><b>Research:</b>1 Yr</p>
-                    <p class="faculty_card_email"><b>Email-Id:</b> tushar.gaikwad@pccoer.in</p>
+                    <p class="faculty_card_link"><b>Email-Id:</b> tushar.gaikwad@pccoer.in</p>
                     <a href="https://tushargaikwad1382.blogspot.com/" class="faculty_blog"><i class="fa-solid fa-blog"></i></a>
-                    <a href="https://pccoer.com/applied-science/pdf/view-profile/TBG-converted.pdf" class="faculty_blog"><i class="fa-solid fa-user"></i></a>
+                    <a href="./pdf/view-profile/Faculty Profile format_PBO-converted.pdf" class="faculty_blog"><i class="fa-solid fa-user"></i></a>
                     <a href="https://www.youtube.com/user/12345652162" class="faculty_blog"><i class="fa-brands fa-youtube"></i></a>
                   </div>
                 </div>
