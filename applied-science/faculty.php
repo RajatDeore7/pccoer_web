@@ -222,7 +222,7 @@
                 <div class="flip-card-inner">
                   <div class="flip-card-front">
                     <div class="faculty_img">
-                      <img src="images/faculty_teaching/tushar.png" alt="faculty" height=150 width=150 class="faculty_card">
+                      <img src="images/faculty_teaching/deepiksha.png" alt="faculty" height=150 width=150 class="faculty_card">
                     </div>
                     <p class="faculty_name"><b>Mrs. Shrivastava Deepshikha</b></p>
                     <p class="faculty_card_link"><b>Designation: </b>Assistant Professor</p>
@@ -244,7 +244,7 @@
                 <div class="flip-card-inner">
                   <div class="flip-card-front">
                     <div class="faculty_img">
-                      <img src="images/faculty_teaching/tushar.png" alt="faculty" height=150 width=150 class="faculty_card">
+                      <img src="images/faculty_teaching/sandeep.png" alt="faculty" height=150 width=150 class="faculty_card">
                     </div>
                     <p class="faculty_name"><b>Mr. Sandeep S. Borgaonkar</b></p>
                     <p class="faculty_card_link"><b>Designation: </b>Assistant Professor</p>
@@ -269,19 +269,19 @@
                 <div class="flip-card-inner">
                   <div class="flip-card-front">
                     <div class="faculty_img">
-                      <img src="images/faculty_teaching/tushar.png" alt="faculty" height=150 width=150 class="faculty_card">
+                      <img src="images/faculty_teaching/sachin.png" alt="faculty" height=150 width=150 class="faculty_card">
                     </div>
-                    <p class="faculty_name"><b>Mr. Gaikwad Tushar Balkrishna</b></p>
+                    <p class="faculty_name"><b>Mr. Sachin Laxman Varpe</b></p>
                     <p class="faculty_card_link"><b>Designation: </b>Assistant Professor</p>
                   </div>
                   <div class="flip-card-back">
-                    <p class="faculty_name"><b>Mr. Gaikwad Tushar Balkrishna</b></p>
-                    <p class="faculty_card_link"><b>Qualification: </b>M.Sc.(Chemistry)- .(NET)</p>
-                    <p class="faculty_card_link"><b>Experience: </b> <b>Teaching:</b> 14 Year,<br><b>Industry:</b>0.5 yr,<br><b>Research:</b>1 Yr</p>
-                    <p class="faculty_card_link"><b>Email-Id:</b> tushar.gaikwad@pccoer.in</p>
-                    <a href="https://tushargaikwad1382.blogspot.com/" class="faculty_blog"><i class="fa-solid fa-blog"></i></a>
-                    <a href="./pdf/view-profile/Faculty Profile format_PBO-converted.pdf" class="faculty_blog"><i class="fa-solid fa-user"></i></a>
-                    <a href="https://www.youtube.com/user/12345652162" class="faculty_blog"><i class="fa-brands fa-youtube"></i></a>
+                    <p class="faculty_name"><b>Mr. Sachin Laxman Varpe</b></p>
+                    <p class="faculty_card_link"><b>Qualification: </b> M.Sc.BEd.(Maths)</p>
+                    <p class="faculty_card_link"><b>Experience: </b> <b>Teaching:</b> 11 Years</p>
+                    <p class="faculty_card_link"><b>Email-Id:</b> sachin.varpe@pccoer.in</p>
+                    <a href=" https://varpesachin.blogspot.com/" class="faculty_blog"><i class="fa-solid fa-blog"></i></a>
+                    <a href="./pdf/view-profile/Faculty Profile format SLV-converted.pdf" class="faculty_blog"><i class="fa-solid fa-user"></i></a>
+                    <a href="https://www.youtube.com/channel/UC0pkPFqnLAhvJmnxizp6rLw" class="faculty_blog"><i class="fa-brands fa-youtube"></i></a>
                   </div>
                 </div>
               </div>
@@ -291,19 +291,19 @@
                 <div class="flip-card-inner">
                   <div class="flip-card-front">
                     <div class="faculty_img">
-                      <img src="images/faculty_teaching/tushar.png" alt="faculty" height=150 width=150 class="faculty_card">
+                      <img src="images/faculty_teaching/jyothi-pai.jpg" alt="faculty" height=150 width=150 class="faculty_card">
                     </div>
-                    <p class="faculty_name"><b>Mr. Gaikwad Tushar Balkrishna</b></p>
+                    <p class="faculty_name"><b>Dr. Jyothi Ramesh Pai</b></p>
                     <p class="faculty_card_link"><b>Designation: </b>Assistant Professor</p>
                   </div>
                   <div class="flip-card-back">
-                    <p class="faculty_name"><b>Mr. Gaikwad Tushar Balkrishna</b></p>
-                    <p class="faculty_card_link"><b>Qualification: </b>M.Sc.(Chemistry)- .(NET)</p>
-                    <p class="faculty_card_link"><b>Experience: </b> <b>Teaching:</b> 14 Year,<br><b>Industry:</b>0.5 yr,<br><b>Research:</b>1 Yr</p>
-                    <p class="faculty_card_link"><b>Email-Id:</b> tushar.gaikwad@pccoer.in</p>
-                    <a href="https://tushargaikwad1382.blogspot.com/" class="faculty_blog"><i class="fa-solid fa-blog"></i></a>
-                    <a href="./pdf/view-profile/Faculty Profile format_PBO-converted.pdf" class="faculty_blog"><i class="fa-solid fa-user"></i></a>
-                    <a href="https://www.youtube.com/user/12345652162" class="faculty_blog"><i class="fa-brands fa-youtube"></i></a>
+                    <p class="faculty_name"><b>Dr. Jyothi Ramesh Pai</b></p>
+                    <p class="faculty_card_link"><b>Qualification: </b>B.Sc. Triple Major, B.Ed, M.A, M.Phil, PhD (English Literature)</p>
+                    <p class="faculty_card_link"><b>Experience: </b> <b>Teaching:</b> 23 Years,<br><b>Industry:</b>7 Years,<br><b>Research:</b>8 Years</p>
+                    <p class="faculty_card_link"><b>Email-Id:</b> jyoti.pai@pccoer.in</p>
+                    <a href="https://synsthes.blogspot.com" class="faculty_blog"><i class="fa-solid fa-blog"></i></a>
+                    <a href="./pdf/view-profile/Faculty-Profile-Dr-Pai-2021.pdf" class="faculty_blog"><i class="fa-solid fa-user"></i></a>
+                    <a href="https://www.youtube.com/channel/UCxOUsNqptYTwvBK4XekQa-Q?view_as=subscriber" class="faculty_blog"><i class="fa-brands fa-youtube"></i></a>
                   </div>
                 </div>
               </div>
