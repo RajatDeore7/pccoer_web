@@ -6,9 +6,10 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-  <title>Faculty For Applied Science Department | Pimpri Chinchwad College Of Engineering And Research | PCCOER - PCMC, Pune</title>
-  <meta name="description" content="The faculty of Pimpri Chinchwad College Of Engineering And Research ensures quality education for the engineering students and guides them for a better career ahead with our Professor, Assistant Professor and our Supporting staff." />
-  <meta name="keywords" content="pimpri chinchwad college of engineering and research, applied science, faculty of applied science department">
+  <title>Faculty For Computer Engineering Department | Pimpri Chinchwad College Of Engineering And Research | PCCOER - PCMC, Pune</title>
+  <meta name="description" content="The faculty of Pimpri Chinchwad College of Engineering And Research ensures quality education for the engineering students and guides them for a better career ahead with our Professor, Assistant Professor and our supporting staff." />
+  <meta name="keywords" content="pimpri chinchwad college of engineering and research, faculty of computer engineering department">
+
   <!-- Bootstrap -->
   <link href="../css/bootstrap.min.css" rel="stylesheet">
   <link href="../css/style.css" rel="stylesheet">
