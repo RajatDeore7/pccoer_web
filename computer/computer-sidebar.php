@@ -12,17 +12,17 @@
 			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href='pdf/FE_Achievement.pdf'>Achievements</a></li>
 			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href='pdf/induction-20-21-sem-1&2.pdf'>Induction</a></li>
 			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href=''>Department Activities</a></li>
-			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href=''>Department Highlights</a></li>
+			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href='./pdf/Comp_Department_Highlights.pdf'>Department Highlights</a></li>
 			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href='students-view.php'>Student's View</a></li>
 			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href='pdf/Toppers-FROM-2014-15-TO-2019-20.pdf'>Result</a></li>
 			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href=''>Placements & Higher Studies</a></li>
-			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href=''>Innovative Teaching Method</a></li>
+			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href='./pdf/innovative_methods.pdf'>Innovative Teaching Method</a></li>
 			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href=''>E-Library</a></li>
 			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href='e-magazine.php'>E-Magazine</a></li>
-			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href='pdf/Product-Developed-PBL-Yearwise.pdf'>Product Developed</a></li>
+			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href='./pdf/product-details.pdf'>Product Developed</a></li>
 			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href=''>Question Paper</a></li>
 			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href=''>GDSC</a></li>
-			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href=''>C-CUBE</a></li>
+			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href='./pdf/C-Cube.pdf'>C-CUBE</a></li>
 			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href=''>Industry Interaction</a></li>
 			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href='http://pccoer.acm.org/'>ACM</a></li>
 			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href="http://pccoercomp.com/">Department Website</a></li>

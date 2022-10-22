@@ -63,18 +63,40 @@
                 <div class="flip-card-inner">
                   <div class="flip-card-front">
                     <div class="faculty_img">
-                      <img src="./images/Teach/sonali.png" alt="faculty" height=150 width=150 class="faculty_card">
+                      <img src="./images/Teach/archanachaugule.png" alt="faculty" height=150 width=150 class="faculty_card">
                     </div>
-                    <p class="faculty_name"><b>Mrs. Sonali S. Lunawat</b></p>
-                    <p class="faculty_card_link"><b>Designation: </b>Head Of First Year Engineering Department And Asst. Professor</p>
+                    <p class="faculty_name"><b>Dr. Archana Ajit Chaugule</b></p>
+                    <p class="faculty_card_link"><b>Designation: </b>Professor & Head of the Comp. Department</p>
                   </div>
                   <div class="flip-card-back">
-                    <p class="faculty_name"><b>Mrs. Sonali S. Lunawat</b></p>
+                    <p class="faculty_name"><b>Dr. Archana Ajit Chaugule</b></p>
+                    <p class="faculty_card_link"><b>Qualification:</b>Ph.D(Computer Engg)</p>
+                    <p class="faculty_card_link"><b>Experience:</b><b>Teaching: </b>22.5 Yrs,<br><b>Industry:</b>1.5 Years</p>
+                    <p class="faculty_card_link"><b>Email-Id:</b> archana.chaugule@pccoer.inn</p>
+                    <a href="https://sites.google.com/pccoer.in/archanachaugule/" class="faculty_blog"><i class="fa-solid fa-blog"></i></a>
+                    <a href="./pdf/view-profile/Faculty Profile AAC.pdf" class="faculty_blog"><i class="fa-solid fa-user"></i></a>
+                    <a href="https://www.youtube.com/channel/UCfPAA2OcTJL3yHnaH9O8i0A/" class="faculty_blog"><i class="fa-brands fa-youtube"></i></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-3" id="faculty-card">
+              <div class="flip-card">
+                <div class="flip-card-inner">
+                  <div class="flip-card-front">
+                    <div class="faculty_img">
+                      <img src="./images/Teach/sonali.png" alt="faculty" height=150 width=150 class="faculty_card">
+                    </div>
+                    <p class="faculty_name"><b>Mr. Mahendra Balkrishna Salunke</b></p>
+                    <p class="faculty_card_link"><b>Designation: </b>Assistant Professor</p>
+                  </div>
+                  <div class="flip-card-back">
+                    <p class="faculty_name"><b>Mr. Mahendra Balkrishna Salunke</b></p>
                     <p class="faculty_card_link"><b>Qualification: </b>M.Sc.(Chemistry)- .(NET)</p>
-                    <p class="faculty_card_link"><b>Experience: </b> <b>Teaching:</b> 14 Year,<br><b>Industry:</b>0.5 yr,<br><b>Research:</b>1 Yr</p>
-                    <p class="faculty_card_email"><b>Email-Id:</b> tushar.gaikwad@pccoer.in</p>
+                    <p class="faculty_card_link"><b>Experience: </b> <b>Teaching:</b> 14 Years,<br><b>Industry:</b>0.5 yr,<br><b>Research:</b>1 Yr</p>
+                    <p class="faculty_card_link"><b>Email-Id:</b> tushar.gaikwad@pccoer.in</p>
                     <a href="https://tushargaikwad1382.blogspot.com/" class="faculty_blog"><i class="fa-solid fa-blog"></i></a>
-                    <a href="https://pccoer.com/applied-science/pdf/view-profile/TBG-converted.pdf" class="faculty_blog"><i class="fa-solid fa-user"></i></a>
+                    <a href="./pdf/view-profile/Faculty Profile AAC.pdf" class="faculty_blog"><i class="fa-solid fa-user"></i></a>
                     <a href="https://www.youtube.com/user/12345652162" class="faculty_blog"><i class="fa-brands fa-youtube"></i></a>
                   </div>
                 </div>
@@ -88,106 +110,15 @@
                       <img src="./images/Teach/sonali.png" alt="faculty" height=150 width=150 class="faculty_card">
                     </div>
                     <p class="faculty_name"><b>Mrs. Sonali S. Lunawat</b></p>
-                    <p class="faculty_card_link"><b>Designation: </b>Head Of First Year Engineering Department And Asst. Professor</p>
+                    <p class="faculty_card_link"><b>Designation: </b>Assistant Professor</p>
                   </div>
                   <div class="flip-card-back">
                     <p class="faculty_name"><b>Mrs. Sonali S. Lunawat</b></p>
                     <p class="faculty_card_link"><b>Qualification: </b>M.Sc.(Chemistry)- .(NET)</p>
-                    <p class="faculty_card_link"><b>Experience: </b> <b>Teaching:</b> 14 Year,<br><b>Industry:</b>0.5 yr,<br><b>Research:</b>1 Yr</p>
-                    <p class="faculty_card_email"><b>Email-Id:</b> tushar.gaikwad@pccoer.in</p>
+                    <p class="faculty_card_link"><b>Experience: </b> <b>Teaching:</b> 14 Years,<br><b>Industry:</b>0.5 yr,<br><b>Research:</b>1 Yr</p>
+                    <p class="faculty_card_link"><b>Email-Id:</b> tushar.gaikwad@pccoer.in</p>
                     <a href="https://tushargaikwad1382.blogspot.com/" class="faculty_blog"><i class="fa-solid fa-blog"></i></a>
-                    <a href="https://pccoer.com/applied-science/pdf/view-profile/TBG-converted.pdf" class="faculty_blog"><i class="fa-solid fa-user"></i></a>
-                    <a href="https://www.youtube.com/user/12345652162" class="faculty_blog"><i class="fa-brands fa-youtube"></i></a>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="col-md-3" id="faculty-card">
-              <div class="flip-card">
-                <div class="flip-card-inner">
-                  <div class="flip-card-front">
-                    <div class="faculty_img">
-                      <img src="./images/Teach/sonali.png" alt="faculty" height=150 width=150 class="faculty_card">
-                    </div>
-                    <p class="faculty_name"><b>Mrs. Sonali S. Lunawat</b></p>
-                    <p class="faculty_card_link"><b>Designation: </b>Head Of First Year Engineering Department And Asst. Professor</p>
-                  </div>
-                  <div class="flip-card-back">
-                    <p class="faculty_name"><b>Mrs. Sonali S. Lunawat</b></p>
-                    <p class="faculty_card_link"><b>Qualification: </b>M.Sc.(Chemistry)- .(NET)</p>
-                    <p class="faculty_card_link"><b>Experience: </b> <b>Teaching:</b> 14 Year,<br><b>Industry:</b>0.5 yr,<br><b>Research:</b>1 Yr</p>
-                    <p class="faculty_card_email"><b>Email-Id:</b> tushar.gaikwad@pccoer.in</p>
-                    <a href="https://tushargaikwad1382.blogspot.com/" class="faculty_blog"><i class="fa-solid fa-blog"></i></a>
-                    <a href="https://pccoer.com/applied-science/pdf/view-profile/TBG-converted.pdf" class="faculty_blog"><i class="fa-solid fa-user"></i></a>
-                    <a href="https://www.youtube.com/user/12345652162" class="faculty_blog"><i class="fa-brands fa-youtube"></i></a>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="row">
-            <div class="col-md-3" id="faculty-card">
-              <div class="flip-card">
-                <div class="flip-card-inner">
-                  <div class="flip-card-front">
-                    <div class="faculty_img">
-                      <img src="./images/Teach/sonali.png" alt="faculty" height=150 width=150 class="faculty_card">
-                    </div>
-                    <p class="faculty_name"><b>Mrs. Sonali S. Lunawat</b></p>
-                    <p class="faculty_card_link"><b>Designation: </b>Head Of First Year Engineering Department And Asst. Professor</p>
-                  </div>
-                  <div class="flip-card-back">
-                    <p class="faculty_name"><b>Mrs. Sonali S. Lunawat</b></p>
-                    <p class="faculty_card_link"><b>Qualification: </b>M.Sc.(Chemistry)- .(NET)</p>
-                    <p class="faculty_card_link"><b>Experience: </b> <b>Teaching:</b> 14 Year,<br><b>Industry:</b>0.5 yr,<br><b>Research:</b>1 Yr</p>
-                    <p class="faculty_card_email"><b>Email-Id:</b> tushar.gaikwad@pccoer.in</p>
-                    <a href="https://tushargaikwad1382.blogspot.com/" class="faculty_blog"><i class="fa-solid fa-blog"></i></a>
-                    <a href="https://pccoer.com/applied-science/pdf/view-profile/TBG-converted.pdf" class="faculty_blog"><i class="fa-solid fa-user"></i></a>
-                    <a href="https://www.youtube.com/user/12345652162" class="faculty_blog"><i class="fa-brands fa-youtube"></i></a>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="col-md-3" id="faculty-card">
-              <div class="flip-card">
-                <div class="flip-card-inner">
-                  <div class="flip-card-front">
-                    <div class="faculty_img">
-                      <img src="./images/Teach/sonali.png" alt="faculty" height=150 width=150 class="faculty_card">
-                    </div>
-                    <p class="faculty_name"><b>Mrs. Sonali S. Lunawat</b></p>
-                    <p class="faculty_card_link"><b>Designation: </b>Head Of First Year Engineering Department And Asst. Professor</p>
-                  </div>
-                  <div class="flip-card-back">
-                    <p class="faculty_name"><b>Mrs. Sonali S. Lunawat</b></p>
-                    <p class="faculty_card_link"><b>Qualification: </b>M.Sc.(Chemistry)- .(NET)</p>
-                    <p class="faculty_card_link"><b>Experience: </b> <b>Teaching:</b> 14 Year,<br><b>Industry:</b>0.5 yr,<br><b>Research:</b>1 Yr</p>
-                    <p class="faculty_card_email"><b>Email-Id:</b> tushar.gaikwad@pccoer.in</p>
-                    <a href="https://tushargaikwad1382.blogspot.com/" class="faculty_blog"><i class="fa-solid fa-blog"></i></a>
-                    <a href="https://pccoer.com/applied-science/pdf/view-profile/TBG-converted.pdf" class="faculty_blog"><i class="fa-solid fa-user"></i></a>
-                    <a href="https://www.youtube.com/user/12345652162" class="faculty_blog"><i class="fa-brands fa-youtube"></i></a>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="col-md-3" id="faculty-card">
-              <div class="flip-card">
-                <div class="flip-card-inner">
-                  <div class="flip-card-front">
-                    <div class="faculty_img">
-                      <img src="./images/Teach/sonali.png" alt="faculty" height=150 width=150 class="faculty_card">
-                    </div>
-                    <p class="faculty_name"><b>Mrs. Sonali S. Lunawat</b></p>
-                    <p class="faculty_card_link"><b>Designation: </b>Head Of First Year Engineering Department And Asst. Professor</p>
-                  </div>
-                  <div class="flip-card-back">
-                    <p class="faculty_name"><b>Mrs. Sonali S. Lunawat</b></p>
-                    <p class="faculty_card_link"><b>Qualification: </b>M.Sc.(Chemistry)- .(NET)</p>
-                    <p class="faculty_card_link"><b>Experience: </b> <b>Teaching:</b> 14 Year,<br><b>Industry:</b>0.5 yr,<br><b>Research:</b>1 Yr</p>
-                    <p class="faculty_card_email"><b>Email-Id:</b> tushar.gaikwad@pccoer.in</p>
-                    <a href="https://tushargaikwad1382.blogspot.com/" class="faculty_blog"><i class="fa-solid fa-blog"></i></a>
-                    <a href="https://pccoer.com/applied-science/pdf/view-profile/TBG-converted.pdf" class="faculty_blog"><i class="fa-solid fa-user"></i></a>
+                    <a href="./pdf/view-profile/Faculty Profile AAC.pdf" class="faculty_blog"><i class="fa-solid fa-user"></i></a>
                     <a href="https://www.youtube.com/user/12345652162" class="faculty_blog"><i class="fa-brands fa-youtube"></i></a>
                   </div>
                 </div>
@@ -204,15 +135,15 @@
                       <img src="./images/Teach/sonali.png" alt="faculty" height=150 width=150 class="faculty_card">
                     </div>
                     <p class="faculty_name"><b>Mrs. Sonali S. Lunawat</b></p>
-                    <p class="faculty_card_link"><b>Designation: </b>Head Of First Year Engineering Department And Asst. Professor</p>
+                    <p class="faculty_card_link"><b>Designation: </b>Assistant Professor</p>
                   </div>
                   <div class="flip-card-back">
                     <p class="faculty_name"><b>Mrs. Sonali S. Lunawat</b></p>
                     <p class="faculty_card_link"><b>Qualification: </b>M.Sc.(Chemistry)- .(NET)</p>
-                    <p class="faculty_card_link"><b>Experience: </b> <b>Teaching:</b> 14 Year,<br><b>Industry:</b>0.5 yr,<br><b>Research:</b>1 Yr</p>
-                    <p class="faculty_card_email"><b>Email-Id:</b> tushar.gaikwad@pccoer.in</p>
+                    <p class="faculty_card_link"><b>Experience: </b> <b>Teaching:</b> 14 Years,<br><b>Industry:</b>0.5 yr,<br><b>Research:</b>1 Yr</p>
+                    <p class="faculty_card_link"><b>Email-Id:</b> tushar.gaikwad@pccoer.in</p>
                     <a href="https://tushargaikwad1382.blogspot.com/" class="faculty_blog"><i class="fa-solid fa-blog"></i></a>
-                    <a href="https://pccoer.com/applied-science/pdf/view-profile/TBG-converted.pdf" class="faculty_blog"><i class="fa-solid fa-user"></i></a>
+                    <a href="./pdf/view-profile/Faculty Profile AAC.pdf" class="faculty_blog"><i class="fa-solid fa-user"></i></a>
                     <a href="https://www.youtube.com/user/12345652162" class="faculty_blog"><i class="fa-brands fa-youtube"></i></a>
                   </div>
                 </div>
@@ -226,15 +157,15 @@
                       <img src="./images/Teach/sonali.png" alt="faculty" height=150 width=150 class="faculty_card">
                     </div>
                     <p class="faculty_name"><b>Mrs. Sonali S. Lunawat</b></p>
-                    <p class="faculty_card_link"><b>Designation: </b>Head Of First Year Engineering Department And Asst. Professor</p>
+                    <p class="faculty_card_link"><b>Designation: </b>Assistant Professor</p>
                   </div>
                   <div class="flip-card-back">
                     <p class="faculty_name"><b>Mrs. Sonali S. Lunawat</b></p>
                     <p class="faculty_card_link"><b>Qualification: </b>M.Sc.(Chemistry)- .(NET)</p>
-                    <p class="faculty_card_link"><b>Experience: </b> <b>Teaching:</b> 14 Year,<br><b>Industry:</b>0.5 yr,<br><b>Research:</b>1 Yr</p>
-                    <p class="faculty_card_email"><b>Email-Id:</b> tushar.gaikwad@pccoer.in</p>
+                    <p class="faculty_card_link"><b>Experience: </b> <b>Teaching:</b> 14 Years,<br><b>Industry:</b>0.5 yr,<br><b>Research:</b>1 Yr</p>
+                    <p class="faculty_card_link"><b>Email-Id:</b> tushar.gaikwad@pccoer.in</p>
                     <a href="https://tushargaikwad1382.blogspot.com/" class="faculty_blog"><i class="fa-solid fa-blog"></i></a>
-                    <a href="https://pccoer.com/applied-science/pdf/view-profile/TBG-converted.pdf" class="faculty_blog"><i class="fa-solid fa-user"></i></a>
+                    <a href="./pdf/view-profile/Faculty Profile AAC.pdf" class="faculty_blog"><i class="fa-solid fa-user"></i></a>
                     <a href="https://www.youtube.com/user/12345652162" class="faculty_blog"><i class="fa-brands fa-youtube"></i></a>
                   </div>
                 </div>
@@ -248,15 +179,288 @@
                       <img src="./images/Teach/sonali.png" alt="faculty" height=150 width=150 class="faculty_card">
                     </div>
                     <p class="faculty_name"><b>Mrs. Sonali S. Lunawat</b></p>
-                    <p class="faculty_card_link"><b>Designation: </b>Head Of First Year Engineering Department And Asst. Professor</p>
+                    <p class="faculty_card_link"><b>Designation: </b>Assistant Professor</p>
                   </div>
                   <div class="flip-card-back">
                     <p class="faculty_name"><b>Mrs. Sonali S. Lunawat</b></p>
                     <p class="faculty_card_link"><b>Qualification: </b>M.Sc.(Chemistry)- .(NET)</p>
-                    <p class="faculty_card_link"><b>Experience: </b> <b>Teaching:</b> 14 Year,<br><b>Industry:</b>0.5 yr,<br><b>Research:</b>1 Yr</p>
-                    <p class="faculty_card_email"><b>Email-Id:</b> tushar.gaikwad@pccoer.in</p>
+                    <p class="faculty_card_link"><b>Experience: </b> <b>Teaching:</b> 14 Years,<br><b>Industry:</b>0.5 yr,<br><b>Research:</b>1 Yr</p>
+                    <p class="faculty_card_link"><b>Email-Id:</b> tushar.gaikwad@pccoer.in</p>
                     <a href="https://tushargaikwad1382.blogspot.com/" class="faculty_blog"><i class="fa-solid fa-blog"></i></a>
-                    <a href="https://pccoer.com/applied-science/pdf/view-profile/TBG-converted.pdf" class="faculty_blog"><i class="fa-solid fa-user"></i></a>
+                    <a href="./pdf/view-profile/Faculty Profile AAC.pdf" class="faculty_blog"><i class="fa-solid fa-user"></i></a>
+                    <a href="https://www.youtube.com/user/12345652162" class="faculty_blog"><i class="fa-brands fa-youtube"></i></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="row">
+            <div class="col-md-3" id="faculty-card">
+              <div class="flip-card">
+                <div class="flip-card-inner">
+                  <div class="flip-card-front">
+                    <div class="faculty_img">
+                      <img src="./images/Teach/sonali.png" alt="faculty" height=150 width=150 class="faculty_card">
+                    </div>
+                    <p class="faculty_name"><b>Mrs. Sonali S. Lunawat</b></p>
+                    <p class="faculty_card_link"><b>Designation: </b>Assistant Professor</p>
+                  </div>
+                  <div class="flip-card-back">
+                    <p class="faculty_name"><b>Mrs. Sonali S. Lunawat</b></p>
+                    <p class="faculty_card_link"><b>Qualification: </b>M.Sc.(Chemistry)- .(NET)</p>
+                    <p class="faculty_card_link"><b>Experience: </b> <b>Teaching:</b> 14 Years,<br><b>Industry:</b>0.5 yr,<br><b>Research:</b>1 Yr</p>
+                    <p class="faculty_card_link"><b>Email-Id:</b> tushar.gaikwad@pccoer.in</p>
+                    <a href="https://tushargaikwad1382.blogspot.com/" class="faculty_blog"><i class="fa-solid fa-blog"></i></a>
+                    <a href="./pdf/view-profile/Faculty Profile AAC.pdf" class="faculty_blog"><i class="fa-solid fa-user"></i></a>
+                    <a href="https://www.youtube.com/user/12345652162" class="faculty_blog"><i class="fa-brands fa-youtube"></i></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-3" id="faculty-card">
+              <div class="flip-card">
+                <div class="flip-card-inner">
+                  <div class="flip-card-front">
+                    <div class="faculty_img">
+                      <img src="./images/Teach/sonali.png" alt="faculty" height=150 width=150 class="faculty_card">
+                    </div>
+                    <p class="faculty_name"><b>Mrs. Sonali S. Lunawat</b></p>
+                    <p class="faculty_card_link"><b>Designation: </b>Assistant Professor</p>
+                  </div>
+                  <div class="flip-card-back">
+                    <p class="faculty_name"><b>Mrs. Sonali S. Lunawat</b></p>
+                    <p class="faculty_card_link"><b>Qualification: </b>M.Sc.(Chemistry)- .(NET)</p>
+                    <p class="faculty_card_link"><b>Experience: </b> <b>Teaching:</b> 14 Years,<br><b>Industry:</b>0.5 yr,<br><b>Research:</b>1 Yr</p>
+                    <p class="faculty_card_link"><b>Email-Id:</b> tushar.gaikwad@pccoer.in</p>
+                    <a href="https://tushargaikwad1382.blogspot.com/" class="faculty_blog"><i class="fa-solid fa-blog"></i></a>
+                    <a href="./pdf/view-profile/Faculty Profile AAC.pdf" class="faculty_blog"><i class="fa-solid fa-user"></i></a>
+                    <a href="https://www.youtube.com/user/12345652162" class="faculty_blog"><i class="fa-brands fa-youtube"></i></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-3" id="faculty-card">
+              <div class="flip-card">
+                <div class="flip-card-inner">
+                  <div class="flip-card-front">
+                    <div class="faculty_img">
+                      <img src="./images/Teach/sonali.png" alt="faculty" height=150 width=150 class="faculty_card">
+                    </div>
+                    <p class="faculty_name"><b>Mrs. Sonali S. Lunawat</b></p>
+                    <p class="faculty_card_link"><b>Designation: </b>Assistant Professor</p>
+                  </div>
+                  <div class="flip-card-back">
+                    <p class="faculty_name"><b>Mrs. Sonali S. Lunawat</b></p>
+                    <p class="faculty_card_link"><b>Qualification: </b>M.Sc.(Chemistry)- .(NET)</p>
+                    <p class="faculty_card_link"><b>Experience: </b> <b>Teaching:</b> 14 Years,<br><b>Industry:</b>0.5 yr,<br><b>Research:</b>1 Yr</p>
+                    <p class="faculty_card_link"><b>Email-Id:</b> tushar.gaikwad@pccoer.in</p>
+                    <a href="https://tushargaikwad1382.blogspot.com/" class="faculty_blog"><i class="fa-solid fa-blog"></i></a>
+                    <a href="./pdf/view-profile/Faculty Profile AAC.pdf" class="faculty_blog"><i class="fa-solid fa-user"></i></a>
+                    <a href="https://www.youtube.com/user/12345652162" class="faculty_blog"><i class="fa-brands fa-youtube"></i></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-md-3" id="faculty-card">
+              <div class="flip-card">
+                <div class="flip-card-inner">
+                  <div class="flip-card-front">
+                    <div class="faculty_img">
+                      <img src="./images/Teach/sonali.png" alt="faculty" height=150 width=150 class="faculty_card">
+                    </div>
+                    <p class="faculty_name"><b>Mrs. Sonali S. Lunawat</b></p>
+                    <p class="faculty_card_link"><b>Designation: </b>Assistant Professor</p>
+                  </div>
+                  <div class="flip-card-back">
+                    <p class="faculty_name"><b>Mrs. Sonali S. Lunawat</b></p>
+                    <p class="faculty_card_link"><b>Qualification: </b>M.Sc.(Chemistry)- .(NET)</p>
+                    <p class="faculty_card_link"><b>Experience: </b> <b>Teaching:</b> 14 Years,<br><b>Industry:</b>0.5 yr,<br><b>Research:</b>1 Yr</p>
+                    <p class="faculty_card_link"><b>Email-Id:</b> tushar.gaikwad@pccoer.in</p>
+                    <a href="https://tushargaikwad1382.blogspot.com/" class="faculty_blog"><i class="fa-solid fa-blog"></i></a>
+                    <a href="./pdf/view-profile/Faculty Profile AAC.pdf" class="faculty_blog"><i class="fa-solid fa-user"></i></a>
+                    <a href="https://www.youtube.com/user/12345652162" class="faculty_blog"><i class="fa-brands fa-youtube"></i></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-3" id="faculty-card">
+              <div class="flip-card">
+                <div class="flip-card-inner">
+                  <div class="flip-card-front">
+                    <div class="faculty_img">
+                      <img src="./images/Teach/sonali.png" alt="faculty" height=150 width=150 class="faculty_card">
+                    </div>
+                    <p class="faculty_name"><b>Mrs. Sonali S. Lunawat</b></p>
+                    <p class="faculty_card_link"><b>Designation: </b>Assistant Professor</p>
+                  </div>
+                  <div class="flip-card-back">
+                    <p class="faculty_name"><b>Mrs. Sonali S. Lunawat</b></p>
+                    <p class="faculty_card_link"><b>Qualification: </b>M.Sc.(Chemistry)- .(NET)</p>
+                    <p class="faculty_card_link"><b>Experience: </b> <b>Teaching:</b> 14 Years,<br><b>Industry:</b>0.5 yr,<br><b>Research:</b>1 Yr</p>
+                    <p class="faculty_card_link"><b>Email-Id:</b> tushar.gaikwad@pccoer.in</p>
+                    <a href="https://tushargaikwad1382.blogspot.com/" class="faculty_blog"><i class="fa-solid fa-blog"></i></a>
+                    <a href="./pdf/view-profile/Faculty Profile AAC.pdf" class="faculty_blog"><i class="fa-solid fa-user"></i></a>
+                    <a href="https://www.youtube.com/user/12345652162" class="faculty_blog"><i class="fa-brands fa-youtube"></i></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-3" id="faculty-card">
+              <div class="flip-card">
+                <div class="flip-card-inner">
+                  <div class="flip-card-front">
+                    <div class="faculty_img">
+                      <img src="./images/Teach/sonali.png" alt="faculty" height=150 width=150 class="faculty_card">
+                    </div>
+                    <p class="faculty_name"><b>Mrs. Sonali S. Lunawat</b></p>
+                    <p class="faculty_card_link"><b>Designation: </b>Assistant Professor</p>
+                  </div>
+                  <div class="flip-card-back">
+                    <p class="faculty_name"><b>Mrs. Sonali S. Lunawat</b></p>
+                    <p class="faculty_card_link"><b>Qualification: </b>M.Sc.(Chemistry)- .(NET)</p>
+                    <p class="faculty_card_link"><b>Experience: </b> <b>Teaching:</b> 14 Years,<br><b>Industry:</b>0.5 yr,<br><b>Research:</b>1 Yr</p>
+                    <p class="faculty_card_link"><b>Email-Id:</b> tushar.gaikwad@pccoer.in</p>
+                    <a href="https://tushargaikwad1382.blogspot.com/" class="faculty_blog"><i class="fa-solid fa-blog"></i></a>
+                    <a href="./pdf/view-profile/Faculty Profile AAC.pdf" class="faculty_blog"><i class="fa-solid fa-user"></i></a>
+                    <a href="https://www.youtube.com/user/12345652162" class="faculty_blog"><i class="fa-brands fa-youtube"></i></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-md-3" id="faculty-card">
+              <div class="flip-card">
+                <div class="flip-card-inner">
+                  <div class="flip-card-front">
+                    <div class="faculty_img">
+                      <img src="./images/Teach/sonali.png" alt="faculty" height=150 width=150 class="faculty_card">
+                    </div>
+                    <p class="faculty_name"><b>Mrs. Sonali S. Lunawat</b></p>
+                    <p class="faculty_card_link"><b>Designation: </b>Assistant Professor</p>
+                  </div>
+                  <div class="flip-card-back">
+                    <p class="faculty_name"><b>Mrs. Sonali S. Lunawat</b></p>
+                    <p class="faculty_card_link"><b>Qualification: </b>M.Sc.(Chemistry)- .(NET)</p>
+                    <p class="faculty_card_link"><b>Experience: </b> <b>Teaching:</b> 14 Years,<br><b>Industry:</b>0.5 yr,<br><b>Research:</b>1 Yr</p>
+                    <p class="faculty_card_link"><b>Email-Id:</b> tushar.gaikwad@pccoer.in</p>
+                    <a href="https://tushargaikwad1382.blogspot.com/" class="faculty_blog"><i class="fa-solid fa-blog"></i></a>
+                    <a href="./pdf/view-profile/Faculty Profile AAC.pdf" class="faculty_blog"><i class="fa-solid fa-user"></i></a>
+                    <a href="https://www.youtube.com/user/12345652162" class="faculty_blog"><i class="fa-brands fa-youtube"></i></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-3" id="faculty-card">
+              <div class="flip-card">
+                <div class="flip-card-inner">
+                  <div class="flip-card-front">
+                    <div class="faculty_img">
+                      <img src="./images/Teach/sonali.png" alt="faculty" height=150 width=150 class="faculty_card">
+                    </div>
+                    <p class="faculty_name"><b>Mrs. Sonali S. Lunawat</b></p>
+                    <p class="faculty_card_link"><b>Designation: </b>Assistant Professor</p>
+                  </div>
+                  <div class="flip-card-back">
+                    <p class="faculty_name"><b>Mrs. Sonali S. Lunawat</b></p>
+                    <p class="faculty_card_link"><b>Qualification: </b>M.Sc.(Chemistry)- .(NET)</p>
+                    <p class="faculty_card_link"><b>Experience: </b> <b>Teaching:</b> 14 Years,<br><b>Industry:</b>0.5 yr,<br><b>Research:</b>1 Yr</p>
+                    <p class="faculty_card_link"><b>Email-Id:</b> tushar.gaikwad@pccoer.in</p>
+                    <a href="https://tushargaikwad1382.blogspot.com/" class="faculty_blog"><i class="fa-solid fa-blog"></i></a>
+                    <a href="./pdf/view-profile/Faculty Profile AAC.pdf" class="faculty_blog"><i class="fa-solid fa-user"></i></a>
+                    <a href="https://www.youtube.com/user/12345652162" class="faculty_blog"><i class="fa-brands fa-youtube"></i></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-3" id="faculty-card">
+              <div class="flip-card">
+                <div class="flip-card-inner">
+                  <div class="flip-card-front">
+                    <div class="faculty_img">
+                      <img src="./images/Teach/sonali.png" alt="faculty" height=150 width=150 class="faculty_card">
+                    </div>
+                    <p class="faculty_name"><b>Mrs. Sonali S. Lunawat</b></p>
+                    <p class="faculty_card_link"><b>Designation: </b>Assistant Professor</p>
+                  </div>
+                  <div class="flip-card-back">
+                    <p class="faculty_name"><b>Mrs. Sonali S. Lunawat</b></p>
+                    <p class="faculty_card_link"><b>Qualification: </b>M.Sc.(Chemistry)- .(NET)</p>
+                    <p class="faculty_card_link"><b>Experience: </b> <b>Teaching:</b> 14 Years,<br><b>Industry:</b>0.5 yr,<br><b>Research:</b>1 Yr</p>
+                    <p class="faculty_card_link"><b>Email-Id:</b> tushar.gaikwad@pccoer.in</p>
+                    <a href="https://tushargaikwad1382.blogspot.com/" class="faculty_blog"><i class="fa-solid fa-blog"></i></a>
+                    <a href="./pdf/view-profile/Faculty Profile AAC.pdf" class="faculty_blog"><i class="fa-solid fa-user"></i></a>
+                    <a href="https://www.youtube.com/user/12345652162" class="faculty_blog"><i class="fa-brands fa-youtube"></i></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-md-3" id="faculty-card">
+              <div class="flip-card">
+                <div class="flip-card-inner">
+                  <div class="flip-card-front">
+                    <div class="faculty_img">
+                      <img src="./images/Teach/sonali.png" alt="faculty" height=150 width=150 class="faculty_card">
+                    </div>
+                    <p class="faculty_name"><b>Mrs. Sonali S. Lunawat</b></p>
+                    <p class="faculty_card_link"><b>Designation: </b>Assistant Professor</p>
+                  </div>
+                  <div class="flip-card-back">
+                    <p class="faculty_name"><b>Mrs. Sonali S. Lunawat</b></p>
+                    <p class="faculty_card_link"><b>Qualification: </b>M.Sc.(Chemistry)- .(NET)</p>
+                    <p class="faculty_card_link"><b>Experience: </b> <b>Teaching:</b> 14 Years,<br><b>Industry:</b>0.5 yr,<br><b>Research:</b>1 Yr</p>
+                    <p class="faculty_card_link"><b>Email-Id:</b> tushar.gaikwad@pccoer.in</p>
+                    <a href="https://tushargaikwad1382.blogspot.com/" class="faculty_blog"><i class="fa-solid fa-blog"></i></a>
+                    <a href="./pdf/view-profile/Faculty Profile AAC.pdf" class="faculty_blog"><i class="fa-solid fa-user"></i></a>
+                    <a href="https://www.youtube.com/user/12345652162" class="faculty_blog"><i class="fa-brands fa-youtube"></i></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-3" id="faculty-card">
+              <div class="flip-card">
+                <div class="flip-card-inner">
+                  <div class="flip-card-front">
+                    <div class="faculty_img">
+                      <img src="./images/Teach/sonali.png" alt="faculty" height=150 width=150 class="faculty_card">
+                    </div>
+                    <p class="faculty_name"><b>Mrs. Sonali S. Lunawat</b></p>
+                    <p class="faculty_card_link"><b>Designation: </b>Assistant Professor</p>
+                  </div>
+                  <div class="flip-card-back">
+                    <p class="faculty_name"><b>Mrs. Sonali S. Lunawat</b></p>
+                    <p class="faculty_card_link"><b>Qualification: </b>M.Sc.(Chemistry)- .(NET)</p>
+                    <p class="faculty_card_link"><b>Experience: </b> <b>Teaching:</b> 14 Years,<br><b>Industry:</b>0.5 yr,<br><b>Research:</b>1 Yr</p>
+                    <p class="faculty_card_link"><b>Email-Id:</b> tushar.gaikwad@pccoer.in</p>
+                    <a href="https://tushargaikwad1382.blogspot.com/" class="faculty_blog"><i class="fa-solid fa-blog"></i></a>
+                    <a href="./pdf/view-profile/Faculty Profile AAC.pdf" class="faculty_blog"><i class="fa-solid fa-user"></i></a>
+                    <a href="https://www.youtube.com/user/12345652162" class="faculty_blog"><i class="fa-brands fa-youtube"></i></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-3" id="faculty-card">
+              <div class="flip-card">
+                <div class="flip-card-inner">
+                  <div class="flip-card-front">
+                    <div class="faculty_img">
+                      <img src="./images/Teach/sonali.png" alt="faculty" height=150 width=150 class="faculty_card">
+                    </div>
+                    <p class="faculty_name"><b>Mrs. Sonali S. Lunawat</b></p>
+                    <p class="faculty_card_link"><b>Designation: </b>Assistant Professor</p>
+                  </div>
+                  <div class="flip-card-back">
+                    <p class="faculty_name"><b>Mrs. Sonali S. Lunawat</b></p>
+                    <p class="faculty_card_link"><b>Qualification: </b>M.Sc.(Chemistry)- .(NET)</p>
+                    <p class="faculty_card_link"><b>Experience: </b> <b>Teaching:</b> 14 Years,<br><b>Industry:</b>0.5 yr,<br><b>Research:</b>1 Yr</p>
+                    <p class="faculty_card_link"><b>Email-Id:</b> tushar.gaikwad@pccoer.in</p>
+                    <a href="https://tushargaikwad1382.blogspot.com/" class="faculty_blog"><i class="fa-solid fa-blog"></i></a>
+                    <a href="./pdf/view-profile/Faculty Profile AAC.pdf" class="faculty_blog"><i class="fa-solid fa-user"></i></a>
                     <a href="https://www.youtube.com/user/12345652162" class="faculty_blog"><i class="fa-brands fa-youtube"></i></a>
                   </div>
                 </div>
@@ -273,15 +477,15 @@
                       <img src="./images/Teach/sonali.png" alt="faculty" height=150 width=150 class="faculty_card">
                     </div>
                     <p class="faculty_name"><b>Mrs. Sonali S. Lunawat</b></p>
-                    <p class="faculty_card_link"><b>Designation: </b>Head Of First Year Engineering Department And Asst. Professor</p>
+                    <p class="faculty_card_link"><b>Designation: </b>Assistant Professor</p>
                   </div>
                   <div class="flip-card-back">
                     <p class="faculty_name"><b>Mrs. Sonali S. Lunawat</b></p>
                     <p class="faculty_card_link"><b>Qualification: </b>M.Sc.(Chemistry)- .(NET)</p>
-                    <p class="faculty_card_link"><b>Experience: </b> <b>Teaching:</b> 14 Year,<br><b>Industry:</b>0.5 yr,<br><b>Research:</b>1 Yr</p>
-                    <p class="faculty_card_email"><b>Email-Id:</b> tushar.gaikwad@pccoer.in</p>
+                    <p class="faculty_card_link"><b>Experience: </b> <b>Teaching:</b> 14 Years,<br><b>Industry:</b>0.5 yr,<br><b>Research:</b>1 Yr</p>
+                    <p class="faculty_card_link"><b>Email-Id:</b> tushar.gaikwad@pccoer.in</p>
                     <a href="https://tushargaikwad1382.blogspot.com/" class="faculty_blog"><i class="fa-solid fa-blog"></i></a>
-                    <a href="https://pccoer.com/applied-science/pdf/view-profile/TBG-converted.pdf" class="faculty_blog"><i class="fa-solid fa-user"></i></a>
+                    <a href="./pdf/view-profile/Faculty Profile AAC.pdf" class="faculty_blog"><i class="fa-solid fa-user"></i></a>
                     <a href="https://www.youtube.com/user/12345652162" class="faculty_blog"><i class="fa-brands fa-youtube"></i></a>
                   </div>
                 </div>
@@ -295,15 +499,15 @@
                       <img src="./images/Teach/sonali.png" alt="faculty" height=150 width=150 class="faculty_card">
                     </div>
                     <p class="faculty_name"><b>Mrs. Sonali S. Lunawat</b></p>
-                    <p class="faculty_card_link"><b>Designation: </b>Head Of First Year Engineering Department And Asst. Professor</p>
+                    <p class="faculty_card_link"><b>Designation: </b>Assistant Professor</p>
                   </div>
                   <div class="flip-card-back">
                     <p class="faculty_name"><b>Mrs. Sonali S. Lunawat</b></p>
                     <p class="faculty_card_link"><b>Qualification: </b>M.Sc.(Chemistry)- .(NET)</p>
-                    <p class="faculty_card_link"><b>Experience: </b> <b>Teaching:</b> 14 Year,<br><b>Industry:</b>0.5 yr,<br><b>Research:</b>1 Yr</p>
-                    <p class="faculty_card_email"><b>Email-Id:</b> tushar.gaikwad@pccoer.in</p>
+                    <p class="faculty_card_link"><b>Experience: </b> <b>Teaching:</b> 14 Years,<br><b>Industry:</b>0.5 yr,<br><b>Research:</b>1 Yr</p>
+                    <p class="faculty_card_link"><b>Email-Id:</b> tushar.gaikwad@pccoer.in</p>
                     <a href="https://tushargaikwad1382.blogspot.com/" class="faculty_blog"><i class="fa-solid fa-blog"></i></a>
-                    <a href="https://pccoer.com/applied-science/pdf/view-profile/TBG-converted.pdf" class="faculty_blog"><i class="fa-solid fa-user"></i></a>
+                    <a href="./pdf/view-profile/Faculty Profile AAC.pdf" class="faculty_blog"><i class="fa-solid fa-user"></i></a>
                     <a href="https://www.youtube.com/user/12345652162" class="faculty_blog"><i class="fa-brands fa-youtube"></i></a>
                   </div>
                 </div>
@@ -317,15 +521,15 @@
                       <img src="./images/Teach/sonali.png" alt="faculty" height=150 width=150 class="faculty_card">
                     </div>
                     <p class="faculty_name"><b>Mrs. Sonali S. Lunawat</b></p>
-                    <p class="faculty_card_link"><b>Designation: </b>Head Of First Year Engineering Department And Asst. Professor</p>
+                    <p class="faculty_card_link"><b>Designation: </b>Assistant Professor</p>
                   </div>
                   <div class="flip-card-back">
                     <p class="faculty_name"><b>Mrs. Sonali S. Lunawat</b></p>
                     <p class="faculty_card_link"><b>Qualification: </b>M.Sc.(Chemistry)- .(NET)</p>
-                    <p class="faculty_card_link"><b>Experience: </b> <b>Teaching:</b> 14 Year,<br><b>Industry:</b>0.5 yr,<br><b>Research:</b>1 Yr</p>
-                    <p class="faculty_card_email"><b>Email-Id:</b> tushar.gaikwad@pccoer.in</p>
+                    <p class="faculty_card_link"><b>Experience: </b> <b>Teaching:</b> 14 Years,<br><b>Industry:</b>0.5 yr,<br><b>Research:</b>1 Yr</p>
+                    <p class="faculty_card_link"><b>Email-Id:</b> tushar.gaikwad@pccoer.in</p>
                     <a href="https://tushargaikwad1382.blogspot.com/" class="faculty_blog"><i class="fa-solid fa-blog"></i></a>
-                    <a href="https://pccoer.com/applied-science/pdf/view-profile/TBG-converted.pdf" class="faculty_blog"><i class="fa-solid fa-user"></i></a>
+                    <a href="./pdf/view-profile/Faculty Profile AAC.pdf" class="faculty_blog"><i class="fa-solid fa-user"></i></a>
                     <a href="https://www.youtube.com/user/12345652162" class="faculty_blog"><i class="fa-brands fa-youtube"></i></a>
                   </div>
                 </div>
@@ -333,30 +537,6 @@
             </div>
           </div>
 
-          <div class="row">
-            <div class="col-md-3" id="faculty-card">
-              <div class="flip-card">
-                <div class="flip-card-inner">
-                  <div class="flip-card-front">
-                    <div class="faculty_img">
-                      <img src="./images/Teach/sonali.png" alt="faculty" height=150 width=150 class="faculty_card">
-                    </div>
-                    <p class="faculty_name"><b>Mrs. Sonali S. Lunawat</b></p>
-                    <p class="faculty_card_link"><b>Designation: </b>Head Of First Year Engineering Department And Asst. Professor</p>
-                  </div>
-                  <div class="flip-card-back">
-                    <p class="faculty_name"><b>Mrs. Sonali S. Lunawat</b></p>
-                    <p class="faculty_card_link"><b>Qualification: </b>M.Sc.(Chemistry)- .(NET)</p>
-                    <p class="faculty_card_link"><b>Experience: </b> <b>Teaching:</b> 14 Year,<br><b>Industry:</b>0.5 yr,<br><b>Research:</b>1 Yr</p>
-                    <p class="faculty_card_email"><b>Email-Id:</b> tushar.gaikwad@pccoer.in</p>
-                    <a href="https://tushargaikwad1382.blogspot.com/" class="faculty_blog"><i class="fa-solid fa-blog"></i></a>
-                    <a href="https://pccoer.com/applied-science/pdf/view-profile/TBG-converted.pdf" class="faculty_blog"><i class="fa-solid fa-user"></i></a>
-                    <a href="https://www.youtube.com/user/12345652162" class="faculty_blog"><i class="fa-brands fa-youtube"></i></a>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
         </div>
       </div>
     </div>

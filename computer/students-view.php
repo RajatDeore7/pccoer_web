@@ -56,27 +56,29 @@
           </div>
           <div class="views_main">
             <div class="views">
-              <h3>Shubhidiya Ghosh's experience with PCCOER</h3>
+              <h3>Anjali Take's experience in PCCOER's College</h3>
               <br>
-              <iframe width="300" height="150" src="https://www.youtube.com/embed/vSQK5Ym5kRY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+              <iframe width="300" height="150" src="https://www.youtube.com/embed/ZpHd00aiuXc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
             </div>
             <div class="views">
-              <h3>PCET's PCCOER Student Talks | Jui Pangare | First Year Engineering, PCCOER</h3>
-              <iframe width="300" height="150" src="https://www.youtube.com/embed/8jwNhtnbI6U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+              <h3>Niranjani Wagh from computer Department</h3>
+              <br>
+              <iframe width="300" height="150" src="https://www.youtube.com/embed/EjWVVur4_uI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
             </div>
             <div class="views">
-              <h3>PCET's PCCOER Student Talks | Sneha Pujari | First Year Engineering, PCCOER</h3>
-              <iframe width="300" height="150" src="https://www.youtube.com/embed/ww1ohRTVEMQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+              <h3>Ankita vaidya from computer department sharing experience</h3>
+              <iframe width="300" height="150" src="https://www.youtube.com/embed/sWOEDBda7ag" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
             </div>
           </div>
           <div class="views_main">
             <div class="views">
-              <h3>PCET's PCCOER Student Talks | Jui Pangare | First Year Engineering, PCCOER</h3>
-              <iframe width="300" height="150" src="https://www.youtube.com/embed/8jwNhtnbI6U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+              <h3>Saniya Naik from computer Engineering department</h3>
+              <br>
+              <iframe width="300" height="150" src="https://www.youtube.com/embed/lkNQxvxpI5s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
             </div>
             <div class="views">
-              <h3>PCET's PCCOER Student Talks | Sneha Pujari | First Year Engineering, PCCOER</h3>
-              <iframe width="300" height="150" src="https://www.youtube.com/embed/ww1ohRTVEMQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+              <h3>Shipad Agashe from computer department sharing experience</h3>
+              <iframe width="300" height="150" src="https://www.youtube.com/embed/39YGYkLnlt8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
             </div>
           </div>
         </div>
