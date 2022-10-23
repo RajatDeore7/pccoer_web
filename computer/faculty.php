@@ -315,11 +315,11 @@
                     <div class="faculty_img">
                       <img src="./images/Teach/madhuri-kumbhar.jpeg" alt="faculty" height=150 width=150 class="faculty_card">
                     </div>
-                    <p class="faculty_name"><b>Madhuri N. Kumbhar</b></p>
+                    <p class="faculty_name"><b>Mrs. Madhuri N. Kumbhar</b></p>
                     <p class="faculty_card_link"><b>Designation: </b>Assistant Professor</p>
                   </div>
                   <div class="flip-card-back">
-                    <p class="faculty_name"><b>Madhuri N. Kumbhar</b></p>
+                    <p class="faculty_name"><b>Mrs. Madhuri N. Kumbhar</b></p>
                     <p class="faculty_card_link"><b>Qualification: </b>M.E(Computer Engg.)</p>
                     <p class="faculty_card_link"><b>Experience: </b> <b>Teaching:</b> 9.5 Years</p>
                     <p class="faculty_card_link"><b>Email-Id:</b> madhuri.kumbhar@pccoer.in</p>
@@ -335,18 +335,16 @@
                 <div class="flip-card-inner">
                   <div class="flip-card-front">
                     <div class="faculty_img">
-                      <img src="./images/Teach/sonali.png" alt="faculty" height=150 width=150 class="faculty_card">
+                      <img src="./images/Teach/ashwini-bhavsar.png" alt="faculty" height=150 width=150 class="faculty_card">
                     </div>
-                    <p class="faculty_name"><b>Mrs. Sonali S. Lunawat</b></p>
+                    <p class="faculty_name"><b>Mrs. Ashwini Bhavsar</b></p>
                     <p class="faculty_card_link"><b>Designation: </b>Assistant Professor</p>
                   </div>
                   <div class="flip-card-back">
-                    <p class="faculty_name"><b>Mrs. Sonali S. Lunawat</b></p>
-                    <p class="faculty_card_link"><b>Qualification: </b>M.Sc.(Chemistry)- .(NET)</p>
-                    <p class="faculty_card_link"><b>Experience: </b> <b>Teaching:</b> 14 Years,<br><b>Industry:</b>0.5 yr,<br><b>Research:</b>1 Yr</p>
-                    <p class="faculty_card_link"><b>Email-Id:</b> tushar.gaikwad@pccoer.in</p>
-                    <a href="https://tushargaikwad1382.blogspot.com/" class="faculty_blog"><i class="fa-solid fa-blog"></i></a>
-                    <a href="./pdf/view-profile/Faculty Profile AAC.pdf" class="faculty_blog"><i class="fa-solid fa-user"></i></a>
+                    <p class="faculty_name"><b>Mrs. Ashwini Bhavsar</b></p>
+                    <p class="faculty_card_link"><b>Qualification: </b> M.E in Computer Engineering</p>
+                    <p class="faculty_card_link"><b>Experience: </b> <b>Teaching:</b> 12 Years</p>
+                    <p class="faculty_card_link"><b>Email-Id:</b> ashwini.bhavsar@pccoer.in</p>
                     <a href="https://www.youtube.com/user/12345652162" class="faculty_blog"><i class="fa-brands fa-youtube"></i></a>
                   </div>
                 </div>
@@ -357,19 +355,17 @@
                 <div class="flip-card-inner">
                   <div class="flip-card-front">
                     <div class="faculty_img">
-                      <img src="./images/Teach/sonali.png" alt="faculty" height=150 width=150 class="faculty_card">
+                      <img src="./images/Teach/archanakollu.png" alt="faculty" height=150 width=150 class="faculty_card">
                     </div>
-                    <p class="faculty_name"><b>Mrs. Sonali S. Lunawat</b></p>
+                    <p class="faculty_name"><b>Dr.Archana Kollu</b></p>
                     <p class="faculty_card_link"><b>Designation: </b>Assistant Professor</p>
                   </div>
                   <div class="flip-card-back">
-                    <p class="faculty_name"><b>Mrs. Sonali S. Lunawat</b></p>
-                    <p class="faculty_card_link"><b>Qualification: </b>M.Sc.(Chemistry)- .(NET)</p>
-                    <p class="faculty_card_link"><b>Experience: </b> <b>Teaching:</b> 14 Years,<br><b>Industry:</b>0.5 yr,<br><b>Research:</b>1 Yr</p>
-                    <p class="faculty_card_link"><b>Email-Id:</b> tushar.gaikwad@pccoer.in</p>
-                    <a href="https://tushargaikwad1382.blogspot.com/" class="faculty_blog"><i class="fa-solid fa-blog"></i></a>
-                    <a href="./pdf/view-profile/Faculty Profile AAC.pdf" class="faculty_blog"><i class="fa-solid fa-user"></i></a>
-                    <a href="https://www.youtube.com/user/12345652162" class="faculty_blog"><i class="fa-brands fa-youtube"></i></a>
+                    <p class="faculty_name"><b>Dr.Archana Kollu</b></p>
+                    <p class="faculty_card_link"><b>Qualification: </b>PhD (Computer Engineering),M.E (Computer Engineering),B.Tech ( Computer Engineering)</p>
+                    <p class="faculty_card_link"><b>Experience: </b> <b>Teaching:</b> 15 Years,<br><b>Industry:</b>6 Months</p>
+                    <p class="faculty_card_link"><b>Email-Id:</b> archana.kollu@pccoer.in</p>
+                    <a href="archanakollu.wordpress.com" class="faculty_blog"><i class="fa-solid fa-blog"></i></a>
                   </div>
                 </div>
               </div>
@@ -379,19 +375,17 @@
                 <div class="flip-card-inner">
                   <div class="flip-card-front">
                     <div class="faculty_img">
-                      <img src="./images/Teach/sonali.png" alt="faculty" height=150 width=150 class="faculty_card">
+                      <img src="./images/Teach/trupti.png" alt="faculty" height=150 width=150 class="faculty_card">
                     </div>
-                    <p class="faculty_name"><b>Mrs. Sonali S. Lunawat</b></p>
+                    <p class="faculty_name"><b>Mrs. Trupti Chetan Kherde</b></p>
                     <p class="faculty_card_link"><b>Designation: </b>Assistant Professor</p>
                   </div>
                   <div class="flip-card-back">
-                    <p class="faculty_name"><b>Mrs. Sonali S. Lunawat</b></p>
-                    <p class="faculty_card_link"><b>Qualification: </b>M.Sc.(Chemistry)- .(NET)</p>
-                    <p class="faculty_card_link"><b>Experience: </b> <b>Teaching:</b> 14 Years,<br><b>Industry:</b>0.5 yr,<br><b>Research:</b>1 Yr</p>
-                    <p class="faculty_card_link"><b>Email-Id:</b> tushar.gaikwad@pccoer.in</p>
-                    <a href="https://tushargaikwad1382.blogspot.com/" class="faculty_blog"><i class="fa-solid fa-blog"></i></a>
-                    <a href="./pdf/view-profile/Faculty Profile AAC.pdf" class="faculty_blog"><i class="fa-solid fa-user"></i></a>
-                    <a href="https://www.youtube.com/user/12345652162" class="faculty_blog"><i class="fa-brands fa-youtube"></i></a>
+                    <p class="faculty_name"><b>Mrs. Trupti Chetan Kherde</b></p>
+                    <p class="faculty_card_link"><b>Qualification: </b> B.E (IT), M.E.(CSE)</p>
+                    <p class="faculty_card_link"><b>Experience: </b> <b>Teaching:</b> 4 Years</p>
+                    <p class="faculty_card_link"><b>Email-Id:</b> trupti.kherde@pccoer.in</p>
+                    <a href=" kherdetrupti.wordpress.com" class="faculty_blog"><i class="fa-solid fa-blog"></i></a>
                   </div>
                 </div>
               </div>
