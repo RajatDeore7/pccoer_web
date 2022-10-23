@@ -313,19 +313,18 @@
                 <div class="flip-card-inner">
                   <div class="flip-card-front">
                     <div class="faculty_img">
-                      <img src="images/faculty_teaching/tushar.png" alt="faculty" height=150 width=150 class="faculty_card">
+                      <img src="images/faculty_teaching/shivaji chavan.jpg" alt="faculty" height=150 width=150 class="faculty_card">
                     </div>
-                    <p class="faculty_name"><b>Mr. Gaikwad Tushar Balkrishna</b></p>
+                    <p class="faculty_name"><b>Dr. Shivaji Uttam Chavan</b></p>
                     <p class="faculty_card_link"><b>Designation: </b>Assistant Professor</p>
                   </div>
                   <div class="flip-card-back">
-                    <p class="faculty_name"><b>Mr. Gaikwad Tushar Balkrishna</b></p>
-                    <p class="faculty_card_link"><b>Qualification: </b>M.Sc.(Chemistry)- .(NET)</p>
-                    <p class="faculty_card_link"><b>Experience: </b> <b>Teaching:</b> 14 Year,<br><b>Industry:</b>0.5 yr,<br><b>Research:</b>1 Yr</p>
-                    <p class="faculty_card_link"><b>Email-Id:</b> tushar.gaikwad@pccoer.in</p>
-                    <a href="https://tushargaikwad1382.blogspot.com/" class="faculty_blog"><i class="fa-solid fa-blog"></i></a>
-                    <a href="./pdf/view-profile/Faculty Profile format_PBO-converted.pdf" class="faculty_blog"><i class="fa-solid fa-user"></i></a>
-                    <a href="https://www.youtube.com/user/12345652162" class="faculty_blog"><i class="fa-brands fa-youtube"></i></a>
+                    <p class="faculty_name"><b>Dr. Shivaji Uttam Chavan</b></p>
+                    <p class="faculty_card_link"><b>Qualification: </b>B.A., B.Ed, M.A, PhD (English Literature), SET Qualified </p>
+                    <p class="faculty_card_link"><b>Experience: </b> <b>Teaching:</b> 14 Years,<br><b>Industry:</b>1 Year,<br><b>Research:</b>7 Years</p>
+                    <p class="faculty_card_link"><b>Email-Id:</b> shivaji.chavan@pccoer.in</p>
+                    <a href="./pdf/view-profile/Faculty-Profile-Dr-Shivaji-Chavan-2022[2651].pdf" class="faculty_blog"><i class="fa-solid fa-user"></i></a>
+                    <a href="https://www.youtube.com/channel/UCb9nNzoZVQj8fqD8T94hymQ " class="faculty_blog"><i class="fa-brands fa-youtube"></i></a>
                   </div>
                 </div>
               </div>
@@ -338,7 +337,50 @@
                 <div class="flip-card-inner">
                   <div class="flip-card-front">
                     <div class="faculty_img">
-                      <img src="images/faculty_teaching/tushar.png" alt="faculty" height=150 width=150 class="faculty_card">
+                      <img src="images/faculty_teaching/Dr.Priti Ghutepatil 1.jpg" alt="faculty" height=150 width=150 class="faculty_card">
+                    </div>
+                    <p class="faculty_name"><b>Dr. Priti Ghutepatil</b></p>
+                    <p class="faculty_card_link"><b>Designation: </b>Assistant Professor</p>
+                  </div>
+                  <div class="flip-card-back">
+                    <p class="faculty_name"><b>Dr. Priti Ghutepatil</b></p>
+                    <p class="faculty_card_link"><b>Qualification: </b>M.Sc. Chemistry (Ph.D.)</p>
+                    <p class="faculty_card_link"><b>Experience: </b> <b>Teaching:</b> 7 Years</p>
+                    <p class="faculty_card_link"><b>Email-Id:</b> pritighutepatil@gmail.com</p>
+                    <a href="./pdf/view-profile/Dr.Priti Ghutepatil Profile[2649].pdf" class="faculty_blog"><i class="fa-solid fa-user"></i></a>
+                    <a href="https://www.youtube.com/channel/UCgm6s0imoDEJzqupr9Rrvzw" class="faculty_blog"><i class="fa-brands fa-youtube"></i></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-3" id="faculty-card">
+              <div class="flip-card">
+                <div class="flip-card-inner">
+                  <div class="flip-card-front">
+                    <div class="faculty_img">
+                      <img src="images/faculty_teaching/IMG_20221015_104232.jpg" alt="faculty" height=150 width=150 class="faculty_card">
+                    </div>
+                    <p class="faculty_name"><b>Mr. Nilsesh Hanumant Thube</b></p>
+                    <p class="faculty_card_link"><b>Designation: </b>Assistant Professor</p>
+                  </div>
+                  <div class="flip-card-back">
+                    <p class="faculty_name"><b>Mr. Nilsesh Hanumant Thube</b></p>
+                    <p class="faculty_card_link"><b>Qualification: </b>M.Sc. Mathematics (NET AIR52)</p>
+                    <p class="faculty_card_link"><b>Experience: </b> <b>Teaching:</b> 4.5 Years</p>
+                    <p class="faculty_card_link"><b>Email-Id:</b> nilesh.thube@pccoer.in</p>
+                    <a href="https://nileshthube.blogspot.com/" class="faculty_blog"><i class="fa-solid fa-blog"></i></a>
+                    <a href="./pdf/view-profile/N H Thube.pdf" class="faculty_blog"><i class="fa-solid fa-user"></i></a>
+                    <a href="https://www.youtube.com/channel/UCbbEyV4iLMmYkkEBnHZYMfQ" class="faculty_blog"><i class="fa-brands fa-youtube"></i></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-3" id="faculty-card">
+              <div class="flip-card">
+                <div class="flip-card-inner">
+                  <div class="flip-card-front">
+                    <div class="faculty_img">
+                      <img src="images/faculty_teaching" alt="faculty" height=150 width=150 class="faculty_card">
                     </div>
                     <p class="faculty_name"><b>Mr. Gaikwad Tushar Balkrishna</b></p>
                     <p class="faculty_card_link"><b>Designation: </b>Assistant Professor</p>
@@ -346,7 +388,7 @@
                   <div class="flip-card-back">
                     <p class="faculty_name"><b>Mr. Gaikwad Tushar Balkrishna</b></p>
                     <p class="faculty_card_link"><b>Qualification: </b>M.Sc.(Chemistry)- .(NET)</p>
-                    <p class="faculty_card_link"><b>Experience: </b> <b>Teaching:</b> 14 Year,<br><b>Industry:</b>0.5 yr,<br><b>Research:</b>1 Yr</p>
+                    <p class="faculty_card_link"><b>Experience: </b> <b>Teaching:</b> 14 Years,<br><b>Industry:</b>0.5 yr,<br><b>Research:</b>1 Yr</p>
                     <p class="faculty_card_link"><b>Email-Id:</b> tushar.gaikwad@pccoer.in</p>
                     <a href="https://tushargaikwad1382.blogspot.com/" class="faculty_blog"><i class="fa-solid fa-blog"></i></a>
                     <a href="./pdf/view-profile/Faculty Profile format_PBO-converted.pdf" class="faculty_blog"><i class="fa-solid fa-user"></i></a>
@@ -356,6 +398,7 @@
               </div>
             </div>
           </div>
+
         </div>
       </div>
     </div>
