@@ -223,19 +223,19 @@
                 <div class="flip-card-inner">
                   <div class="flip-card-front">
                     <div class="faculty_img">
-                      <img src="./images/Teach/sonali.png" alt="faculty" height=150 width=150 class="faculty_card">
+                      <img src="./images/Teach/shwetak.png" alt="faculty" height=150 width=150 class="faculty_card">
                     </div>
                     <p class="faculty_name"><b>Mrs. Shweta Ashish Koparde</b></p>
                     <p class="faculty_card_link"><b>Designation: </b>Assistant Professor</p>
                   </div>
                   <div class="flip-card-back">
                     <p class="faculty_name"><b>Mrs. Shweta Ashish Koparde</b></p>
-                    <p class="faculty_card_link"><b>Qualification: </b>M.Sc.(Chemistry)- .(NET)</p>
-                    <p class="faculty_card_link"><b>Experience: </b> <b>Teaching:</b> 14 Years,<br><b>Industry:</b>0.5 yr,<br><b>Research:</b>1 Yr</p>
-                    <p class="faculty_card_link"><b>Email-Id:</b> tushar.gaikwad@pccoer.in</p>
-                    <a href="https://tushargaikwad1382.blogspot.com/" class="faculty_blog"><i class="fa-solid fa-blog"></i></a>
-                    <a href="./pdf/view-profile/Faculty Profile AAC.pdf" class="faculty_blog"><i class="fa-solid fa-user"></i></a>
-                    <a href="https://www.youtube.com/user/12345652162" class="faculty_blog"><i class="fa-brands fa-youtube"></i></a>
+                    <p class="faculty_card_link"><b>Qualification: </b>PhD (Pursuing), ME Computer</p>
+                    <p class="faculty_card_link"><b>Experience: </b> <b>Teaching:</b> 14 Years,<br><b>Industry:</b>2 Years</p>
+                    <p class="faculty_card_link"><b>Email-Id:</b> shweta.koparde@pccoer.in</p>
+                    <a href="https://shwetakoparde.wixsite.com/mysite" class="faculty_blog"><i class="fa-solid fa-blog"></i></a>
+                    <a href="./pdf/view-profile/Faculty Profile SAK.pdf" class="faculty_blog"><i class="fa-solid fa-user"></i></a>
+                    <a href="https://www.youtube.com/channel/UCI6T9p8LfdL8CX1lSpWLjGQ/" class="faculty_blog"><i class="fa-brands fa-youtube"></i></a>
                   </div>
                 </div>
               </div>
@@ -245,19 +245,19 @@
                 <div class="flip-card-inner">
                   <div class="flip-card-front">
                     <div class="faculty_img">
-                      <img src="./images/Teach/sonali.png" alt="faculty" height=150 width=150 class="faculty_card">
+                      <img src="./images/Teach/photo_minal_bhondave.png" alt="faculty" height=150 width=150 class="faculty_card">
                     </div>
-                    <p class="faculty_name"><b>Mrs. Sonali S. Lunawat</b></p>
+                    <p class="faculty_name"><b>Mrs. Minal R. Bodke</b></p>
                     <p class="faculty_card_link"><b>Designation: </b>Assistant Professor</p>
                   </div>
                   <div class="flip-card-back">
-                    <p class="faculty_name"><b>Mrs. Sonali S. Lunawat</b></p>
-                    <p class="faculty_card_link"><b>Qualification: </b>M.Sc.(Chemistry)- .(NET)</p>
-                    <p class="faculty_card_link"><b>Experience: </b> <b>Teaching:</b> 14 Years,<br><b>Industry:</b>0.5 yr,<br><b>Research:</b>1 Yr</p>
-                    <p class="faculty_card_link"><b>Email-Id:</b> tushar.gaikwad@pccoer.in</p>
-                    <a href="https://tushargaikwad1382.blogspot.com/" class="faculty_blog"><i class="fa-solid fa-blog"></i></a>
-                    <a href="./pdf/view-profile/Faculty Profile AAC.pdf" class="faculty_blog"><i class="fa-solid fa-user"></i></a>
-                    <a href="https://www.youtube.com/user/12345652162" class="faculty_blog"><i class="fa-brands fa-youtube"></i></a>
+                    <p class="faculty_name"><b>Mrs. Minal R. Bodke</b></p>
+                    <p class="faculty_card_link"><b>Qualification: </b>PhD (Pursuing), M.E(Information Technology)</p>
+                    <p class="faculty_card_link"><b>Experience:</b><b>Teaching:</b>6 Months<br> <b>Teaching Assistant:</b> 2 Years</p>
+                    <p class="faculty_card_link"><b>Email-Id:</b> minal.bodke@pccoer.in</p>
+                    <a href="https://minalbodke.wordpress.com/" class="faculty_blog"><i class="fa-solid fa-blog"></i></a>
+                    <a href="./pdf/view-profile/Faculty Profile MRB.pdf" class="faculty_blog"><i class="fa-solid fa-user"></i></a>
+                    <a href="https://www.youtube.com/channel/UCbaQ6AcWKL6o2tUoeHBBPCw" class="faculty_blog"><i class="fa-brands fa-youtube"></i></a>
                   </div>
                 </div>
               </div>
