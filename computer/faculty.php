@@ -269,19 +269,19 @@
                 <div class="flip-card-inner">
                   <div class="flip-card-front">
                     <div class="faculty_img">
-                      <img src="./images/Teach/sonali.png" alt="faculty" height=150 width=150 class="faculty_card">
+                      <img src="./images/Teach/govind-suryawanshi.jpg" alt="faculty" height=150 width=150 class="faculty_card">
                     </div>
-                    <p class="faculty_name"><b>Mrs. Sonali S. Lunawat</b></p>
+                    <p class="faculty_name"><b>Mr. Govind Rangnath Suryawanshi</b></p>
                     <p class="faculty_card_link"><b>Designation: </b>Assistant Professor</p>
                   </div>
                   <div class="flip-card-back">
-                    <p class="faculty_name"><b>Mrs. Sonali S. Lunawat</b></p>
-                    <p class="faculty_card_link"><b>Qualification: </b>M.Sc.(Chemistry)- .(NET)</p>
-                    <p class="faculty_card_link"><b>Experience: </b> <b>Teaching:</b> 14 Years,<br><b>Industry:</b>0.5 yr,<br><b>Research:</b>1 Yr</p>
-                    <p class="faculty_card_link"><b>Email-Id:</b> tushar.gaikwad@pccoer.in</p>
-                    <a href="https://tushargaikwad1382.blogspot.com/" class="faculty_blog"><i class="fa-solid fa-blog"></i></a>
-                    <a href="./pdf/view-profile/Faculty Profile AAC.pdf" class="faculty_blog"><i class="fa-solid fa-user"></i></a>
-                    <a href="https://www.youtube.com/user/12345652162" class="faculty_blog"><i class="fa-brands fa-youtube"></i></a>
+                    <p class="faculty_name"><b>Mr. Govind Rangnath Suryawanshi</b></p>
+                    <p class="faculty_card_link"><b>Qualification: </b>M.Tech (CSE)</p>
+                    <p class="faculty_card_link"><b>Experience: </b> <b>Teaching:</b> 17 Years</p>
+                    <p class="faculty_card_link"><b>Email-Id:</b> Govind.suryawanshi@pccoer.in</p>
+                    <a href="https://grstech21.blogspot.com/" class="faculty_blog"><i class="fa-solid fa-blog"></i></a>
+                    <a href="./pdf/view-profile/Faculty Profile-GRS.pdf" class="faculty_blog"><i class="fa-solid fa-user"></i></a>
+                    <a href="https://youtu.be/jBYnMYMxSu8" class="faculty_blog"><i class="fa-brands fa-youtube"></i></a>
                   </div>
                 </div>
               </div>
@@ -291,19 +291,19 @@
                 <div class="flip-card-inner">
                   <div class="flip-card-front">
                     <div class="faculty_img">
-                      <img src="./images/Teach/sonali.png" alt="faculty" height=150 width=150 class="faculty_card">
+                      <img src="./images/Teach/vijay-kotkar.jpg" alt="faculty" height=150 width=150 class="faculty_card">
                     </div>
-                    <p class="faculty_name"><b>Mrs. Sonali S. Lunawat</b></p>
+                    <p class="faculty_name"><b>Mr. Vijay Arun Kotkar</b></p>
                     <p class="faculty_card_link"><b>Designation: </b>Assistant Professor</p>
                   </div>
                   <div class="flip-card-back">
                     <p class="faculty_name"><b>Mrs. Sonali S. Lunawat</b></p>
-                    <p class="faculty_card_link"><b>Qualification: </b>M.Sc.(Chemistry)- .(NET)</p>
-                    <p class="faculty_card_link"><b>Experience: </b> <b>Teaching:</b> 14 Years,<br><b>Industry:</b>0.5 yr,<br><b>Research:</b>1 Yr</p>
-                    <p class="faculty_card_link"><b>Email-Id:</b> tushar.gaikwad@pccoer.in</p>
-                    <a href="https://tushargaikwad1382.blogspot.com/" class="faculty_blog"><i class="fa-solid fa-blog"></i></a>
-                    <a href="./pdf/view-profile/Faculty Profile AAC.pdf" class="faculty_blog"><i class="fa-solid fa-user"></i></a>
-                    <a href="https://www.youtube.com/user/12345652162" class="faculty_blog"><i class="fa-brands fa-youtube"></i></a>
+                    <p class="faculty_card_link"><b>Qualification: </b>M.E.(CSE), Ph.D.(Pursuing)</p>
+                    <p class="faculty_card_link"><b>Experience: </b> <b>Teaching:</b> 12 Years</p>
+                    <p class="faculty_card_link"><b>Email-Id:</b> vijay.kotkar@pccoer.in</p>
+                    <a href="https://vijaykotkar.blogspot.com/" class="faculty_blog"><i class="fa-solid fa-blog"></i></a>
+                    <a href="./pdf/view-profile/VAK Faculty Profile.pdf" class="faculty_blog"><i class="fa-solid fa-user"></i></a>
+                    <a href="https://www.youtube.com/channel/UCt6b_aStTn1kFV6kVw42W_g" class="faculty_blog"><i class="fa-brands fa-youtube"></i></a>
                   </div>
                 </div>
               </div>
@@ -313,19 +313,17 @@
                 <div class="flip-card-inner">
                   <div class="flip-card-front">
                     <div class="faculty_img">
-                      <img src="./images/Teach/sonali.png" alt="faculty" height=150 width=150 class="faculty_card">
+                      <img src="./images/Teach/madhuri-kumbhar.jpeg" alt="faculty" height=150 width=150 class="faculty_card">
                     </div>
-                    <p class="faculty_name"><b>Mrs. Sonali S. Lunawat</b></p>
+                    <p class="faculty_name"><b>Madhuri N. Kumbhar</b></p>
                     <p class="faculty_card_link"><b>Designation: </b>Assistant Professor</p>
                   </div>
                   <div class="flip-card-back">
-                    <p class="faculty_name"><b>Mrs. Sonali S. Lunawat</b></p>
-                    <p class="faculty_card_link"><b>Qualification: </b>M.Sc.(Chemistry)- .(NET)</p>
-                    <p class="faculty_card_link"><b>Experience: </b> <b>Teaching:</b> 14 Years,<br><b>Industry:</b>0.5 yr,<br><b>Research:</b>1 Yr</p>
-                    <p class="faculty_card_link"><b>Email-Id:</b> tushar.gaikwad@pccoer.in</p>
-                    <a href="https://tushargaikwad1382.blogspot.com/" class="faculty_blog"><i class="fa-solid fa-blog"></i></a>
-                    <a href="./pdf/view-profile/Faculty Profile AAC.pdf" class="faculty_blog"><i class="fa-solid fa-user"></i></a>
-                    <a href="https://www.youtube.com/user/12345652162" class="faculty_blog"><i class="fa-brands fa-youtube"></i></a>
+                    <p class="faculty_name"><b>Madhuri N. Kumbhar</b></p>
+                    <p class="faculty_card_link"><b>Qualification: </b>M.E(Computer Engg.)</p>
+                    <p class="faculty_card_link"><b>Experience: </b> <b>Teaching:</b> 9.5 Years</p>
+                    <p class="faculty_card_link"><b>Email-Id:</b> madhuri.kumbhar@pccoer.in</p>
+                    <a href="https://www.youtube.com/channel/UCtgOIdApbZAd8sCKYoTJYzA" class="faculty_blog"><i class="fa-brands fa-youtube"></i></a>
                   </div>
                 </div>
               </div>
