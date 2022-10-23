@@ -297,7 +297,7 @@
                     <p class="faculty_card_link"><b>Designation: </b>Assistant Professor</p>
                   </div>
                   <div class="flip-card-back">
-                    <p class="faculty_name"><b>Mrs. Sonali S. Lunawat</b></p>
+                    <p class="faculty_name"><b>Mr. Vijay Arun Kotkar</b></p>
                     <p class="faculty_card_link"><b>Qualification: </b>M.E.(CSE), Ph.D.(Pursuing)</p>
                     <p class="faculty_card_link"><b>Experience: </b> <b>Teaching:</b> 12 Years</p>
                     <p class="faculty_card_link"><b>Email-Id:</b> vijay.kotkar@pccoer.in</p>
