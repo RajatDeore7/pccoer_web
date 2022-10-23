@@ -114,7 +114,7 @@
                   <div class="flip-card-back">
                     <p class="faculty_name"><b>Dr. Rupesh Kumar Nilkanth Patil</b></p>
                     <p class="faculty_card_link"><b>Qualification: </b> M.SC.(Chemistry), Ph.D</p>
-                    <p class="faculty_card_link"><b>Experience: </b> <b>Teaching:</b> 20.2 Years</p>
+                    <p class="faculty_card_link"><b>Experience:</b><b>Teaching:</b> 21 Years</p>
                     <p class="faculty_card_link"><b>Email-Id:</b> rupeshkumar.patil@pccoer.in</p>
                     <a href="https://sites.google.com/pccoer.in/drrupeshkumarnilkanthpatil/home" class="faculty_blog"><i class="fa-solid fa-blog"></i></a>
                     <a href="./pdf/view-profile/RNP-converted.pdf" class="faculty_blog"><i class="fa-solid fa-user"></i></a>
@@ -365,7 +365,7 @@
                   </div>
                   <div class="flip-card-back">
                     <p class="faculty_name"><b>Mr. Nilsesh Hanumant Thube</b></p>
-                    <p class="faculty_card_link"><b>Qualification: </b>M.Sc. Mathematics (NET AIR52)</p>
+                    <p class="faculty_card_link"><b>Qualification:</b>M.Sc. Mathematics(NET AIR52)</p>
                     <p class="faculty_card_link"><b>Experience: </b> <b>Teaching:</b> 4.5 Years</p>
                     <p class="faculty_card_link"><b>Email-Id:</b> nilesh.thube@pccoer.in</p>
                     <a href="https://nileshthube.blogspot.com/" class="faculty_blog"><i class="fa-solid fa-blog"></i></a>
