@@ -85,19 +85,19 @@
                 <div class="flip-card-inner">
                   <div class="flip-card-front">
                     <div class="faculty_img">
-                      <img src="./images/Teach/sonali.png" alt="faculty" height=150 width=150 class="faculty_card">
+                      <img src="./images/Teach/mahendra.png" alt="faculty" height=150 width=150 class="faculty_card">
                     </div>
                     <p class="faculty_name"><b>Mr. Mahendra Balkrishna Salunke</b></p>
                     <p class="faculty_card_link"><b>Designation: </b>Assistant Professor</p>
                   </div>
                   <div class="flip-card-back">
                     <p class="faculty_name"><b>Mr. Mahendra Balkrishna Salunke</b></p>
-                    <p class="faculty_card_link"><b>Qualification: </b>M.Sc.(Chemistry)- .(NET)</p>
-                    <p class="faculty_card_link"><b>Experience: </b> <b>Teaching:</b> 14 Years,<br><b>Industry:</b>0.5 yr,<br><b>Research:</b>1 Yr</p>
-                    <p class="faculty_card_link"><b>Email-Id:</b> tushar.gaikwad@pccoer.in</p>
-                    <a href="https://tushargaikwad1382.blogspot.com/" class="faculty_blog"><i class="fa-solid fa-blog"></i></a>
-                    <a href="./pdf/view-profile/Faculty Profile AAC.pdf" class="faculty_blog"><i class="fa-solid fa-user"></i></a>
-                    <a href="https://www.youtube.com/user/12345652162" class="faculty_blog"><i class="fa-brands fa-youtube"></i></a>
+                    <p class="faculty_card_link"><b>Qualification: </b>M-Tech.(CSE), PhD (Pursuing)</p>
+                    <p class="faculty_card_link"><b>Experience: </b> <b>Teaching:</b> 17 Years,<br><b>Industry:</b>5.9 Yrs</p>
+                    <p class="faculty_card_link"><b>Email-Id:</b> mahendra.salunke@pccoer.in</p>
+                    <a href="https://microsig.webs.com/" class="faculty_blog"><i class="fa-solid fa-blog"></i></a>
+                    <a href="./pdf/view-profile/MBS_Faculty Profile.pdf" class="faculty_blog"><i class="fa-solid fa-user"></i></a>
+                    <a href="https://m.youtube.com/channel/UCfkmdT0j2MuriQU6Rug7Liw" class="faculty_blog"><i class="fa-brands fa-youtube"></i></a>
                   </div>
                 </div>
               </div>
@@ -114,12 +114,12 @@
                   </div>
                   <div class="flip-card-back">
                     <p class="faculty_name"><b>Mrs. Sonali S. Lunawat</b></p>
-                    <p class="faculty_card_link"><b>Qualification: </b>M.Sc.(Chemistry)- .(NET)</p>
-                    <p class="faculty_card_link"><b>Experience: </b> <b>Teaching:</b> 14 Years,<br><b>Industry:</b>0.5 yr,<br><b>Research:</b>1 Yr</p>
-                    <p class="faculty_card_link"><b>Email-Id:</b> tushar.gaikwad@pccoer.in</p>
-                    <a href="https://tushargaikwad1382.blogspot.com/" class="faculty_blog"><i class="fa-solid fa-blog"></i></a>
-                    <a href="./pdf/view-profile/Faculty Profile AAC.pdf" class="faculty_blog"><i class="fa-solid fa-user"></i></a>
-                    <a href="https://www.youtube.com/user/12345652162" class="faculty_blog"><i class="fa-brands fa-youtube"></i></a>
+                    <p class="faculty_card_link"><b>Qualification: </b>B.E.(CE), M.E.(Computer Engineering)</p>
+                    <p class="faculty_card_link"><b>Experience: </b> <b>Teaching:</b> 13 Years</p>
+                    <p class="faculty_card_link"><b>Email-Id:</b> sonali.lunawat@pccoer.in</p>
+                    <a href="https://sonallunawat4u.wordpress.com/" class="faculty_blog"><i class="fa-solid fa-blog"></i></a>
+                    <a href="./pdf/view-profile/Faculty Profile SSL.pdf" class="faculty_blog"><i class="fa-solid fa-user"></i></a>
+                    <a href="https://www.youtube.com/channel/UCcmuChi4txIT1MkQXxKW-uQ" class="faculty_blog"><i class="fa-brands fa-youtube"></i></a>
                   </div>
                 </div>
               </div>
@@ -132,19 +132,19 @@
                 <div class="flip-card-inner">
                   <div class="flip-card-front">
                     <div class="faculty_img">
-                      <img src="./images/Teach/sonali.png" alt="faculty" height=150 width=150 class="faculty_card">
+                      <img src="./images/Teach/jameer_kotwal.jpg" alt="faculty" height=150 width=150 class="faculty_card">
                     </div>
-                    <p class="faculty_name"><b>Mrs. Sonali S. Lunawat</b></p>
+                    <p class="faculty_name"><b>Mr. Jameer Kotwal</b></p>
                     <p class="faculty_card_link"><b>Designation: </b>Assistant Professor</p>
                   </div>
                   <div class="flip-card-back">
-                    <p class="faculty_name"><b>Mrs. Sonali S. Lunawat</b></p>
-                    <p class="faculty_card_link"><b>Qualification: </b>M.Sc.(Chemistry)- .(NET)</p>
-                    <p class="faculty_card_link"><b>Experience: </b> <b>Teaching:</b> 14 Years,<br><b>Industry:</b>0.5 yr,<br><b>Research:</b>1 Yr</p>
-                    <p class="faculty_card_link"><b>Email-Id:</b> tushar.gaikwad@pccoer.in</p>
-                    <a href="https://tushargaikwad1382.blogspot.com/" class="faculty_blog"><i class="fa-solid fa-blog"></i></a>
-                    <a href="./pdf/view-profile/Faculty Profile AAC.pdf" class="faculty_blog"><i class="fa-solid fa-user"></i></a>
-                    <a href="https://www.youtube.com/user/12345652162" class="faculty_blog"><i class="fa-brands fa-youtube"></i></a>
+                    <p class="faculty_name"><b>Mr. Jameer Kotwal</b></p>
+                    <p class="faculty_card_link"><b>Qualification: </b>M.Tech (CSE), Phd(pursuing)</p>
+                    <p class="faculty_card_link"><b>Experience: </b> <b>Teaching:</b> 14 Years</p>
+                    <p class="faculty_card_link"><b>Email-Id:</b> jameer.kotwal@pccoer.in</p>
+                    <a href="https://sites.google.com/view/jameer-kotwal/home" class="faculty_blog"><i class="fa-solid fa-blog"></i></a>
+                    <a href="./pdf/view-profile/Faculty_Profile_JGK.pdf" class="faculty_blog"><i class="fa-solid fa-user"></i></a>
+                    <a href="https://m.youtube.com/channel/UC7Bq6inD_7L0KIOTC0VspHg" class="faculty_blog"><i class="fa-brands fa-youtube"></i></a>
                   </div>
                 </div>
               </div>
@@ -154,19 +154,19 @@
                 <div class="flip-card-inner">
                   <div class="flip-card-front">
                     <div class="faculty_img">
-                      <img src="./images/Teach/sonali.png" alt="faculty" height=150 width=150 class="faculty_card">
+                      <img src="./images/Teach/madhuri.png" alt="faculty" height=150 width=150 class="faculty_card">
                     </div>
-                    <p class="faculty_name"><b>Mrs. Sonali S. Lunawat</b></p>
+                    <p class="faculty_name"><b>Mrs. Madhuri H. Badole</b></p>
                     <p class="faculty_card_link"><b>Designation: </b>Assistant Professor</p>
                   </div>
                   <div class="flip-card-back">
-                    <p class="faculty_name"><b>Mrs. Sonali S. Lunawat</b></p>
-                    <p class="faculty_card_link"><b>Qualification: </b>M.Sc.(Chemistry)- .(NET)</p>
-                    <p class="faculty_card_link"><b>Experience: </b> <b>Teaching:</b> 14 Years,<br><b>Industry:</b>0.5 yr,<br><b>Research:</b>1 Yr</p>
+                    <p class="faculty_name"><b>Mrs. Madhuri H. Badole</b></p>
+                    <p class="faculty_card_link"><b>Qualification: </b>B.E., M.E.(WCC), PhD Pursuing (CSE)</p>
+                    <p class="faculty_card_link"><b>Experience: </b> <b>Teaching:</b> 8 Years</p>
                     <p class="faculty_card_link"><b>Email-Id:</b> tushar.gaikwad@pccoer.in</p>
-                    <a href="https://tushargaikwad1382.blogspot.com/" class="faculty_blog"><i class="fa-solid fa-blog"></i></a>
-                    <a href="./pdf/view-profile/Faculty Profile AAC.pdf" class="faculty_blog"><i class="fa-solid fa-user"></i></a>
-                    <a href="https://www.youtube.com/user/12345652162" class="faculty_blog"><i class="fa-brands fa-youtube"></i></a>
+                    <a href="https://madhurihbadole.wordpress.com/" class="faculty_blog"><i class="fa-solid fa-blog"></i></a>
+                    <a href="./pdf/view-profile/Faculty_Profile_MHB.pdf" class="faculty_blog"><i class="fa-solid fa-user"></i></a>
+                    <a href="https://www.youtube.com/channel/UCoT3IF15kpSdvy58bh7WUsg?view_as=subscriber" class="faculty_blog"><i class="fa-brands fa-youtube"></i></a>
                   </div>
                 </div>
               </div>
@@ -176,19 +176,19 @@
                 <div class="flip-card-inner">
                   <div class="flip-card-front">
                     <div class="faculty_img">
-                      <img src="./images/Teach/sonali.png" alt="faculty" height=150 width=150 class="faculty_card">
+                      <img src="./images/Teach/korade.png" alt="faculty" height=150 width=150 class="faculty_card">
                     </div>
-                    <p class="faculty_name"><b>Mrs. Sonali S. Lunawat</b></p>
+                    <p class="faculty_name"><b> Mr. Korade Nilesh Bhikaji</b></p>
                     <p class="faculty_card_link"><b>Designation: </b>Assistant Professor</p>
                   </div>
                   <div class="flip-card-back">
-                    <p class="faculty_name"><b>Mrs. Sonali S. Lunawat</b></p>
-                    <p class="faculty_card_link"><b>Qualification: </b>M.Sc.(Chemistry)- .(NET)</p>
-                    <p class="faculty_card_link"><b>Experience: </b> <b>Teaching:</b> 14 Years,<br><b>Industry:</b>0.5 yr,<br><b>Research:</b>1 Yr</p>
-                    <p class="faculty_card_link"><b>Email-Id:</b> tushar.gaikwad@pccoer.in</p>
-                    <a href="https://tushargaikwad1382.blogspot.com/" class="faculty_blog"><i class="fa-solid fa-blog"></i></a>
-                    <a href="./pdf/view-profile/Faculty Profile AAC.pdf" class="faculty_blog"><i class="fa-solid fa-user"></i></a>
-                    <a href="https://www.youtube.com/user/12345652162" class="faculty_blog"><i class="fa-brands fa-youtube"></i></a>
+                    <p class="faculty_name"><b> Mr. Korade Nilesh Bhikaji</b></p>
+                    <p class="faculty_card_link"><b>Qualification: </b>M.Tech(CSE), PhD(Pursuing)</p>
+                    <p class="faculty_card_link"><b>Experience: </b> <b>Teaching:</b> 9 Years</p>
+                    <p class="faculty_card_link"><b>Email-Id:</b> nilesh.korade@pccoer.in</p>
+                    <a href="http://nileshkorade.pccoerelearning.com/" class="faculty_blog"><i class="fa-solid fa-blog"></i></a>
+                    <a href="./pdf/view-profile/Faculty Profile NBK.pdf" class="faculty_blog"><i class="fa-solid fa-user"></i></a>
+                    <a href="https://youtu.be/oZYlnAcneqc" class="faculty_blog"><i class="fa-brands fa-youtube"></i></a>
                   </div>
                 </div>
               </div>
@@ -201,19 +201,19 @@
                 <div class="flip-card-inner">
                   <div class="flip-card-front">
                     <div class="faculty_img">
-                      <img src="./images/Teach/sonali.png" alt="faculty" height=150 width=150 class="faculty_card">
+                      <img src="./images/Teach/vaishalil.png" alt="faculty" height=150 width=150 class="faculty_card">
                     </div>
-                    <p class="faculty_name"><b>Mrs. Sonali S. Lunawat</b></p>
+                    <p class="faculty_name"><b>Ms. Vaishali Prasad Latke</b></p>
                     <p class="faculty_card_link"><b>Designation: </b>Assistant Professor</p>
                   </div>
                   <div class="flip-card-back">
-                    <p class="faculty_name"><b>Mrs. Sonali S. Lunawat</b></p>
-                    <p class="faculty_card_link"><b>Qualification: </b>M.Sc.(Chemistry)- .(NET)</p>
-                    <p class="faculty_card_link"><b>Experience: </b> <b>Teaching:</b> 14 Years,<br><b>Industry:</b>0.5 yr,<br><b>Research:</b>1 Yr</p>
-                    <p class="faculty_card_link"><b>Email-Id:</b> tushar.gaikwad@pccoer.in</p>
-                    <a href="https://tushargaikwad1382.blogspot.com/" class="faculty_blog"><i class="fa-solid fa-blog"></i></a>
-                    <a href="./pdf/view-profile/Faculty Profile AAC.pdf" class="faculty_blog"><i class="fa-solid fa-user"></i></a>
-                    <a href="https://www.youtube.com/user/12345652162" class="faculty_blog"><i class="fa-brands fa-youtube"></i></a>
+                    <p class="faculty_name"><b>Ms. Vaishali Prasad Latke</b></p>
+                    <p class="faculty_card_link"><b>Qualification: </b>BE Computer-Engineering, ME Computer-Engineering, PhD (Pursuing)</p>
+                    <p class="faculty_card_link"><b>Experience: </b> <b>Teaching:</b> 12 Years</p>
+                    <p class="faculty_card_link"><b>Email-Id:</b> vaishali.latke@pccoer.in</p>
+                    <a href="https://vaishalilatke.wixsite.com/blog" class="faculty_blog"><i class="fa-solid fa-blog"></i></a>
+                    <a href="./pdf/view-profile/Vaishali LAtke.pdf" class="faculty_blog"><i class="fa-solid fa-user"></i></a>
+                    <a href="https://www.youtube.com/channel/UCR_PNqEuOvYiBDlY1mP8pGQ" class="faculty_blog"><i class="fa-brands fa-youtube"></i></a>
                   </div>
                 </div>
               </div>
@@ -225,11 +225,11 @@
                     <div class="faculty_img">
                       <img src="./images/Teach/sonali.png" alt="faculty" height=150 width=150 class="faculty_card">
                     </div>
-                    <p class="faculty_name"><b>Mrs. Sonali S. Lunawat</b></p>
+                    <p class="faculty_name"><b>Mrs. Shweta Ashish Koparde</b></p>
                     <p class="faculty_card_link"><b>Designation: </b>Assistant Professor</p>
                   </div>
                   <div class="flip-card-back">
-                    <p class="faculty_name"><b>Mrs. Sonali S. Lunawat</b></p>
+                    <p class="faculty_name"><b>Mrs. Shweta Ashish Koparde</b></p>
                     <p class="faculty_card_link"><b>Qualification: </b>M.Sc.(Chemistry)- .(NET)</p>
                     <p class="faculty_card_link"><b>Experience: </b> <b>Teaching:</b> 14 Years,<br><b>Industry:</b>0.5 yr,<br><b>Research:</b>1 Yr</p>
                     <p class="faculty_card_link"><b>Email-Id:</b> tushar.gaikwad@pccoer.in</p>
