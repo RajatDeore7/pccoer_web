@@ -9,7 +9,7 @@
 			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href='./pdf/Comp_Infrastructure_Details.pdf'>Infrastruchure & Facilities</a></li>
 			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href='research.php'>Research</a></li>
 			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href='download.php'>Downloads</a></li>
-			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href='pdf/FE_Achievement.pdf'>Achievements</a></li>
+			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href='achivements.php'>Achievements</a></li>
 			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href=''>Department Activities</a></li>
 			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href='./pdf/Comp_Department_Highlights.pdf'>Department Highlights</a></li>
 			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href='students-view.php'>Student's View</a></li>

@@ -6,9 +6,9 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-	<title>Download - Syllabus and Academic Calendar of Department of Computer Engineering | Pimpri Chinchwad College of Engineering And Research | PCCOER - PCMC, Pune</title>
-	<meta name="description" content="Download the syllabus and academic calendar of department of, computer engineering Pimpri Chinchwad College of Engineering And Research." />
-	<meta name="keywords" content="pimpri chinchwad college of engineering and research, computer engineering, syllabus, academic calendar">
+	<title>Student Achivements of Department of Computer Engineering | Pimpri Chinchwad College Of Engineering And Research | PCCOER - PCMC, Pune</title>
+	<meta name="description" content="Department of mechanical engineering student’s achievements with different patents in computer engineering." />
+	<meta name="keywords" content="pimpri chinchwad college of engineering and research, computer engineering, achievements">
 
 	<!-- Bootstrap -->
 	<link href="../css/bootstrap.min.css" rel="stylesheet">
@@ -82,6 +82,7 @@
 							<a href="pdf/download21/project_list_2017-18.pdf" target="_blank"><img src="./../applied-science/images/download.png" alt="Research Publications"></a>
 							<p>Project_list_2017-18s</p>
 						</div>
+
 						<div class="col-md-3">
 							<a href="pdf/download21/project_list_2018-19.pdf" target="_blank"><img src="./../applied-science/images/download.png" alt="Research Publications"></a>
 							<p>Project_list_2018-19</p>
@@ -90,20 +91,6 @@
 						<div class="col-md-3">
 							<a href="pdf/download21/project_list_2019-20.pdf" target="_blank"><img src="./../applied-science/images/download.png" alt="Research Publications"></a>
 							<p>Project_list_2019-20</p>
-						</div>
-
-						<div class="col-md-3">
-							<a href="pdf/download21/project_list_2020-21.pdf" target="_blank"><img src="./../applied-science/images/download.png" alt="Research Publications"></a>
-							<p>Project_list_2020-21</p>
-						</div>
-						<div class="col-md-3">
-							<a href="pdf/download21/Syllabus%20TE%20Computer%20Engineering%202012Course.pdf" target="_blank"><img src="./../applied-science/images/download.png" alt="Research Publications"></a>
-							<p>Syllabus TE Computer Engineering 2012Course</p>
-						</div>
-
-						<div class="col-md-3">
-							<a href="pdf/download21/TE_Computer_2019_Course_22.06.2021.pdf" target="_blank"><img src="./../applied-science/images/download.png" alt="Research Publications"></a>
-							<p>TE Computer 2019 Course 22.06.2021</p>
 						</div>
 
 
