@@ -36,7 +36,7 @@
 						<ol class="breadcrumb">
 							<li class="breadcrumb-item"><i class="fa fa-home"></i> Home</li>
 							<li class="breadcrumb-item">Computer</li>
-							<li class="breadcrumb-item"><a href="#">Download</a></li>
+							<li class="breadcrumb-item"><a href="#">Acheivements</a></li>
 						</ol>
 					</nav>
 				</div>
@@ -53,44 +53,44 @@
 				<div class="col-xs-12 col-sm-12 col-md-9">
 					<div class="hdg-bdr"><span class="hdg-bdr-1"></span><span class="hdg-bdr-2"></span><span class="hdg-bdr-3"></span></div>
 					<br>
-					<h1 align="center">Download</h1>
+					<h1 align="center">Acheivements</h1>
 					<hr>
 
 					<div class="col-md-12">
 
 						<div class="col-md-3">
-							<a href="pdf/download21/Academic-Calendar-AY-2021-22-TERM-II.pdf" target="_blank"><img src="./../applied-science/images/download.png" alt="Research Publications"></a>
-							<p>Academic Calendar AY 2021-22 TERM-II</p>
+							<a href="pdf/Faculty-Achievement-Computer.pdf" target="_blank"><img src="./../applied-science/images/download.png" alt="Research Publications"></a>
+							<p>Faculty Achievement</p>
 						</div>
 
 						<div class="col-md-3">
-							<a href="pdf/download21/SE%20Computer%20Engg.%202019%20Patt_03.072020.pdf" target="_blank"><img src="./../applied-science/images/download.png" alt="Research Publications"></a>
-							<p>SE Computer Engg. 2019 Patt 03.072020</p>
+							<a href="pdf/Acheivements-student-2020-21.pdf" target="_blank"><img src="./../applied-science/images/download.png" alt="Research Publications"></a>
+							<p>Acheivements Student 2020-21</p>
 						</div>
 
 						<div class="col-md-3">
-							<a href="pdf/download21/SPPU_BE_Computer_2015Course_Syllabus_11th%20June2018.pdf" target="_blank"><img src="./../applied-science/images/download.png" alt="Research Publications"></a>
-							<p>SPPU BE Computer 2015Course Syllabus 11th June2018</p>
+							<a href="pdf/Acheivements-student-2019-20.pdf" target="_blank"><img src="./../applied-science/images/download.png" alt="Research Publications"></a>
+							<p>Acheivements Student 2019-20</p>
 						</div>
 
 						<div class="col-md-3">
-							<a href="pdf/download21/SPPU_SE_Computer_Engg_2015_Course_Syllabus-4-7-16.pdf" target="_blank"><img src="./../applied-science/images/download.png" alt="Research Publications"></a>
-							<p>SPPU SE Computer Engg 2015 Course Syllabus-4-7-16</p>
+							<a href="pdf/Acheivements-student-2018-19.pdf" target="_blank"><img src="./../applied-science/images/download.png" alt="Research Publications"></a>
+							<p>Acheivements Student 2018-19</p>
 						</div>
 
 						<div class="col-md-3">
-							<a href="pdf/download21/project_list_2017-18.pdf" target="_blank"><img src="./../applied-science/images/download.png" alt="Research Publications"></a>
-							<p>Project_list_2017-18s</p>
+							<a href="pdf/Acheivements-student-2017-18.pdf" target="_blank"><img src="./../applied-science/images/download.png" alt="Research Publications"></a>
+							<p>Acheivements Student 2017-18</p>
 						</div>
 
 						<div class="col-md-3">
-							<a href="pdf/download21/project_list_2018-19.pdf" target="_blank"><img src="./../applied-science/images/download.png" alt="Research Publications"></a>
-							<p>Project_list_2018-19</p>
+							<a href="pdf/Acheivements-student-2016-17.pdf" target="_blank"><img src="./../applied-science/images/download.png" alt="Research Publications"></a>
+							<p>Acheivements Student 2016-17</p>
 						</div>
 
 						<div class="col-md-3">
-							<a href="pdf/download21/project_list_2019-20.pdf" target="_blank"><img src="./../applied-science/images/download.png" alt="Research Publications"></a>
-							<p>Project_list_2019-20</p>
+							<a href="pdf/Acheivements-student-2015-16.pdf" target="_blank"><img src="./../applied-science/images/download.png" alt="Research Publications"></a>
+							<p>Acheivements Student 2015-16</p>
 						</div>
 
 

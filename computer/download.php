@@ -80,7 +80,7 @@
 
 						<div class="col-md-3">
 							<a href="pdf/download21/project_list_2017-18.pdf" target="_blank"><img src="./../applied-science/images/download.png" alt="Research Publications"></a>
-							<p>Project_list_2017-18s</p>
+							<p>Project_list_2017-18</p>
 						</div>
 						<div class="col-md-3">
 							<a href="pdf/download21/project_list_2018-19.pdf" target="_blank"><img src="./../applied-science/images/download.png" alt="Research Publications"></a>

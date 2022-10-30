@@ -16,7 +16,7 @@
 			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href='pdf/Toppers-FROM-2014-15-TO-2019-20.pdf'>Result</a></li>
 			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href=''>Placements & Higher Studies</a></li>
 			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href='./pdf/innovative_methods.pdf'>Innovative Teaching Method</a></li>
-			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href=''>E-Library</a></li>
+			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href='elibrary.php'>E-Library</a></li>
 			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href='e-magazine.php'>E-Magazine</a></li>
 			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href='./pdf/product-details.pdf'>Product Developed</a></li>
 			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href=''>Question Paper</a></li>
