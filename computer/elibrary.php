@@ -22,6 +22,7 @@
 
 	<!--Font Awesome Stylesheets -->
 	<link href="../css/all.min.css" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
 
 </head>
 
@@ -62,72 +63,108 @@
 						<li>
 							<div class="research_main">
 								<div>
-									<a href="pdf/Faculty_publication_YearWise_Details.pdf">
-										<p class="research_text">Faculty Publications</p>
+									<a href="http://pccoerelearning.com">
+										<p class="research_text">ELEARNING PORTAL OF PCCOER:</p>
 									</a>
 								</div>
 								<div>
-									<button type="button" class="btn btn-primary"><a href="pdf/Faculty_publication_YearWise_Details.pdf" class="research_link">Download</a></button>
+									<a href="pdf/Faculty_publication_YearWise_Details.pdf" class="elibrary_link"><i class="fa-solid fa-link"></i></a>
 								</div>
 							</div>
 						</li>
 						<li>
 							<div class="research_main">
 								<div>
-									<a href="pdf/Faculty_patent_YearWise_Details.pdf">
-										<p class="research_text">Faculty Patents</p>
+									<a href="https://link.springer.com/">
+										<p class="research_text">SPRINGER:</p>
 									</a>
 								</div>
 								<div>
-									<button type="button" class="btn btn-primary"><a href="pdf/Faculty_patent_YearWise_Details.pdf" class="research_link">Download</a></button>
+									<a href="https://link.springer.com/" class="elibrary_link"><i class="fa-solid fa-link"></i></a>
 								</div>
 							</div>
 						</li>
 						<li>
 							<div class="research_main">
 								<div>
-									<a href="pdf/Faculty_Copyright_YearWise_Details.pdf">
-										<p class="research_text">Faculty Copyrights</p>
+									<a href="https://dl.acm.org/">
+										<p class="research_text">ACM DIGITAL LIBRARY:</p>
 									</a>
 								</div>
 								<div>
-									<button type="button" class="btn btn-primary"><a href="pdf/Faculty_Copyright_YearWise_Details.pdf" class="research_link">Download</a></button>
+									<a href="https://dl.acm.org/" class="elibrary_link"><i class="fa-solid fa-link"></i></a>
 								</div>
 							</div>
 						</li>
 						<li>
 							<div class="research_main">
 								<div>
-									<a href="pdf/Student_publication_YearWise_Details.pdf">
-										<p class="research_text">Student Publications</p>
+									<a href="https://nptel.ac.in/">
+										<p class="research_text">NPTEL:</p>
 									</a>
 								</div>
 								<div>
-									<button type="button" class="btn btn-primary"><a href="pdf/Student_publication_YearWise_Details.pdf" class="research_link">Download</a></button>
+									<a href="https://nptel.ac.in/" class="elibrary_link"><i class="fa-solid fa-link"></i></a>
 								</div>
 							</div>
 						</li>
 						<li>
 							<div class="research_main">
 								<div>
-									<a href="pdf/Student_Patent_Details.pdf">
-										<p class="research_text">Student Patents</p>
+									<a href="http://www.csi-india.org/">
+										<p class="research_text">CSI:</p>
 									</a>
 								</div>
 								<div>
-									<button type="button" class="btn btn-primary"><a href="pdf/Student_Patent_Details.pdf" class="research_link">Download</a></button>
+									<a href="http://www.csi-india.org/" class="elibrary_link"><i class="fa-solid fa-link"></i></a>
 								</div>
 							</div>
 						</li>
 						<li>
 							<div class="research_main">
 								<div>
-									<a href="pdf/Student_Copyright_YearWise_Details.pdf">
-										<p class="research_text">Student Copyrights</p>
+									<a href="https://www.expresslibrary.mheducation.com/">
+										<p class="research_text">Mc Graw Hill Digital Library :</p>
 									</a>
 								</div>
 								<div>
-									<button type="button" class="btn btn-primary"><a href="pdf/Student_Copyright_YearWise_Details.pdf" class="research_link">Download</a></button>
+									<a href="https://www.expresslibrary.mheducation.com/" class="elibrary_link"><i class="fa-solid fa-link"></i></a>
+								</div>
+							</div>
+						</li>
+						<li>
+							<div class="research_main">
+								<div>
+									<a href="https://www.sciencedirect.com">
+										<p class="research_text">SCIENCEDIRECT:</p>
+									</a>
+								</div>
+								<div>
+									<a href="https://www.sciencedirect.com" class="elibrary_link"><i class="fa-solid fa-link"></i></a>
+								</div>
+							</div>
+						</li>
+						<li>
+							<div class="research_main">
+								<div>
+									<a href="https://www.coursera.org/">
+										<p class="research_text">COURSERA:</p>
+									</a>
+								</div>
+								<div>
+									<a href="https://www.coursera.org/" class="elibrary_link"><i class="fa-solid fa-link"></i></a>
+								</div>
+							</div>
+						</li>
+						<li>
+							<div class="research_main">
+								<div>
+									<a href="http://www.unipune.ac.in/university_files/old_papers.htm">
+										<p class="research_text">SPPU QUESTION PAPERS:</p>
+									</a>
+								</div>
+								<div>
+									<a href="http://www.unipune.ac.in/university_files/old_papers.htm" class="elibrary_link"><i class="fa-solid fa-link"></i></a>
 								</div>
 							</div>
 						</li>
