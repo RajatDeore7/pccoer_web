@@ -36,3 +36,30 @@ div.text-right {
     background-color: white;
     overflow: hidden;
 }
+
+
+
+/* research */
+
+ul.research {
+    list-style-type: none;
+}
+
+div.research_main {
+    display: flex;
+    justify-content: space-between;
+    padding: 8px;
+    box-shadow: 5px 7px 18px #888888;
+    margin-bottom: 20px;
+}
+
+p.research_text {
+    font-size: 20px;
+    color: #00B6DD;
+    margin: 0;
+}
+
+a.research_link {
+    text-decoration: none;
+    color: white;
+}
