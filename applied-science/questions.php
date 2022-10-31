@@ -65,7 +65,7 @@
                             <div class="research_main">
                                 <div>
                                     <a href="http://pccoerelearning.com">
-                                        <p class="research_text">ELEARNING PORTAL OF PCCOER:</p>
+                                        <p class="research_text">First Year Pattern 2008 Question Paper</p>
                                     </a>
                                 </div>
                                 <div>
@@ -77,7 +77,7 @@
                             <div class="research_main">
                                 <div>
                                     <a href="https://www.coursera.org/">
-                                        <p class="research_text">COURSERA:</p>
+                                        <p class="research_text">First Year Pattern 2012 Question Paper</p>
                                     </a>
                                 </div>
                                 <div>
@@ -89,7 +89,7 @@
                             <div class="research_main">
                                 <div>
                                     <a href="http://www.unipune.ac.in/university_files/old_papers.htm">
-                                        <p class="research_text">SPPU QUESTION PAPERS:</p>
+                                        <p class="research_text">First Year Pattern 2015 Question Paper</p>
                                     </a>
                                 </div>
                                 <div>
