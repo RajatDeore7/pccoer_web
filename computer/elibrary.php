@@ -185,9 +185,6 @@
 	<script src="../js/bootstrap.min.js"></script>
 	<script src="../js/menu.js"></script>
 
-	<!-- my js -->
-	<script src="../js/computer.js"></script>
-
 </body>
 
 </html>

@@ -17,8 +17,12 @@
 	<link href="../css/menu.css" rel="stylesheet">
 	<link rel="icon" href="../images/pccoer-favicon-icon.png" type="image/png">
 
+	<!-- my style -->
+	<link href="./../computer/computer.css" rel="stylesheet">
+
 	<!--Font Awesome Stylesheets -->
 	<link href="../css/all.min.css" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
 
 </head>
 
@@ -36,7 +40,7 @@
 						<ol class="breadcrumb">
 							<li class="breadcrumb-item"><i class="fa fa-home"></i> Home</li>
 							<li class="breadcrumb-item">Applied Science</li>
-							<li class="breadcrumb-item"><a href="#"> E-Library</a></li>
+							<li class="breadcrumb-item"><a href="#">E-Library</a></li>
 						</ol>
 					</nav>
 				</div>
@@ -50,116 +54,127 @@
 
 				<?php include 'applied-science-sidebar.php'; ?>
 
-				<div class="col-md-8">
-					<div class="wm-title-full">
-						<h2>E-Library</h2>
-					</div>
-					<div class="wm-courses-getting-started">
-						<div class="wm-courses-started">
-							<ul class="wm-courses-started-listing">
-								<li>
-									<!-- <a href="#" class="wmicon-pen"></a> -->
-									<div class="wm-courses-started-text">
-										<h6><a href="http://pccoerelearning.com" target="_blank">ELEARNING PORTAL OF PCCOER:</a></h6>
+				<div class="col-xs-12 col-sm-12 col-md-9">
+					<div class="hdg-bdr"><span class="hdg-bdr-1"></span><span class="hdg-bdr-2"></span><span class="hdg-bdr-3"></span></div>
+					<br>
+					<h1 align="center">E-Library</h1>
+					<hr>
+					<ul class="research">
+						<li>
+							<div class="research_main">
+								<div>
+									<a href="http://pccoerelearning.com">
+										<p class="research_text">ELEARNING PORTAL OF PCCOER:</p>
+									</a>
+								</div>
+								<div>
+									<a href="pdf/Faculty_publication_YearWise_Details.pdf" class="elibrary_link"><i class="fa-solid fa-link"></i></a>
+								</div>
+							</div>
+						</li>
+						<li>
+							<div class="research_main">
+								<div>
+									<a href="https://link.springer.com/">
+										<p class="research_text">SPRINGER:</p>
+									</a>
+								</div>
+								<div>
+									<a href="https://link.springer.com/" class="elibrary_link"><i class="fa-solid fa-link"></i></a>
+								</div>
+							</div>
+						</li>
+						<li>
+							<div class="research_main">
+								<div>
+									<a href="https://dl.acm.org/">
+										<p class="research_text">ACM DIGITAL LIBRARY:</p>
+									</a>
+								</div>
+								<div>
+									<a href="https://dl.acm.org/" class="elibrary_link"><i class="fa-solid fa-link"></i></a>
+								</div>
+							</div>
+						</li>
+						<li>
+							<div class="research_main">
+								<div>
+									<a href="https://nptel.ac.in/">
+										<p class="research_text">NPTEL:</p>
+									</a>
+								</div>
+								<div>
+									<a href="https://nptel.ac.in/" class="elibrary_link"><i class="fa-solid fa-link"></i></a>
+								</div>
+							</div>
+						</li>
+						<li>
+							<div class="research_main">
+								<div>
+									<a href="http://www.csi-india.org/">
+										<p class="research_text">CSI:</p>
+									</a>
+								</div>
+								<div>
+									<a href="http://www.csi-india.org/" class="elibrary_link"><i class="fa-solid fa-link"></i></a>
+								</div>
+							</div>
+						</li>
+						<li>
+							<div class="research_main">
+								<div>
+									<a href="https://www.expresslibrary.mheducation.com/">
+										<p class="research_text">Mc Graw Hill Digital Library :</p>
+									</a>
+								</div>
+								<div>
+									<a href="https://www.expresslibrary.mheducation.com/" class="elibrary_link"><i class="fa-solid fa-link"></i></a>
+								</div>
+							</div>
+						</li>
+						<li>
+							<div class="research_main">
+								<div>
+									<a href="https://www.sciencedirect.com">
+										<p class="research_text">SCIENCEDIRECT:</p>
+									</a>
+								</div>
+								<div>
+									<a href="https://www.sciencedirect.com" class="elibrary_link"><i class="fa-solid fa-link"></i></a>
+								</div>
+							</div>
+						</li>
+						<li>
+							<div class="research_main">
+								<div>
+									<a href="https://www.coursera.org/">
+										<p class="research_text">COURSERA:</p>
+									</a>
+								</div>
+								<div>
+									<a href="https://www.coursera.org/" class="elibrary_link"><i class="fa-solid fa-link"></i></a>
+								</div>
+							</div>
+						</li>
+						<li>
+							<div class="research_main">
+								<div>
+									<a href="http://www.unipune.ac.in/university_files/old_papers.htm">
+										<p class="research_text">SPPU QUESTION PAPERS:</p>
+									</a>
+								</div>
+								<div>
+									<a href="http://www.unipune.ac.in/university_files/old_papers.htm" class="elibrary_link"><i class="fa-solid fa-link"></i></a>
+								</div>
+							</div>
+						</li>
+					</ul>
 
-									</div>
-									<div class="wm-courses-preview">
-										<a href="http://pccoerelearning.com" target="_blank">http://pccoerelearning.com </a>
-									</div>
-								</li>
-								<li>
-									<!-- <a href="#" class="wmicon-pen"></a> -->
-									<div class="wm-courses-started-text">
-										<h6><a href="https://link.springer.com/" target="_blank">SPRINGER:</a></h6>
-										<!-- <span><a href="#" class="wmicon-time2"></a><time datetime="2017-02-14">13/05/2016 - 10/06/2016</time></span>
-                              <span><a href="#" class=" wmicon-clock2"></a><time datetime="2017-02-14">Duration: 2hr30mins</time></span> -->
-									</div>
-									<div class="wm-courses-preview">
-										<a href="https://link.springer.com/" target="_blank">https://link.springer.com/</a>
-									</div>
-								</li>
-								<li>
-									<!-- <a href="#" class="wmicon-pen"></a> -->
-									<div class="wm-courses-started-text">
-										<h6><a href="https://dl.acm.org/" target="_blank">ACM DIGITAL LIBRARY:</a></h6>
-										<!-- <span><a href="#" class="wmicon-time2"></a><time datetime="2017-02-14">13/05/2016 - 10/06/2016</time></span>
-                              <span><a href="#" class=" wmicon-clock2"></a><time datetime="2017-02-14">Duration: 2hr30mins</time></span> -->
-									</div>
-									<div class="wm-courses-preview">
-										<a href="https://dl.acm.org/" target="_blank">https://dl.acm.org/</a>
-									</div>
-								</li>
-								<li>
-									<!-- <a href="#" class="wmicon-pen"></a> -->
-									<div class="wm-courses-started-text">
-										<h6><a href="https://nptel.ac.in/" target="_blank">NPTEL:</a></h6>
-										<!-- <span><a href="#" class="wmicon-time2"></a><time datetime="2017-02-14">13/05/2016 - 10/06/2016</time></span>
-                              <span><a href="#" class=" wmicon-clock2"></a><time datetime="2017-02-14">Duration: 2hr30mins</time></span> -->
-									</div>
-									<div class="wm-courses-preview">
-										<a href="https://nptel.ac.in/" target="_blank">https://nptel.ac.in/</a>
-									</div>
-								</li>
-								<li>
-									<!-- <a href="#" class="wmicon-pen"></a> -->
-									<div class="wm-courses-started-text">
-										<h6><a href="http://www.csi-india.org/" target="_blank">CSI:</a></h6>
-										<!-- <span><a href="#" class="wmicon-time2"></a><time datetime="2017-02-14">13/05/2016 - 10/06/2016</time></span>
-                              <span><a href="#" class=" wmicon-clock2"></a><time datetime="2017-02-14">Duration: 2hr30mins</time></span> -->
-									</div>
-									<div class="wm-courses-preview">
-										<a href="http://www.csi-india.org/" target="_blank">http://www.csi-india.org/</a>
-									</div>
-								</li>
-								<li>
-									<!-- <a href="#" class="wmicon-pen"></a> -->
-									<div class="wm-courses-started-text">
-										<h6><a href="http://www.csi-india.org/" target="_blank">Mc Graw Hill Digital Library :</a></h6>
-										<!-- <span><a href="#" class="wmicon-time2"></a><time datetime="2017-02-14">13/05/2016 - 10/06/2016</time></span>
-                              <span><a href="#" class=" wmicon-clock2"></a><time datetime="2017-02-14">Duration: 2hr30mins</time></span> -->
-									</div>
-									<div class="wm-courses-preview">
-										<a href="http://www.csi-india.org/" target="_blank">https://www.accessengineeringlibrary.com/front</a>
-									</div>
-								</li>
-								<li>
-									<!-- <a href="#" class="wmicon-pen"></a> -->
-									<div class="wm-courses-started-text">
-										<h6><a href="https://www.sciencedirect.com" target="_blank">SCIENCEDIRECT:</a></h6>
-										<!-- <span><a href="#" class="wmicon-time2"></a><time datetime="2017-02-14">13/05/2016 - 10/06/2016</time></span>
-                              <span><a href="#" class=" wmicon-clock2"></a><time datetime="2017-02-14">Duration: 2hr30mins</time></span> -->
-									</div>
-									<div class="wm-courses-preview">
-										<a href="https://www.sciencedirect.com/" target="_blank">https://www.sciencedirect.com/ </a>
-									</div>
-								</li>
-								<li>
-									<!-- <a href="#" class="wmicon-pen"></a> -->
-									<div class="wm-courses-started-text">
-										<h6><a href="https://www.coursera.org/" target="_blank">COURSERA:</a></h6>
-										<!-- <span><a href="#" class="wmicon-time2"></a><time datetime="2017-02-14">13/05/2016 - 10/06/2016</time></span>
-                              <span><a href="#" class=" wmicon-clock2"></a><time datetime="2017-02-14">Duration: 2hr30mins</time></span> -->
-									</div>
-									<div class="wm-courses-preview">
-										<a href="https://www.coursera.org/" target="_blank">https://www.coursera.org/</a>
-									</div>
-								</li>
-								<li>
-									<!-- <a href="#" class="wmicon-pen"></a> -->
-									<div class="wm-courses-started-text">
-										<h6><a href="http://www.unipune.ac.in/university_files/old_papers.htm" target="_blank">SPPU QUESTION PAPERS:</a></h6>
-										<!-- <span><a href="#" class="wmicon-time2"></a><time datetime="2017-02-14">13/05/2016 - 10/06/2016</time></span>
-                              <span><a href="#" class=" wmicon-clock2"></a><time datetime="2017-02-14">Duration: 2hr30mins</time></span> -->
-									</div>
-									<div class="wm-courses-preview">
-										<a href="http://www.unipune.ac.in/university_files/old_papers.htm" target="_blank">http://www.unipune.ac.in/</a>
-									</div>
-								</li>
-							</ul>
-						</div>
-					</div>
+
 				</div>
 			</div>
+
+
 		</div>
 	</div>
 

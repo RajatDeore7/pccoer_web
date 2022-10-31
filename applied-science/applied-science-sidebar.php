@@ -17,7 +17,7 @@
 			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href='e-magazine.php'>E-Magazine</a></li>
 			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href='pdf/Product-Developed-PBL-Yearwise.pdf'>Product Developed</a></li>
 			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href='fesa.php'>FESA</a></li>
-			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href=''>Question Papers</a></li>
+			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href='questions.php'>Question Papers</a></li>
 			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href="http://pccoerfe.com/">Department Website</a></li>
 		</ul>
 	</div>
