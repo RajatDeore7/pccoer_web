@@ -57,140 +57,140 @@
                 <div class="col-xs-12 col-sm-12 col-md-9">
                     <div class="hdg-bdr"><span class="hdg-bdr-1"></span><span class="hdg-bdr-2"></span><span class="hdg-bdr-3"></span></div>
                     <br>
-                    <h1 align="center">Placements & Higher Studies</h1>
+                    <h1>Placements & Higher Studies</h1>
                     <hr>
-                    <div class="col-md-8">
+                    <div class="col-md-12">
 
 
                         <div class="wm-courses wm-courses-popular wm-courses-mediumsec">
 
                             <div class="wm-title-full">
 
-                                <h2>Placement &amp; Higher Study</h2>
-                                <h6><a href="pdf/placement-data-for-NBA.pdf" target="_blank"><u>Click for NBA Placement Details</u></a></h6>
+                                <h4><a href="pdf/placement-data-for-NBA.pdf" target="_blank"><u>Click for NBA Placement Details</u></a></h4>
 
                             </div>
 
-                            <h6>SUMMARY OF PLACEMENTS/HIGHER STUDY/ENTREPRENEUR</h6>
+                            <h3>SUMMARY OF PLACEMENTS/HIGHER STUDY/ENTREPRENEUR</h3>
 
                             <table class="table table-bordered table-responsive">
                                 <tbody>
                                     <tr class="tablehead">
                                         <td width="79">
-                                            <p align="center">
+                                            <p>
                                                 <strong>Academic Year</strong>
                                             </p>
                                         </td>
                                         <td width="90">
-                                            <p align="center">
+                                            <p>
                                                 <strong>Total Students</strong>
                                             </p>
                                         </td>
                                         <td width="151">
-                                            <p align="center">
+                                            <p>
                                                 <strong>
                                                     Total Students Placed/Higher Studies/Entrepreneur
                                                 </strong>
                                             </p>
                                         </td>
                                         <td width="170">
-                                            <p align="center">
+                                            <p>
                                                 <strong>Placement in Percentage</strong>
                                             </p>
                                         </td>
                                         <td width="217">
-                                            <p align="center">
+                                            <p>
                                                 <strong>Average Package in LPA</strong>
                                             </p>
                                         </td>
                                     </tr>
                                     <tr>
                                         <td width="79" nowrap="nowrap">
-                                            <p align="center">
+                                            <p>
                                                 <strong>2017-18</strong>
                                             </p>
                                         </td>
                                         <td width="90" nowrap="nowrap">
-                                            <p align="center">
+                                            <p>
                                                 65
                                             </p>
                                         </td>
                                         <td width="151" nowrap="nowrap">
-                                            <p align="center">
+                                            <p>
                                                 54
                                             </p>
                                         </td>
                                         <td width="170" nowrap="nowrap">
-                                            <p align="center">
+                                            <p>
                                                 83.08
                                             </p>
                                         </td>
                                         <td width="217">
-                                            <p align="center">
+                                            <p>
                                                 3.59
                                             </p>
                                         </td>
                                     </tr>
                                     <tr>
                                         <td width="79" nowrap="nowrap">
-                                            <p align="center">
+                                            <p>
                                                 <strong>2018-19</strong>
                                             </p>
                                         </td>
                                         <td width="90" nowrap="nowrap">
-                                            <p align="center">
+                                            <p>
                                                 72
                                             </p>
                                         </td>
                                         <td width="151" nowrap="nowrap">
-                                            <p align="center">
+                                            <p>
                                                 66
                                             </p>
                                         </td>
                                         <td width="170" nowrap="nowrap">
-                                            <p align="center">
+                                            <p>
                                                 91.67
                                             </p>
                                         </td>
                                         <td width="217">
-                                            <p align="center">
+                                            <p>
                                                 3.84
                                             </p>
                                         </td>
                                     </tr>
                                     <tr>
                                         <td width="79" nowrap="nowrap">
-                                            <p align="center">
+                                            <p>
                                                 <strong>2019-20</strong>
                                             </p>
                                         </td>
                                         <td width="90" nowrap="nowrap">
-                                            <p align="center">
+                                            <p>
                                                 74
                                             </p>
                                         </td>
                                         <td width="151" nowrap="nowrap">
-                                            <p align="center">
+                                            <p>
                                                 68
                                             </p>
                                         </td>
                                         <td width="170" nowrap="nowrap">
-                                            <p align="center">
+                                            <p>
                                                 91.89
                                             </p>
                                         </td>
                                         <td width="217">
-                                            <p align="center">
+                                            <p>
                                                 4.73
                                             </p>
                                         </td>
                                     </tr>
                                 </tbody>
                             </table>
+                            <br>
 
                             <center><img src="images/average-package-in-LPA-comp.png" alt="Average Package in LPA" class="img-responsive"></center> <br>
 
-                            <h6>Yearwise Placement Details</h6>
+                            <h3>Yearwise Placement Details</h3>
 
                             <div class="col-md-4">
                                 <a href="pdf/Higher_Study_Data.pdf" target="_blank">
