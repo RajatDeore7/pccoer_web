@@ -40,7 +40,7 @@
                         <ol class="breadcrumb">
                             <li class="breadcrumb-item"><i class="fa fa-home"></i> Home</li>
                             <li class="breadcrumb-item">Computer Department</li>
-                            <li class="breadcrumb-item"><a href="#">About Department</a></li>
+                            <li class="breadcrumb-item"><a href="#">Placements & Higher Studies</a></li>
                         </ol>
                     </nav>
                 </div>
@@ -57,9 +57,174 @@
                 <div class="col-xs-12 col-sm-12 col-md-9">
                     <div class="hdg-bdr"><span class="hdg-bdr-1"></span><span class="hdg-bdr-2"></span><span class="hdg-bdr-3"></span></div>
                     <br>
-                    <h1 align="center">About the Department</h1>
+                    <h1 align="center">Placements & Higher Studies</h1>
                     <hr>
+                    <div class="col-md-8">
 
+
+                        <div class="wm-courses wm-courses-popular wm-courses-mediumsec">
+
+                            <div class="wm-title-full">
+
+                                <h2>Placement &amp; Higher Study</h2>
+                                <h6><a href="pdf/placement-data-for-NBA.pdf" target="_blank"><u>Click for NBA Placement Details</u></a></h6>
+
+                            </div>
+
+                            <h6>SUMMARY OF PLACEMENTS/HIGHER STUDY/ENTREPRENEUR</h6>
+
+                            <table class="table table-bordered table-responsive">
+                                <tbody>
+                                    <tr class="tablehead">
+                                        <td width="79">
+                                            <p align="center">
+                                                <strong>Academic Year</strong>
+                                            </p>
+                                        </td>
+                                        <td width="90">
+                                            <p align="center">
+                                                <strong>Total Students</strong>
+                                            </p>
+                                        </td>
+                                        <td width="151">
+                                            <p align="center">
+                                                <strong>
+                                                    Total Students Placed/Higher Studies/Entrepreneur
+                                                </strong>
+                                            </p>
+                                        </td>
+                                        <td width="170">
+                                            <p align="center">
+                                                <strong>Placement in Percentage</strong>
+                                            </p>
+                                        </td>
+                                        <td width="217">
+                                            <p align="center">
+                                                <strong>Average Package in LPA</strong>
+                                            </p>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td width="79" nowrap="nowrap">
+                                            <p align="center">
+                                                <strong>2017-18</strong>
+                                            </p>
+                                        </td>
+                                        <td width="90" nowrap="nowrap">
+                                            <p align="center">
+                                                65
+                                            </p>
+                                        </td>
+                                        <td width="151" nowrap="nowrap">
+                                            <p align="center">
+                                                54
+                                            </p>
+                                        </td>
+                                        <td width="170" nowrap="nowrap">
+                                            <p align="center">
+                                                83.08
+                                            </p>
+                                        </td>
+                                        <td width="217">
+                                            <p align="center">
+                                                3.59
+                                            </p>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td width="79" nowrap="nowrap">
+                                            <p align="center">
+                                                <strong>2018-19</strong>
+                                            </p>
+                                        </td>
+                                        <td width="90" nowrap="nowrap">
+                                            <p align="center">
+                                                72
+                                            </p>
+                                        </td>
+                                        <td width="151" nowrap="nowrap">
+                                            <p align="center">
+                                                66
+                                            </p>
+                                        </td>
+                                        <td width="170" nowrap="nowrap">
+                                            <p align="center">
+                                                91.67
+                                            </p>
+                                        </td>
+                                        <td width="217">
+                                            <p align="center">
+                                                3.84
+                                            </p>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td width="79" nowrap="nowrap">
+                                            <p align="center">
+                                                <strong>2019-20</strong>
+                                            </p>
+                                        </td>
+                                        <td width="90" nowrap="nowrap">
+                                            <p align="center">
+                                                74
+                                            </p>
+                                        </td>
+                                        <td width="151" nowrap="nowrap">
+                                            <p align="center">
+                                                68
+                                            </p>
+                                        </td>
+                                        <td width="170" nowrap="nowrap">
+                                            <p align="center">
+                                                91.89
+                                            </p>
+                                        </td>
+                                        <td width="217">
+                                            <p align="center">
+                                                4.73
+                                            </p>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+
+                            <center><img src="images/average-package-in-LPA-comp.png" alt="Average Package in LPA" class="img-responsive"></center> <br>
+
+                            <h6>Yearwise Placement Details</h6>
+
+                            <div class="col-md-4">
+                                <a href="pdf/Higher_Study_Data.pdf" target="_blank">
+                                    <img src="https://www.pccoer.com/images/pdf-icon.png" class="img-responsive image-center" alt="Computer Department Placement Details">
+                                    <p class="text-center">Higher Study Data</p>
+                                </a>
+                            </div>
+
+                            <div class="col-md-4">
+                                <a href="pdf/2019-20-batch.pdf" target="_blank">
+                                    <img src="https://www.pccoer.com/images/pdf-icon.png" class="img-responsive image-center" alt="Computer Department Placement Details">
+                                    <p class="text-center">2019-20 Batch</p>
+                                </a>
+                            </div>
+
+                            <div class="col-md-4">
+                                <a href="pdf/2018-19-batch.pdf" target="_blank">
+                                    <img src="https://www.pccoer.com/images/pdf-icon.png" class="img-responsive image-center" alt="Computer Department Placement Details">
+                                    <p class="text-center">2018-19 Batch</p>
+                                </a>
+                            </div>
+
+                            <div class="col-md-4">
+                                <a href="pdf/2017-18-batch.pdf" target="_blank">
+                                    <img src="https://www.pccoer.com/images/pdf-icon.png" class="img-responsive image-center" alt="Computer Department Placement Details">
+                                    <p class="text-center">2017-18 Batch</p>
+                                </a>
+                            </div>
+
+                        </div>
+
+
+
+                    </div>
                 </div>
             </div>
 
