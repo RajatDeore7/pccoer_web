@@ -75,3 +75,15 @@ a.elibrary_link {
     font-size: 20px;
     padding-right: 20px;
 }
+
+
+
+/* industry-interaction */
+p.indus_para {
+    align-items: center;
+    text-align: center;
+}
+
+td {
+    padding: 10px;
+}
