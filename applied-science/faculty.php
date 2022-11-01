@@ -54,6 +54,7 @@
         </div>
         <div class="Staff_0">
           <p class="Staff_0"><a href="faculty.php" class="Staff_1">Teaching</a> / <a href="nonteach.php" class="Staff_1">Non-Teaching</a></p>
+          <p class="Staff_0"><a href="pdf/Faculty-List-2020-21.pdf">Click for NBA Faculty List</a></p>
         </div>
         <div class="col-md-9">
           <div class="row">
