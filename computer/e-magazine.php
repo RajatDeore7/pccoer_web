@@ -59,66 +59,66 @@
 					<div class="col-md-12">
 
 						<div class="col-md-3">
-							<a href="pdf/download21/Academic-Calendar-AY-2021-22-TERM-II.pdf" target="_blank"><img src="./../applied-science/images/download.png" alt="Research Publications"></a>
+							<a href="pdf/emagazines/2021_22%20Sem%201.pdf" target="_blank"><img src="./../applied-science/images/download.png" alt="Research Publications"></a>
 							<p>2021-22 Sem 1</p>
 						</div>
 
 						<div class="col-md-3">
-							<a href="pdf/download21/SE%20Computer%20Engg.%202019%20Patt_03.072020.pdf" target="_blank"><img src="./../applied-science/images/download.png" alt="Research Publications"></a>
+							<a href="pdf/emagazines/2020_21%20Sem1.pdf" target="_blank"><img src="./../applied-science/images/download.png" alt="Research Publications"></a>
 							<p>2020-21 Sem1</p>
 						</div>
 
 						<div class="col-md-3">
-							<a href="pdf/download21/SPPU_BE_Computer_2015Course_Syllabus_11th%20June2018.pdf" target="_blank"><img src="./../applied-science/images/download.png" alt="Research Publications"></a>
+							<a href="pdf/emagazines/2020_21%20Sem2.pdf" target="_blank"><img src="./../applied-science/images/download.png" alt="Research Publications"></a>
 							<p>2020-21 Sem2</p>
 						</div>
 
 						<div class="col-md-3">
-							<a href="pdf/download21/SPPU_SE_Computer_Engg_2015_Course_Syllabus-4-7-16.pdf" target="_blank"><img src="./../applied-science/images/download.png" alt="Research Publications"></a>
+							<a href="pdf/emagazines/2019-20%20Sem1.pdf" target="_blank"><img src="./../applied-science/images/download.png" alt="Research Publications"></a>
 							<p>2019-20 Sem1</p>
 						</div>
 
 						<div class="col-md-3">
-							<a href="pdf/download21/project_list_2017-18.pdf" target="_blank"><img src="./../applied-science/images/download.png" alt="Research Publications"></a>
+							<a href="pdf/emagazines/2019-20%20Sem2.pdf" target="_blank"><img src="./../applied-science/images/download.png" alt="Research Publications"></a>
 							<p>2019-20 Sem2</p>
 						</div>
 						<div class="col-md-3">
-							<a href="pdf/download21/project_list_2018-19.pdf" target="_blank"><img src="./../applied-science/images/download.png" alt="Research Publications"></a>
+							<a href="pdf/emagazines/2018-19%20Sem1.pdf" target="_blank"><img src="./../applied-science/images/download.png" alt="Research Publications"></a>
 							<p>2018-19 Sem1</p>
 						</div>
 
 						<div class="col-md-3">
-							<a href="pdf/download21/project_list_2019-20.pdf" target="_blank"><img src="./../applied-science/images/download.png" alt="Research Publications"></a>
+							<a href="pdf/emagazines/2018-19%20Sem2.pdf" target="_blank"><img src="./../applied-science/images/download.png" alt="Research Publications"></a>
 							<p>2018-19 Sem2</p>
 						</div>
 
 						<div class="col-md-3">
-							<a href="pdf/download21/project_list_2020-21.pdf" target="_blank"><img src="./../applied-science/images/download.png" alt="Research Publications"></a>
+							<a href="pdf/emagazines/2017-18%20Sem1.pdf" target="_blank"><img src="./../applied-science/images/download.png" alt="Research Publications"></a>
 							<p>2017-18 Sem1</p>
 						</div>
 
 						<div class="col-md-3">
-							<a href="pdf/download21/Syllabus%20TE%20Computer%20Engineering%202012Course.pdf" target="_blank"><img src="./../applied-science/images/download.png" alt="Research Publications"></a>
+							<a href="pdf/emagazines/2017-18%20Sem2.pdf" target="_blank"><img src="./../applied-science/images/download.png" alt="Research Publications"></a>
 							<p>2017-18 Sem2</p>
 						</div>
 
 						<div class="col-md-3">
-							<a href="pdf/download21/TE_Computer_2019_Course_22.06.2021.pdf" target="_blank"><img src="./../applied-science/images/download.png" alt="Research Publications"></a>
+							<a href="pdf/emagazines/2016-17%20Sem1.pdf" target="_blank"><img src="./../applied-science/images/download.png" alt="Research Publications"></a>
 							<p>2016-17 Sem1</p>
 						</div>
 
 						<div class="col-md-3">
-							<a href="pdf/download21/project_list_2020-21.pdf" target="_blank"><img src="./../applied-science/images/download.png" alt="Research Publications"></a>
+							<a href="pdf/emagazines/2016-17%20Sem2.pdf" target="_blank"><img src="./../applied-science/images/download.png" alt="Research Publications"></a>
 							<p>2016-17 Sem2</p>
 						</div>
 
 						<div class="col-md-3">
-							<a href="pdf/download21/Syllabus%20TE%20Computer%20Engineering%202012Course.pdf" target="_blank"><img src="./../applied-science/images/download.png" alt="Research Publications"></a>
+							<a href="pdf/emagazines/2015-16%20Sem1.pdf" target="_blank"><img src="./../applied-science/images/download.png" alt="Research Publications"></a>
 							<p>2015-16 Sem1</p>
 						</div>
 
 						<div class="col-md-3">
-							<a href="pdf/download21/TE_Computer_2019_Course_22.06.2021.pdf" target="_blank"><img src="./../applied-science/images/download.png" alt="Research Publications"></a>
+							<a href="pdf/emagazines/2015-16%20Sem2.pdf" target="_blank"><img src="./../applied-science/images/download.png" alt="Research Publications"></a>
 							<p>2015-16 Sem2</p>
 						</div>
 
