@@ -65,36 +65,36 @@
                         <li>
                             <div class="research_main">
                                 <div>
-                                    <a href="http://pccoerelearning.com">
+                                    <a href="be-question-paper-2015-pattern.php">
                                         <p class="research_text">BE Question Paper</p>
                                     </a>
                                 </div>
                                 <div>
-                                    <a href="pdf/Faculty_publication_YearWise_Details.pdf" class="elibrary_link"><i class="fa-solid fa-link"></i></a>
+                                    <a href="be-question-paper-2015-pattern.php" class="elibrary_link"><i class="fa-solid fa-link"></i></a>
                                 </div>
                             </div>
                         </li>
                         <li>
                             <div class="research_main">
                                 <div>
-                                    <a href="http://www.unipune.ac.in/university_files/old_papers.htm">
+                                    <a href="te-question-paper-2015-pattern.php">
                                         <p class="research_text">TE Question Paper</p>
                                     </a>
                                 </div>
                                 <div>
-                                    <a href="http://www.unipune.ac.in/university_files/old_papers.htm" class="elibrary_link"><i class="fa-solid fa-link"></i></a>
+                                    <a href="te-question-paper-2015-pattern.php" class="elibrary_link"><i class="fa-solid fa-link"></i></a>
                                 </div>
                             </div>
                         </li>
                         <li>
                             <div class="research_main">
                                 <div>
-                                    <a href="https://www.coursera.org/">
+                                    <a href="se-question-paper-2015-pattern.php">
                                         <p class="research_text">SE Question Paper</p>
                                     </a>
                                 </div>
                                 <div>
-                                    <a href="https://www.coursera.org/" class="elibrary_link"><i class="fa-solid fa-link"></i></a>
+                                    <a href="se-question-paper-2015-pattern.php" class="elibrary_link"><i class="fa-solid fa-link"></i></a>
                                 </div>
                             </div>
                         </li>
