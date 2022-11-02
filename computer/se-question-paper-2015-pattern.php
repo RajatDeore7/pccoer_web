@@ -41,7 +41,7 @@
                             <li class="breadcrumb-item"><i class="fa fa-home"></i> Home</li>
                             <li class="breadcrumb-item">Computer Department</li>
                             <li class="breadcrumb-item"><a href="#">Question Paper</a></li>
-                            <li class="breadcrumb-item"><a href="#">TE Question Paper-2015 Pattern-1</a></li>
+                            <li class="breadcrumb-item"><a href="#">SE Question Paper-2015 Pattern-1</a></li>
                         </ol>
                     </nav>
                 </div>
@@ -58,7 +58,7 @@
                 <div class="col-xs-12 col-sm-12 col-md-9">
                     <div class="hdg-bdr"><span class="hdg-bdr-1"></span><span class="hdg-bdr-2"></span><span class="hdg-bdr-3"></span></div>
                     <br>
-                    <h1 align="center">TE Question Paper-2015 Pattern-1</h1>
+                    <h1 align="center">SE Question Paper-2015 Pattern-1</h1>
                     <hr>
                     <div class="wm-main-section">
                         <div class="container">
