@@ -61,151 +61,151 @@
                     <h1 align="center">BE Question Paper-2015 Pattern-1</h1>
                     <hr>
                     <div class="wm-main-section">
-                        <div class="container">
+
+                        <div class="row">
+                            <!-- AI -->
+                            <p><strong style="box-sizing: border-box; line-height: inherit;">Artificial Intellegence</strong></p>
+
                             <div class="row">
-                                <!-- AI -->
-                                <p><strong style="box-sizing: border-box; line-height: inherit;">Artificial Intellegence</strong></p>
-
-                                <div class="row">
-                                    <div class="col-md-2"><a href="pdf/be/2015_Pattern/Artificial_Intellegence/May_Jun_2019.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 90px; height: 90px;"></a>
-                                        <p>May-Jun 2019</p>
-                                    </div>
-
-                                    <div class="col-md-2"><a href="pdf/be/2015_Pattern/Artificial_Intellegence/Nov_Dec_2018.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 90px; height: 90px;"></a>
-                                        <p>Nov-Dec 2018</p>
-                                    </div>
-
-                                    <div class="col-md-2"><a href="pdf/be/2015_Pattern/Artificial_Intellegence/Nov_Dec_2019.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 90px; height: 90px;"></a>
-                                        <p>Nov-Dec 2019</p>
-                                    </div>
-
+                                <div class="col-md-2"><a href="pdf/be/May_Jun_2019.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 90px; height: 90px;"></a>
+                                    <p>May-Jun 2019</p>
                                 </div>
-                                <br>
-                                <!--Cloud Computing-->
-                                <p><strong style="box-sizing: border-box; line-height: inherit;">Cloud Computing</strong></p>
 
-                                <div class="row">
-                                    <div class="col-md-2"><a href="pdf/be/2015_Pattern/Cloud_Computing/May_Jun_2019.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 90px; height: 90px;"></a>
-                                        <p>May-Jun 2019</p>
-                                    </div>
-
-                                    <div class="col-md-2"><a href="pdf/be/2015_Pattern/Cloud_Computing/Nov_Dec_2019.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 90px; height: 90px;"></a>
-                                        <p>Nov-Dec 2019</p>
-                                    </div>
-
+                                <div class="col-md-2"><a href="pdf/be/Nov_Dec_2018.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 90px; height: 90px;"></a>
+                                    <p>Nov-Dec 2018</p>
                                 </div>
-                                <br>
-                                <!--Data Analytics-->
-                                <p><strong style="box-sizing: border-box; line-height: inherit;">Data Analytics</strong></p>
 
-                                <div class="row">
-
-                                    <div class="col-md-2"><a href="pdf/be/2015_Pattern/Data_Analytics/May_Jun_2019.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 90px; height: 90px;"></a>
-                                        <p>May-Jun 2019</p>
-                                    </div>
-
-                                    <div class="col-md-2"><a href="pdf/be/2015_Pattern/Data_Analytics/Nov_Dec_2018.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 90px; height: 90px;"></a>
-                                        <p>Nov-Dec 2018</p>
-                                    </div>
-
-                                    <div class="col-md-2"><a href="pdf/be/2015_Pattern/Data_Analytics/Nov_Dec_2019.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 90px; height: 90px;"></a>
-                                        <p>Nov-Dec 2019</p>
-                                    </div>
-
+                                <div class="col-md-2"><a href="pdf/be/Nov_Dec_2019.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 90px; height: 90px;"></a>
+                                    <p>Nov-Dec 2019</p>
                                 </div>
-                                <br>
-                                <p><strong style="box-sizing: border-box; line-height: inherit;">Data Mining -Warehousing</strong></p>
 
-                                <div class="row">
+                            </div>
+                            <br>
+                            <!--Cloud Computing-->
+                            <p><strong style="box-sizing: border-box; line-height: inherit;">Cloud Computing</strong></p>
 
-                                    <div class="col-md-2"><a href="pdf/be/2015_Pattern/Data_Mining_Warehousing/May_Jun_2019.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 90px; height: 90px;"></a>
-                                        <p>May-Jun 2019</p>
-                                    </div>
-
-                                    <div class="col-md-2"><a href="pdf/be/2015_Pattern/Data_Mining_Warehousing/Nov_Dec_2018.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 90px; height: 90px;"></a>
-                                        <p>Nov-Dec 2018</p>
-                                    </div>
-
-                                    <div class="col-md-2"><a href="pdf/be/2015_Pattern/Data_Mining_Warehousing/Nov_Dec_2019.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 90px; height: 90px;"></a>
-                                        <p>Nov-Dec 2019</p>
-                                    </div>
-
+                            <div class="row">
+                                <div class="col-md-2"><a href="pdf/be/May_Jun_2019.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 90px; height: 90px;"></a>
+                                    <p>May-Jun 2019</p>
                                 </div>
-                                <br>
-                                <p><strong style="box-sizing: border-box; line-height: inherit;">Embedded and RTO system</strong></p>
 
-                                <div class="row">
-
-                                    <div class="col-md-2"><a href="pdf/be/2015_Pattern/Embedded_and_RTO_system/May_Jun_2019.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 90px; height: 90px;"></a>
-                                        <p>May-Jun 2019</p>
-                                    </div>
-
-                                    <div class="col-md-2"><a href="pdf/be/2015_Pattern/Embedded_and_RTO_system/Nov_Dec_2019.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 90px; height: 90px;"></a>
-                                        <p>Nov-Dec 2019</p>
-                                    </div>
-
+                                <div class="col-md-2"><a href="pdf/be/Nov_Dec_2019.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 90px; height: 90px;"></a>
+                                    <p>Nov-Dec 2019</p>
                                 </div>
-                                <br>
-                                <p><strong style="box-sizing: border-box; line-height: inherit;">High Performance Computing</strong></p>
 
-                                <div class="row">
+                            </div>
+                            <br>
+                            <!--Data Analytics-->
+                            <p><strong style="box-sizing: border-box; line-height: inherit;">Data Analytics</strong></p>
 
-                                    <div class="col-md-2"><a href="pdf/be/2015_Pattern/High_Performance_Computing/May_Jun_2019.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 90px; height: 90px;"></a>
-                                        <p>May-Jun 2019</p>
-                                    </div>
+                            <div class="row">
 
-                                    <div class="col-md-2"><a href="pdf/be/2015_Pattern/High_Performance_Computing/Nov_Dec_2018.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 90px; height: 90px;"></a>
-                                        <p>Nov-Dec 2018</p>
-                                    </div>
-
-                                    <div class="col-md-2"><a href="pdf/be/2015_Pattern/High_Performance_Computing/Nov_Dec_2019.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 90px; height: 90px;"></a>
-                                        <p>Nov-Dec 2019</p>
-                                    </div>
-
+                                <div class="col-md-2"><a href="pdf/be/May_Jun_2019.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 90px; height: 90px;"></a>
+                                    <p>May-Jun 2019</p>
                                 </div>
-                                <br>
-                                <p><strong style="box-sizing: border-box; line-height: inherit;">Information Cyber Security</strong></p>
 
-                                <div class="row">
-
-                                    <div class="col-md-2"><a href="pdf/be/2015_Pattern/Information_Cyber_Security/May_Jun_2019.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 90px; height: 90px;"></a>
-                                        <p>May-Jun 2019</p>
-                                    </div>
-                                    <div class="col-md-2"><a href="pdf/be/2015_Pattern/Information_Cyber_Security/Nov_Dec_2019.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 90px; height: 90px;"></a>
-                                        <p>Nov-Dec 2019</p>
-                                    </div>
-
+                                <div class="col-md-2"><a href="pdf/be/Nov_Dec_2018.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 90px; height: 90px;"></a>
+                                    <p>Nov-Dec 2018</p>
                                 </div>
-                                <br>
-                                <p><strong style="box-sizing: border-box; line-height: inherit;">Machine Learning</strong></p>
 
-                                <div class="row">
-
-                                    <div class="col-md-2"><a href="pdf/be/2015_Pattern/Machine_Learning/May_Jun_2019.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 90px; height: 90px;"></a>
-                                        <p>May-Jun 2019</p>
-                                    </div>
-
+                                <div class="col-md-2"><a href="pdf/be/Nov_Dec_2019.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 90px; height: 90px;"></a>
+                                    <p>Nov-Dec 2019</p>
                                 </div>
-                                <br>
-                                <p><strong style="box-sizing: border-box; line-height: inherit;">Software Testing Quality Assurance</strong></p>
 
-                                <div class="row">
+                            </div>
+                            <br>
+                            <p><strong style="box-sizing: border-box; line-height: inherit;">Data Mining -Warehousing</strong></p>
 
-                                    <div class="col-md-2"><a href="pdf/be/2015_Pattern/Machine_Learning/Software_Testing_Quality_AssuranceMay_Jun_2019.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 90px; height: 90px;"></a>
-                                        <p>May-Jun 2019</p>
-                                    </div>
+                            <div class="row">
 
-                                    <div class="col-md-2"><a href="pdf/be/2015_Pattern/Software_Testing_Quality_Assurance/Nov_Dec_2018.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 90px; height: 90px;"></a>
-                                        <p>Nov-Dec 2018</p>
-                                    </div>
-
-                                    <div class="col-md-2"><a href="pdf/be/2015_Pattern/Software_Testing_Quality_Assurance/Nov_Dec_2019.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 90px; height: 90px;"></a>
-                                        <p>Nov-Dec 2019</p>
-                                    </div>
-
+                                <div class="col-md-2"><a href="pdf/be/May_Jun_2019.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 90px; height: 90px;"></a>
+                                    <p>May-Jun 2019</p>
                                 </div>
+
+                                <div class="col-md-2"><a href="pdf/be/Nov_Dec_2018.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 90px; height: 90px;"></a>
+                                    <p>Nov-Dec 2018</p>
+                                </div>
+
+                                <div class="col-md-2"><a href="pdf/be/Nov_Dec_2019.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 90px; height: 90px;"></a>
+                                    <p>Nov-Dec 2019</p>
+                                </div>
+
+                            </div>
+                            <br>
+                            <p><strong style="box-sizing: border-box; line-height: inherit;">Embedded and RTO system</strong></p>
+
+                            <div class="row">
+
+                                <div class="col-md-2"><a href="pdf/be/May_Jun_2019.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 90px; height: 90px;"></a>
+                                    <p>May-Jun 2019</p>
+                                </div>
+
+                                <div class="col-md-2"><a href="pdf/be/Nov_Dec_2019.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 90px; height: 90px;"></a>
+                                    <p>Nov-Dec 2019</p>
+                                </div>
+
+                            </div>
+                            <br>
+                            <p><strong style="box-sizing: border-box; line-height: inherit;">High Performance Computing</strong></p>
+
+                            <div class="row">
+
+                                <div class="col-md-2"><a href="pdf/be/May_Jun_2019.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 90px; height: 90px;"></a>
+                                    <p>May-Jun 2019</p>
+                                </div>
+
+                                <div class="col-md-2"><a href="pdf/be/Nov_Dec_2018.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 90px; height: 90px;"></a>
+                                    <p>Nov-Dec 2018</p>
+                                </div>
+
+                                <div class="col-md-2"><a href="pdf/be/Nov_Dec_2019.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 90px; height: 90px;"></a>
+                                    <p>Nov-Dec 2019</p>
+                                </div>
+
+                            </div>
+                            <br>
+                            <p><strong style="box-sizing: border-box; line-height: inherit;">Information Cyber Security</strong></p>
+
+                            <div class="row">
+
+                                <div class="col-md-2"><a href="pdf/be/May_Jun_2019.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 90px; height: 90px;"></a>
+                                    <p>May-Jun 2019</p>
+                                </div>
+                                <div class="col-md-2"><a href="pdf/be/Nov_Dec_2019.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 90px; height: 90px;"></a>
+                                    <p>Nov-Dec 2019</p>
+                                </div>
+
+                            </div>
+                            <br>
+                            <p><strong style="box-sizing: border-box; line-height: inherit;">Machine Learning</strong></p>
+
+                            <div class="row">
+
+                                <div class="col-md-2"><a href="pdf/be/May_Jun_2019.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 90px; height: 90px;"></a>
+                                    <p>May-Jun 2019</p>
+                                </div>
+
+                            </div>
+                            <br>
+                            <p><strong style="box-sizing: border-box; line-height: inherit;">Software Testing Quality Assurance</strong></p>
+
+                            <div class="row">
+
+                                <div class="col-md-2"><a href="pdf/be/Software_Testing_Quality_AssuranceMay_Jun_2019.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 90px; height: 90px;"></a>
+                                    <p>May-Jun 2019</p>
+                                </div>
+
+                                <div class="col-md-2"><a href="pdf/be/Nov_Dec_2018.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 90px; height: 90px;"></a>
+                                    <p>Nov-Dec 2018</p>
+                                </div>
+
+                                <div class="col-md-2"><a href="pdf/beNov_Dec_2019.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 90px; height: 90px;"></a>
+                                    <p>Nov-Dec 2019</p>
+                                </div>
+
                             </div>
                         </div>
+
                     </div>
                 </div>
             </div>
