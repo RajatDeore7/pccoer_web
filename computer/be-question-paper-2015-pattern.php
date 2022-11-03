@@ -40,7 +40,7 @@
                         <ol class="breadcrumb">
                             <li class="breadcrumb-item"><i class="fa fa-home"></i> Home</li>
                             <li class="breadcrumb-item">Computer Department</li>
-                            <li class="breadcrumb-item"><a href="#">Question Paper</a></li>
+                            <li class="breadcrumb-item"><a href="question-paper.php">Question Paper</a></li>
                             <li class="breadcrumb-item"><a href="#">BE Question Paper-2015 Pattern-1</a></li>
                         </ol>
                     </nav>
