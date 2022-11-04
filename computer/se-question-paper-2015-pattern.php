@@ -50,237 +50,225 @@
     </div>
 
     <div class="page_details">
+        <div class="container">
+            <div class="row">
 
-        <div class="row">
+                <?php include 'computer-sidebar.php'; ?>
 
-            <?php include 'computer-sidebar.php'; ?>
+                <div class="col-xs-12 col-sm-12 col-md-9">
+                    <div class="hdg-bdr"><span class="hdg-bdr-1"></span><span class="hdg-bdr-2"></span><span class="hdg-bdr-3"></span></div>
+                    <br>
+                    <h1 align="center">SE Question Paper-2015 Pattern-1</h1>
+                    <hr>
+                    <div class="wm-main-section">
 
-            <div class="col-xs-12 col-sm-12 col-md-9">
-                <div class="hdg-bdr"><span class="hdg-bdr-1"></span><span class="hdg-bdr-2"></span><span class="hdg-bdr-3"></span></div>
-                <br>
-                <h1 align="center">SE Question Paper-2015 Pattern-1</h1>
-                <hr>
-                <div class="wm-main-section">
-                    <div class="container">
                         <div class="row">
                             <!--2015 Pattern advanced Data Structure-->
                             <p><strong style="box-sizing: border-box; line-height: inherit;">Advanced Data Structure</strong></p>
 
                             <div class="row">
 
-                                <div class="col-md-2"><a href="pdf/se/2015_Pattern/Advanced_Data_Structure/May_Jun_2018.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 90px; height: 90px;"></a>
+                                <div class="col-md-2"><a href="pdf/se/May_Jun_2018.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 80px; height: 80px;" /></a>
                                     <p>May-Jun 2018</p>
                                 </div>
-                                <div class="col-md-2"><a href="pdf/se/2015_Pattern/Advanced_Data_Structure/May_Jun_2019.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 90px; height: 90px;"></a>
+                                <div class="col-md-2"><a href="pdf/se/May_Jun_2019.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 80px; height: 80px;" /></a>
                                     <p>May-Jun 2019</p>
                                 </div>
-                                <div class="col-md-2"><a href="pdf/se/2015_Pattern/Advanced_Data_Structure/Nov_Dec_2018.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 90px; height: 90px;"></a>
+                                <div class="col-md-2"><a href="pdf/se/Nov_Dec_2018.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 80px; height: 80px;" /></a>
                                     <p>Nov-Dec 2018</p>
                                 </div>
-                                <div class="col-md-2"><a href="pdf/se/2015_Pattern/Advanced_Data_Structure/Nov_Dec_2019.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 90px; height: 90px;"></a>
+                                <div class="col-md-2"><a href="pdf/se/Nov_Dec_2019.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 80px; height: 80px;" /></a>
                                     <p>Nov-Dec 2019</p>
                                 </div>
 
                             </div>
-                            <br>
                             <!--Computer Graphics-->
                             <p><strong style="box-sizing: border-box; line-height: inherit;">Computer Graphics</strong></p>
 
                             <div class="row">
 
-                                <div class="col-md-2"><a href="pdf/se/2015_Pattern/Computer_Graphics/May_Jun_2018.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 90px; height: 90px;"></a>
+                                <div class="col-md-2"><a href="pdf/se/May_Jun_2018.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 80px; height: 80px;" /></a>
                                     <p>May-Jun 2018</p>
                                 </div>
-                                <div class="col-md-2"><a href="pdf/se/2015_Pattern/Computer_Graphics/May_Jun_2019.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 90px; height: 90px;"></a>
+                                <div class="col-md-2"><a href="pdf/se/May_Jun_2019.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 80px; height: 80px;" /></a>
                                     <p>May-Jun 2019</p>
                                 </div>
-                                <div class="col-md-2"><a href="pdf/se/2015_Pattern/Computer_Graphics/Nov_Dec_2018.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 90px; height: 90px;"></a>
+                                <div class="col-md-2"><a href="pdf/se/Nov_Dec_2018.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 80px; height: 80px;" /></a>
                                     <p>Nov-Dec 2018</p>
                                 </div>
-                                <div class="col-md-2"><a href="pdf/se/2015_Pattern/Computer_Graphics/Nov_Dec_2019.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 90px; height: 90px;"></a>
+                                <div class="col-md-2"><a href="pdf/se/Nov_Dec_2019.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 80px; height: 80px;" /></a>
                                     <p>Nov-Dec 2019</p>
                                 </div>
 
                             </div>
-                            <br>
                             <!--Computer_Organization_Arch-->
                             <p><strong style="box-sizing: border-box; line-height: inherit;">Computer Organization Architecture</strong></p>
 
                             <div class="row">
 
-                                <div class="col-md-2"><a href="pdf/se/2015_Pattern/Computer_Organization_Arch/May_Jun_2019.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 90px; height: 90px;"></a>
+                                <div class="col-md-2"><a href="pdf/se/May_Jun_2019.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 80px; height: 80px;" /></a>
                                     <p>May-Jun 2019</p>
                                 </div>
-                                <div class="col-md-2"><a href="pdf/se/2015_Pattern/Computer_Organization_Arch/Nov_Dec_2017.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 90px; height: 90px;"></a>
+                                <div class="col-md-2"><a href="pdf/se/Nov_Dec_2017.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 80px; height: 80px;" /></a>
                                     <p>Nov-Dec 2017</p>
                                 </div>
-                                <div class="col-md-2"><a href="pdf/se/2015_Pattern/Computer_Organization_Arch/Nov_Dec_2018.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 90px; height: 90px;"></a>
+                                <div class="col-md-2"><a href="pdf/se/Nov_Dec_2018.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 80px; height: 80px;" /></a>
                                     <p>Nov-Dec 2018</p>
                                 </div>
-                                <div class="col-md-2"><a href="pdf/se/2015_Pattern/Computer_Organization_Arch/Nov_Dec_2019.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 90px; height: 90px;"></a>
+                                <div class="col-md-2"><a href="pdf/se/Nov_Dec_2019.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 80px; height: 80px;" /></a>
                                     <p>Nov-Dec 2019</p>
                                 </div>
 
                             </div>
-                            <br>
                             <!--Data_Structure_Algorithms-->
                             <p><strong style="box-sizing: border-box; line-height: inherit;">Data Structure Algorithms</strong></p>
 
                             <div class="row">
 
-                                <div class="col-md-2"><a href="pdf/se/2015_Pattern/Data_Structure_Algorithms/May_Jun_2018.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 90px; height: 90px;"></a>
+                                <div class="col-md-2"><a href="pdf/se/May_Jun_2018.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 80px; height: 80px;" /></a>
                                     <p>May-Jun 2018</p>
                                 </div>
-                                <div class="col-md-2"><a href="pdf/se/2015_Pattern/Data_Structure_Algorithms/May_Jun_2019.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 90px; height: 90px;"></a>
+                                <div class="col-md-2"><a href="pdf/se/May_Jun_2019.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 80px; height: 80px;" /></a>
                                     <p>May-Jun 2019</p>
                                 </div>
-                                <div class="col-md-2"><a href="pdf/se/2015_Pattern/Data_Structure_Algorithms/Nov_Dec_2018.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 90px; height: 90px;"></a>
+                                <div class="col-md-2"><a href="pdf/se/Nov_Dec_2018.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 80px; height: 80px;" /></a>
                                     <p>Nov-Dec 2018</p>
                                 </div>
-                                <div class="col-md-2"><a href="pdf/se/2015_Pattern/Data_Structure_Algorithms/Nov_Dec_2019.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 90px; height: 90px;"></a>
+                                <div class="col-md-2"><a href="pdf/se/Nov_Dec_2019.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 80px; height: 80px;" /></a>
                                     <p>Nov-Dec 2019</p>
                                 </div>
 
                             </div>
-                            <br>
                             <!--Digital_Electronics_and_Logic_Design-->
                             <p><strong style="box-sizing: border-box; line-height: inherit;">Digital Electronics and Logic Design</strong></p>
 
                             <div class="row">
 
-                                <div class="col-md-2"><a href="pdf/se/2015_Pattern/Digital_Electronics_and_Logic_Design/May_Jun_2019.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 90px; height: 90px;"></a>
+                                <div class="col-md-2"><a href="pdf/se/May_Jun_2019.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 80px; height: 80px;" /></a>
                                     <p>May-Jun 2019</p>
                                 </div>
-                                <div class="col-md-2"><a href="pdf/se/2015_Pattern/Digital_Electronics_and_Logic_Design/Nov_Dec_2017.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 90px; height: 90px;"></a>
+                                <div class="col-md-2"><a href="pdf/se/Nov_Dec_2017.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 80px; height: 80px;" /></a>
                                     <p>Nov-Dec 2017</p>
                                 </div>
-                                <div class="col-md-2"><a href="pdf/se/2015_Pattern/Digital_Electronics_and_Logic_Design/Nov_Dec_2018.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 90px; height: 90px;"></a>
+                                <div class="col-md-2"><a href="pdf/se/Nov_Dec_2018.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 80px; height: 80px;" /></a>
                                     <p>Nov-Dec 2018</p>
                                 </div>
 
                             </div>
-                            <br>
                             <!--Discrete_Mathmatics-->
                             <p><strong style="box-sizing: border-box; line-height: inherit;">Discrete Mathmatics</strong></p>
 
                             <div class="row">
 
-                                <div class="col-md-2"><a href="pdf/se/2015_Pattern/Discrete_Mathmatics/May_Jun_2018.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 90px; height: 90px;"></a>
+                                <div class="col-md-2"><a href="pdf/se/May_Jun_2018.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 80px; height: 80px;" /></a>
                                     <p>May-Jun 2018</p>
                                 </div>
-                                <div class="col-md-2"><a href="pdf/se/2015_Pattern/Discrete_Mathmatics/May_Jun_2019.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 90px; height: 90px;"></a>
+                                <div class="col-md-2"><a href="pdf/se/May_Jun_2019.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 80px; height: 80px;" /></a>
                                     <p>May-Jun 2019</p>
                                 </div>
-                                <div class="col-md-2"><a href="pdf/se/2015_Pattern/Discrete_Mathmatics/Nov_Dec_2018.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 90px; height: 90px;"></a>
+                                <div class="col-md-2"><a href="pdf/se/Nov_Dec_2018.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 80px; height: 80px;" /></a>
                                     <p>Nov-Dec 2018</p>
                                 </div>
-                                <div class="col-md-2"><a href="pdf/se/2015_Pattern/Discrete_Mathmatics/Nov_Dec_2019.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 90px; height: 90px;"></a>
+                                <div class="col-md-2"><a href="pdf/se/Nov_Dec_2019.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 80px; height: 80px;" /></a>
                                     <p>Nov-Dec 2019</p>
                                 </div>
 
                             </div>
-                            <br>
                             <!--Engineering_Mathematics_III-->
                             <p><strong style="box-sizing: border-box; line-height: inherit;">Engineering Mathematics-III</strong></p>
 
                             <div class="row">
 
-                                <div class="col-md-2"><a href="pdf/se/2015_Pattern/Engineering_Mathematics_III/May_Jun_2018.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 90px; height: 90px;"></a>
+                                <div class="col-md-2"><a href="pdf/se/May_Jun_2018.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 80px; height: 80px;" /></a>
                                     <p>May-Jun 2018</p>
                                 </div>
-                                <div class="col-md-2"><a href="pdf/se/2015_Pattern/Engineering_Mathematics_III/May_Jun_2019.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 90px; height: 90px;"></a>
+                                <div class="col-md-2"><a href="pdf/se/May_Jun_2019.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 80px; height: 80px;" /></a>
                                     <p>May-Jun 2019</p>
                                 </div>
-                                <div class="col-md-2"><a href="pdf/se/2015_Pattern/Engineering_Mathematics_III/Nov_Dec_2018.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 90px; height: 90px;"></a>
+                                <div class="col-md-2"><a href="pdf/se/Nov_Dec_2018.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 80px; height: 80px;" /></a>
                                     <p>Nov-Dec 2018</p>
                                 </div>
-                                <div class="col-md-2"><a href="pdf/se/2015_Pattern/Engineering_Mathematics_III/Nov_Dec_2019.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 90px; height: 90px;"></a>
+                                <div class="col-md-2"><a href="pdf/se/Nov_Dec_2019.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 80px; height: 80px;" /></a>
                                     <p>Nov-Dec 2019</p>
                                 </div>
 
                             </div>
-                            <br>
                             <!--Micropprocessor-->
                             <p><strong style="box-sizing: border-box; line-height: inherit;">Micropprocessor</strong></p>
 
                             <div class="row">
 
-                                <div class="col-md-2"><a href="pdf/se/2015_Pattern/Micropprocessor/May_Jun_2018.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 90px; height: 90px;"></a>
+                                <div class="col-md-2"><a href="pdf/se/May_Jun_2018.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 80px; height: 80px;" /></a>
                                     <p>May-Jun 2018</p>
                                 </div>
-                                <div class="col-md-2"><a href="pdf/se/2015_Pattern/Micropprocessor/May_Jun_2019.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 90px; height: 90px;"></a>
+                                <div class="col-md-2"><a href="pdf/se/May_Jun_2019.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 80px; height: 80px;" /></a>
                                     <p>May-Jun 2019</p>
                                 </div>
-                                <div class="col-md-2"><a href="pdf/se/2015_Pattern/Micropprocessor/Nov_Dec_2018.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 90px; height: 90px;"></a>
+                                <div class="col-md-2"><a href="pdf/se/Nov_Dec_2018.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 80px; height: 80px;" /></a>
                                     <p>Nov-Dec 2018</p>
                                 </div>
-                                <div class="col-md-2"><a href="pdf/se/2015_Pattern/Micropprocessor/Nov_Dec_2019.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 90px; height: 90px;"></a>
+                                <div class="col-md-2"><a href="pdf/se/Nov_Dec_2019.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 80px; height: 80px;" /></a>
                                     <p>Nov-Dec 2019</p>
                                 </div>
 
                             </div>
-                            <br>
                             <!--Object_Oriented_Programming-->
                             <p><strong style="box-sizing: border-box; line-height: inherit;">Object Oriented Programming</strong></p>
 
                             <div class="row">
 
-                                <div class="col-md-2"><a href="pdf/se/2015_Pattern/Object_Oriented_Programming/May_Jun_2018.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 90px; height: 90px;"></a>
+                                <div class="col-md-2"><a href="pdf/se/May_Jun_2018.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 80px; height: 80px;" /></a>
                                     <p>May-Jun 2018</p>
                                 </div>
-                                <div class="col-md-2"><a href="pdf/se/2015_Pattern/Object_Oriented_Programming/May_Jun_2019.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 90px; height: 90px;"></a>
+                                <div class="col-md-2"><a href="pdf/se/May_Jun_2019.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 80px; height: 80px;" /></a>
                                     <p>May-Jun 2019</p>
                                 </div>
-                                <div class="col-md-2"><a href="pdf/se/2015_Pattern/Object_Oriented_Programming/Nov_Dec_2018.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 90px; height: 90px;"></a>
+                                <div class="col-md-2"><a href="pdf/se/Nov_Dec_2018.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 80px; height: 80px;" /></a>
                                     <p>Nov-Dec 2018</p>
                                 </div>
-                                <div class="col-md-2"><a href="pdf/se/2015_Pattern/Object_Oriented_Programming/Nov_Dec_2019.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 90px; height: 90px;"></a>
+                                <div class="col-md-2"><a href="pdf/se/Nov_Dec_2019.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 80px; height: 80px;" /></a>
                                     <p>Nov-Dec 2019</p>
                                 </div>
 
                             </div>
-                            <br>
                             <!--Principles_of_Programming_Languages-->
                             <p><strong style="box-sizing: border-box; line-height: inherit;">Principles of Programming Languages</strong></p>
 
                             <div class="row">
 
-                                <div class="col-md-2"><a href="pdf/se/2015_Pattern/Principles_of_Programming_Languages/May_Jun_2018.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 90px; height: 90px;"></a>
+                                <div class="col-md-2"><a href="pdf/se/May_Jun_2018.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 80px; height: 80px;" /></a>
                                     <p>May-Jun 2018</p>
                                 </div>
-                                <div class="col-md-2"><a href="pdf/se/2015_Pattern/Principles_of_Programming_Languages/May_Jun_2019.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 90px; height: 90px;"></a>
+                                <div class="col-md-2"><a href="pdf/se/May_Jun_2019.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 80px; height: 80px;" /></a>
                                     <p>May-Jun 2019</p>
                                 </div>
-                                <div class="col-md-2"><a href="pdf/se/2015_Pattern/Principles_of_Programming_Languages/Nov_Dec_2018.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 90px; height: 90px;"></a>
+                                <div class="col-md-2"><a href="pdf/se/Nov_Dec_2018.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 80px; height: 80px;" /></a>
                                     <p>Nov-Dec 2018</p>
                                 </div>
-                                <div class="col-md-2"><a href="pdf/se/2015_Pattern/Principles_of_Programming_Languages/Nov_Dec_2019.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 90px; height: 90px;"></a>
+                                <div class="col-md-2"><a href="pdf/se/Nov_Dec_2019.pdf" target="_blank"><img alt="" src="http://www.pccoer.com/entc/images/download.png" style="width: 80px; height: 80px;" /></a>
                                     <p>Nov-Dec 2019</p>
                                 </div>
 
                             </div>
 
+
                         </div>
-
-
                     </div>
                 </div>
+
+
             </div>
         </div>
 
+        <?php include '../footer.php'; ?>
 
+        <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+        <script src="../js/bootstrap.min.js"></script>
+        <script src="../js/menu.js"></script>
 
-    </div>
-
-    <?php include '../footer.php'; ?>
-
-    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-    <script src="../js/bootstrap.min.js"></script>
-    <script src="../js/menu.js"></script>
-
-    <!-- my js -->
-    <script src="../js/computer.js"></script>
+        <!-- my js -->
+        <script src="../js/computer.js"></script>
 
 </body>
 

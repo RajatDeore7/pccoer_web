@@ -19,7 +19,7 @@
 			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href='elibrary.php'>E-Library</a></li>
 			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href='e-magazine.php'>E-Magazine</a></li>
 			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href='./pdf/product-details.pdf'>Product Developed</a></li>
-			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href='question-paper.php'>Question Paper</a></li>
+			<!-- <li <?php if ($pagename == "") echo 'class="active"'; ?>><a href='question-paper.php'>Question Paper</a></li> -->
 			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href='./pdf/C-Cube.pdf'>C-CUBE</a></li>
 			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href='industry-interaction.php'>Industry Interaction</a></li>
 			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href='http://pccoer.acm.org/'>ACM</a></li>
