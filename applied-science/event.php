@@ -64,10 +64,10 @@
 								<td><img src="images/event/11.png" alt="Poster Competition On National Science Day" style="margin: 0 auto; width: 400px;"></td>
 								<td><img src="images/event/SC 2.png" alt="Poster Competition On National Science Day" style="margin: 0 auto; width: 400px;"></td>
 							</tr>
-							<tr>
+							<!-- <tr>
 								<td><img src="images/event/SC3.png" alt="Poster Competition On National Science Day" style="margin: 0 auto; width: 400px;"></td>
 								<td></td>
-							</tr>
+							</tr> -->
 						</tbody>
 					</table>
 
@@ -114,7 +114,7 @@
 					</table>
 					<br />
 
-					<p><strong>Event Name: WINDUCTION 2020-2021</strong></p>
+					<p><strong>Event Name: INDUCTION 2020-2021</strong></p>
 					<p><strong>Date: 1st Feburary 2021</strong></p>
 					<p><strong>Description:</strong> It was welcome Programme for the newly admitted students of First year Engineering 2020-21 in online mode .Objective of the function was to guide newly admitted students to set academic and carrier goals. Dr. H.U. Tiwari advised students to develop innovative ideas and get involved in research activities. . Mr. Vivek Velankar encouraged students to focus on overall development of one’s personality, Mr.Tushar Gaikwad, Head of the Department, explained about the college policies, departments and facilities.
 						<br>
@@ -126,12 +126,12 @@
 					<table class="table table-bordered table-responsive">
 						<tbody>
 							<tr>
-								<td><img src="images/event/induction_1.JPG" alt="induction" style="margin: 0 auto;"></td>
-								<td><img src="images/event/induction_2.JPG" alt="induction" style="margin: 0 auto;"></td>
+								<td><img src="images/event/induction_1.JPEG" alt="induction" height="250" width="400"></td>
+								<td><img src="images/event/induction_2.JPEG" alt="induction" height="250" width="400"></td>
 							</tr>
 							<tr>
-								<td><img src="images/event/induction_3.JPG" height="235px" alt="induction" style="margin: 0 auto;"></td>
-								<td><img src="images/event/induction_4.JPG" alt="induction" style="margin: 0 auto;"></td>
+								<td><img src="images/event/induction_3.JPEG" height="235px" alt="induction" height="250" width="400"></td>
+								<td><img src="images/event/induction_4.JPEG" alt="induction" height="250" width="400"></td>
 							</tr>
 						</tbody>
 					</table>
@@ -169,10 +169,10 @@
 								<td><img src="images/event/poster-competition-1.jpg" alt="First Year Engineering PBL Poster Competition 2019-20, PCCOER" style="margin: 0 auto; width:350px; height:300px;"></td>
 								<td><img src="images/event/poster-competition-2.jpg" alt="First Year Engineering PBL Poster Competition 2019-20, PCCOER" style="margin: 0 auto; width:350px; height:300px;"></td>
 							</tr>
-							<tr>
+							<!-- <tr>
 								<td><img src="images/event/poster-competition-3.jpg" alt="First Year Engineering PBL Poster Competition 2019-20, PCCOER" style="margin: 0 auto; width:350px; height:300px;"></td>
 
-							</tr>
+							</tr> -->
 						</tbody>
 					</table>
 					<p>On 13th Feb 2020, Poster presentation competition was held for the First Year Engineering students. The Function began with Inauguration of the event by the hands of Dr.RahulMapari College PBL Coordinator. The students than presented their poster to all the guests and faculty who attended the event. Prize distribution ceremony was conducted at 5.00pm on same day by hands of respected Principal sir.</p>
@@ -396,10 +396,10 @@
 								<td><img src="images/event/physics-orientation-workshop-4.jpg" alt="Physics Orientation Workshop of Revised Syllabus 2019 4, PCCOER" style="width:360px; height:240px;">
 								</td>
 							</tr>
-							<tr>
+							<!-- <tr>
 								<td><img src="images/event/physics-orientation-workshop-5.JPG" alt="Physics Orientation Workshop of Revised Syllabus 2019 5, PCCOER" style="width:360px; height:240px;"></td>
 
-							</tr>
+							</tr> -->
 						</tbody>
 					</table>
 
@@ -478,13 +478,13 @@
 						<table class="table table-bordered table-responsive">
 							<tbody>
 								<tr>
-									<td><img src="study_sucess_lecture.jpg" alt="Events at PCCOER" style="width:360px; height:240px;"></td>
-									<td><img src="guest.jpg" alt="Events at PCCOER " style="width:360px; height:240px;">
+									<td><img src="images/event/study_sucess_lecture.jpg" alt="Events at PCCOER" style="width:360px; height:240px;"></td>
+									<td><img src="images/event/guest.jpg" alt="Events at PCCOER " style="width:360px; height:240px;">
 									</td>
 								</tr>
 								<tr>
-									<td><img src="Study_sucess.jpg" alt="Events at PCCOER" style="width:360px; height:240px;"></td>
-									<td><img src="positive_thinking.jpg" alt="Events at PCCOER" style="width:360px; height:240px;">
+									<td><img src="images/event/Study_sucess.jpg" alt="Events at PCCOER" style="width:360px; height:240px;"></td>
+									<td><img src="images/event/positive_thinking.jpg" alt="Events at PCCOER" style="width:360px; height:240px;">
 									</td>
 								</tr>
 							</tbody>
@@ -513,15 +513,15 @@
 						<table class="table table-bordered table-responsive">
 							<tbody>
 								<tr>
-									<td><img src="ev1.jpg" alt="Events at PCCOER" style="width:360px; height:240px;"></td>
-									<td><img src="ev2.jpg" alt="Events at PCCOER" style="width:360px; height:240px;">
+									<td><img src="images/event/ev1.jpg" alt="Events at PCCOER" style="width:360px; height:240px;"></td>
+									<td><img src="images/event/ev2.jpg" alt="Events at PCCOER" style="width:360px; height:240px;">
 									</td>
 								</tr>
-								<tr>
+								<!-- <tr>
 									<td><img src="ev3.jpg" alt="Events at PCCOER" style="width:360px; height:240px;"></td>
-									<!-- <td><img src="positive_thinking.jpg" alt="Best placement enginerring colleges in Pune " style="width:360px; height:240px;">
-                                    </td> -->
-								</tr>
+									 <td><img src="positive_thinking.jpg" alt="Best placement enginerring colleges in Pune " style="width:360px; height:240px;">
+                                    </td>
+								</tr> -->
 							</tbody>
 						</table>
 					</div>
@@ -594,11 +594,10 @@
 									<td><img src="images/event/ptm2.jpg" alt="Events at PCCOER">
 									</td>
 								</tr>
-								<tr>
+								<!-- <tr>
 									<td><img src="images/event/ptm3.jpg" alt="Events at PCCOER">
 									</td>
-
-								</tr>
+								</tr> -->
 							</tbody>
 						</table>
 					</div>
@@ -650,14 +649,14 @@
 								</tr>
 								<tr>
 									<td><img src="images/event/Induction-5.jpg" alt="Events at PCCOER" style="width:360px; height:240px;"></td>
-									<td><img src="images/event/Induction-6.JPG" alt="Events at PCCOER" style="width:360px; height:240px;">
+									<td><img src="images/event/Induction-6.jpeg" alt="Events at PCCOER" style="width:360px; height:240px;">
 									</td>
 								</tr>
-								<tr>
+								<!-- <tr>
 									<td><img src="images/event/Induction-7.jpg" alt="Events at PCCOER" style="width:360px; height:240px;"></td>
-									<!-- <td><img src="images/event/Induction-1.jpg" alt="Best placement enginerring colleges in Pune " style="width:360px; height:240px;">
-                                    </td> -->
-								</tr>
+									<td><img src="images/event/Induction-1.jpg" alt="Best placement enginerring colleges in Pune " style="width:360px; height:240px;">
+                                    </td>
+								</tr> -->
 							</tbody>
 						</table>
 					</div>
@@ -675,9 +674,9 @@
 									<td><img src="images/event/pccoer-indu1.png" alt="Events at PCCOER"></td>
 									<td><img src="images/event/pccoer-indu2.png" alt="Events at PCCOER"></td>
 								</tr>
-								<tr>
+								<!-- <tr>
 									<td><img src="images/event/pccoer-indu1.png" alt="Events at PCCOER"></td>
-								</tr>
+								</tr> -->
 							</tbody>
 						</table><br>
 						<h6>2. Welcome of Dignitary and Parents</h6>
