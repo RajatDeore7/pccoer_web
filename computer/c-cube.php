@@ -36,7 +36,7 @@
                         <ol class="breadcrumb">
                             <li class="breadcrumb-item"><i class="fa fa-home"></i> Home</li>
                             <li class="breadcrumb-item">Computer</li>
-                            <li class="breadcrumb-item"><a href="#">Download</a></li>
+                            <li class="breadcrumb-item"><a href="#">C-Cube</a></li>
                         </ol>
                     </nav>
                 </div>
@@ -53,14 +53,14 @@
                 <div class="col-xs-12 col-sm-12 col-md-9">
                     <div class="hdg-bdr"><span class="hdg-bdr-1"></span><span class="hdg-bdr-2"></span><span class="hdg-bdr-3"></span></div>
                     <br>
-                    <h1 align="center">Download</h1>
+                    <h1 align="center">C-Cube</h1>
                     <hr>
 
                     <div class="col-md-12">
 
                         <div class="col-md-3">
                             <a href="pdf/c-cube/ACAD-R-16 C-Cube- Report HTML CSS.pdf" target="_blank"><img src="./../applied-science/images/download.png" alt="Research Publications"></a>
-                            <p>ACAD-R-16 C-Cube-Report HTML CSS</p>
+                            <p>ACAD-R-16 C-Cube-Report HTML,CSS</p>
                         </div>
 
                         <div class="col-md-3">
@@ -70,7 +70,7 @@
 
                         <div class="col-md-3">
                             <a href="pdf/c-cube/Report -  HTML CSS session.pdf" target="_blank"><img src="./../applied-science/images/download.png" alt="Research Publications"></a>
-                            <p>Report-HTML CSS session</p>
+                            <p>Report-HTML,CSS session</p>
                         </div>
 
                         <div class="col-md-3">
