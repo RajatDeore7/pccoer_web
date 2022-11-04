@@ -53,6 +53,11 @@
                 <div class="col-xs-12 col-sm-12 col-md-9">
                     <div class="hdg-bdr"><span class="hdg-bdr-1"></span><span class="hdg-bdr-2"></span><span class="hdg-bdr-3"></span></div>
                     <br>
+                    <div>
+                        <p><a href="faculty.php">C-Cube</a> / <a href="http://pccoer.acm.org/">ACM</a> /
+                            <a href="faculty.php">GDSC</a> / <a href="nonteach.php">GFG</a>
+                        </p>
+                    </div>
                     <h1 align="center">C-Cube</h1>
                     <hr>
 

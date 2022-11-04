@@ -59,10 +59,10 @@
                     <br>
                     <h1 align="center">Result</h1>
                     <hr>
-                    <h3>28 A SEM II 2021-22</h3>
-                    <iframe src="pdf/28 A SEM II 2021-22.pdf" width="100%" height="800px">
+                    <h3>2021-22 TERM-II</h3>
+                    <iframe src="./pdf/2021-22 TERM-II_0001.pdf" width="900px" height="800px">
                     </iframe>
-                    <br>
+                    <!-- <br>
                     <br>
                     <h3>28 A TE SEM II 2021-22</h3>
                     <iframe src="pdf/28 A TE SEM II 2021-22.pdf" width="100%" height="800px">
@@ -71,7 +71,7 @@
                     <br>
                     <h3>ACAD-R-28-A-SE-SEM-II 2021-22</h3>
                     <iframe src="pdf/ACAD-R-28-A-SE-SEM-II 2021-22.pdf" width="100%" height="800px">
-                    </iframe>
+                    </iframe> -->
                 </div>
             </div>
 

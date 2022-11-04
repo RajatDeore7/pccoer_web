@@ -7,23 +7,23 @@
 			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href='hod-desk.php'>HOD Desk</a></li>
 			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href='faculty.php'>Faculty & Staff</a></li>
 			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href='./pdf/Comp_Infrastructure_Details.pdf'>Infrastruchure & Facilities</a></li>
-			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href='research.php'>Research</a></li>
+			<!-- <li <?php if ($pagename == "") echo 'class="active"'; ?>><a href='research.php'>Research</a></li> -->
 			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href='download.php'>Downloads</a></li>
 			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href='achivements.php'>Achievements</a></li>
 			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href='event.php'>Department Activities</a></li>
 			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href='./pdf/Comp_Department_Highlights.pdf'>Department Highlights</a></li>
 			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href='students-view.php'>Student's View</a></li>
-			<!-- <li <?php if ($pagename == "") echo 'class="active"'; ?>><a href='result.php'>Result</a></li> -->
+			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href='result.php'>Result</a></li>
 			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href='placements.php'>Placements & Higher Studies</a></li>
 			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href='./pdf/innovative_methods.pdf'>Innovative Teaching Method</a></li>
 			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href='elibrary.php'>E-Library</a></li>
 			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href='e-magazine.php'>E-Magazine</a></li>
 			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href='./pdf/product-details.pdf'>Product Developed</a></li>
 			<!-- <li <?php if ($pagename == "") echo 'class="active"'; ?>><a href='question-paper.php'>Question Paper</a></li> -->
-			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href='c-cube.php'>C-CUBE</a></li>
+			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href='clubs.php'>Clubs</a></li>
 			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href='industry-interaction.php'>Industry Interaction</a></li>
-			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href='http://pccoer.acm.org/'>ACM</a></li>
-			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href="http://pccoercomp.com/">Department Website</a></li>
+			<!-- <li <?php if ($pagename == "") echo 'class="active"'; ?>><a href='http://pccoer.acm.org/'>ACM</a></li> -->
+			<!-- <li <?php if ($pagename == "") echo 'class="active"'; ?>><a href="http://pccoercomp.com/">Department Website</a></li>1 -->
 		</ul>
 	</div>
 </div>
