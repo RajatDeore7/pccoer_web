@@ -6,9 +6,9 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <title>Department of Computer Engineering | Pimpri Chinchwad College Of Engineering And Research | PCCOER - PCMC, Pune</title>
-    <meta name="description" content="The goal of the Computer Engineering department at PCCOER is to introduce students to the field of engineering by means of excellence in research, teaching and technology development is the vision of the Department." />
-    <meta name="keywords" content="pimpri chinchwad college of engineering and research, computer engineering">
+    <title>Events at Department of Computer Engineering | Pimpri Chinchwad College Of Engineering And Research | PCCOER - PCMC, Pune</title>
+    <meta name="description" content="PCCOER College annually organizes various events. The gallery shows the moment’s takes place at the events." />
+    <meta name="keywords" content="pimpri chinchwad college of engineering and research, computer engineering, events">
 
 
     <!-- Bootstrap -->
@@ -40,7 +40,7 @@
                         <ol class="breadcrumb">
                             <li class="breadcrumb-item"><i class="fa fa-home"></i> Home</li>
                             <li class="breadcrumb-item">Computer Department</li>
-                            <li class="breadcrumb-item"><a href="#">About Department</a></li>
+                            <li class="breadcrumb-item"><a href="#">Event</a></li>
                         </ol>
                     </nav>
                 </div>
@@ -57,7 +57,7 @@
                 <div class="col-xs-12 col-sm-12 col-md-9">
                     <div class="hdg-bdr"><span class="hdg-bdr-1"></span><span class="hdg-bdr-2"></span><span class="hdg-bdr-3"></span></div>
                     <br>
-                    <h1 align="center">About the Department</h1>
+                    <h1 align="center">Event</h1>
                     <hr>
                     <div class="comp_logo">
                         <img src="images/pccoer-comp-deprt-logo.jpg" alt="PCCOER is best engineering college in Pune" class="pccoer-logo">
