@@ -18,7 +18,8 @@
 	<link rel="icon" href="../images/pccoer-favicon-icon.png" type="image/png">
 
 	<!-- applied css -->
-	<link rel="stylesheet" href="./applied-science.css">
+	<link rel="stylesheet" href="./computer.css">
+
 	<!--Font Awesome Stylesheets -->
 	<link href="../css/all.min.css" rel="stylesheet">
 
@@ -52,33 +53,24 @@
 					<?php include 'computer-sidebar.php'; ?>
 				</div>
 				<div class="flex_2">
-					<img src="./images/hod-comp-dept-pccoer.jpg" alt="Best placement engineering college in Pune provideing job opportunities " width=850 height=400>
-
-					<!-- <div class="wm-blog-author wm-ourcourses">
-						<div class="wm-blogauthor-left">
-							<img src="images/new/AC.jpg" alt="Dr. Archana Ajit Chaugule" width="20%">
-							<a class="wm-authorpost" href="#">Dr. Archana Ajit Chaugule</a>
-						</div>
-						<div class="wm-our-courses">
-							<ul>
-								<li>
-									<a href="#"><i class="fa fa-book" aria-hidden="true"></i>Qualification : Ph.D(Comp. Engg)</a>
-								</li>
-								<li>
-									<a href="#"><i class="fa fa-book" aria-hidden="true"></i>Experience : Teaching - 18.9 Year &amp; Industry: 1.5 Year</a>
-								</li>
-								<li>
-									<a href="#"><i class="fa fa-envelope-o" aria-hidden="true"></i>Email Id. : archana.chaugule@pccoer.in</a>
-								</li>
-							    <li>
-                        <a href="#"><i class="wmicon-symbol"></i>Assesments: Yes</a>
-                      </li>
-							</ul>
-						</div>
-					</div> -->
 
 
 					<div class="col-xs-12 col-sm-12 col-md-9">
+						<img src="./images/hod-comp-dept-pccoer.jpg" alt="Best placement engineering college in Pune provideing job opportunities " width=850 height=400>
+						<div class="hod_page">
+							<div class="hod_page_1">
+								<p class="hod_name">Dr. Archana Ajit Chaugule</p>
+							</div>
+							<div class="hod_page_2">
+								<div class="hod_page_2.1">
+									<p><b>Designation: </b>Professor & Head of the Computer Department</p>
+								</div>
+								<div class="hod_page_2.1">
+									<b>Qualification: </b>Ph.D(Computer Engg)
+								</div>
+							</div>
+						</div>
+						<br>
 						<div class="hdg-bdr"><span class="hdg-bdr-1"></span><span class="hdg-bdr-2"></span><span class="hdg-bdr-3"></span></div>
 						<br>
 						<h1 align="center">HOD Desk</h1>

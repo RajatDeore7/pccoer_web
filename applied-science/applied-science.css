@@ -1,3 +1,25 @@
+/* hod_page */
+div.hod_page {
+    padding: 10px 0;
+    background-color: #EAEAEA;
+}
+
+div.hod_page_2 {
+    display: flex;
+    justify-content: space-around;
+}
+
+div.hod_page_1 {
+    padding-left: 30px;
+}
+
+p.hod_name {
+    font-size: 20px;
+}
+
+
+
+
 /* infrastructure */
 p.text-center {
     text-align: center;
