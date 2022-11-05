@@ -28,11 +28,11 @@
 
 <body>
 
+
 	<?php include '../header.php'; ?>
 
-	<!-- <div class="inner-page-banner"></div> -->
 
-	<!-- carousel -->
+	<!-- <div class="inner-page-banner"></div> -->
 
 
 
