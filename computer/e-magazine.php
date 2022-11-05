@@ -59,7 +59,7 @@
 					<div class="col-md-12">
 
 						<div class="col-md-3">
-							<a href="pdf/emagazines/2020_21 Sem2.pdf"><img src="./../applied-science/images/download.png" alt="Research Publications"></a>
+							<a href="pdf/emagazines/2021_22 Sem 2.pdf"><img src="./../applied-science/images/download.png" alt="Research Publications"></a>
 							<p>2021-22 Sem 2</p>
 						</div>
 
