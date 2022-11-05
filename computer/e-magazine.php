@@ -59,66 +59,72 @@
 					<div class="col-md-12">
 
 						<div class="col-md-3">
-							<a href="pdf/emagazines/2021_22%20Sem%201.pdf" target="_blank"><img src="./../applied-science/images/download.png" alt="Research Publications"></a>
+							<a href="pdf/emagazines/2020_21 Sem2.pdf"><img src="./../applied-science/images/download.png" alt="Research Publications"></a>
+							<p>2021-22 Sem 2</p>
+						</div>
+
+						<div class="col-md-3">
+							<a href="pdf/emagazines/2021_22%20Sem%201.pdf"><img src="./../applied-science/images/download.png" alt="Research Publications"></a>
 							<p>2021-22 Sem 1</p>
 						</div>
 
 						<div class="col-md-3">
-							<a href="pdf/emagazines/2020_21%20Sem1.pdf" target="_blank"><img src="./../applied-science/images/download.png" alt="Research Publications"></a>
+							<a href="pdf/emagazines/2020_21%20Sem1.pdf"><img src="./../applied-science/images/download.png" alt="Research Publications"></a>
 							<p>2020-21 Sem1</p>
 						</div>
 
 						<div class="col-md-3">
-							<a href="pdf/emagazines/2020_21%20Sem2.pdf" target="_blank"><img src="./../applied-science/images/download.png" alt="Research Publications"></a>
+							<a href="pdf/emagazines/2020_21%20Sem2.pdf"><img src="./../applied-science/images/download.png" alt="Research Publications"></a>
 							<p>2020-21 Sem2</p>
 						</div>
 
 						<div class="col-md-3">
-							<a href="pdf/emagazines/2019-20%20Sem1.pdf" target="_blank"><img src="./../applied-science/images/download.png" alt="Research Publications"></a>
+							<a href="pdf/emagazines/2019-20%20Sem1.pdf"><img src="./../applied-science/images/download.png" alt="Research Publications"></a>
 							<p>2019-20 Sem1</p>
 						</div>
 
 						<div class="col-md-3">
-							<a href="pdf/emagazines/2019-20%20Sem2.pdf" target="_blank"><img src="./../applied-science/images/download.png" alt="Research Publications"></a>
+							<a href="pdf/emagazines/2019-20%20Sem2.pdf"><img src="./../applied-science/images/download.png" alt="Research Publications"></a>
 							<p>2019-20 Sem2</p>
 						</div>
+
 						<div class="col-md-3">
-							<a href="pdf/emagazines/2018-19%20Sem1.pdf" target="_blank"><img src="./../applied-science/images/download.png" alt="Research Publications"></a>
+							<a href="pdf/emagazines/2018-19%20Sem1.pdf"><img src="./../applied-science/images/download.png" alt="Research Publications"></a>
 							<p>2018-19 Sem1</p>
 						</div>
 
 						<div class="col-md-3">
-							<a href="pdf/emagazines/2018-19%20Sem2.pdf" target="_blank"><img src="./../applied-science/images/download.png" alt="Research Publications"></a>
+							<a href="pdf/emagazines/2018-19%20Sem2.pdf"><img src="./../applied-science/images/download.png" alt="Research Publications"></a>
 							<p>2018-19 Sem2</p>
 						</div>
 
 						<div class="col-md-3">
-							<a href="pdf/emagazines/2017-18%20Sem1.pdf" target="_blank"><img src="./../applied-science/images/download.png" alt="Research Publications"></a>
+							<a href="pdf/emagazines/2017-18%20Sem1.pdf"><img src="./../applied-science/images/download.png" alt="Research Publications"></a>
 							<p>2017-18 Sem1</p>
 						</div>
 
 						<div class="col-md-3">
-							<a href="pdf/emagazines/2017-18%20Sem2.pdf" target="_blank"><img src="./../applied-science/images/download.png" alt="Research Publications"></a>
+							<a href="pdf/emagazines/2017-18%20Sem2.pdf"><img src="./../applied-science/images/download.png" alt="Research Publications"></a>
 							<p>2017-18 Sem2</p>
 						</div>
 
 						<div class="col-md-3">
-							<a href="pdf/emagazines/2016-17%20Sem1.pdf" target="_blank"><img src="./../applied-science/images/download.png" alt="Research Publications"></a>
+							<a href="pdf/emagazines/2016-17%20Sem1.pdf"><img src="./../applied-science/images/download.png" alt="Research Publications"></a>
 							<p>2016-17 Sem1</p>
 						</div>
 
 						<div class="col-md-3">
-							<a href="pdf/emagazines/2016-17%20Sem2.pdf" target="_blank"><img src="./../applied-science/images/download.png" alt="Research Publications"></a>
+							<a href="pdf/emagazines/2016-17%20Sem2.pdf"><img src="./../applied-science/images/download.png" alt="Research Publications"></a>
 							<p>2016-17 Sem2</p>
 						</div>
 
 						<div class="col-md-3">
-							<a href="pdf/emagazines/2015-16%20Sem1.pdf" target="_blank"><img src="./../applied-science/images/download.png" alt="Research Publications"></a>
+							<a href="pdf/emagazines/2015-16%20Sem1.pdf"><img src="./../applied-science/images/download.png" alt="Research Publications"></a>
 							<p>2015-16 Sem1</p>
 						</div>
 
 						<div class="col-md-3">
-							<a href="pdf/emagazines/2015-16%20Sem2.pdf" target="_blank"><img src="./../applied-science/images/download.png" alt="Research Publications"></a>
+							<a href="pdf/emagazines/2015-16%20Sem2.pdf"><img src="./../applied-science/images/download.png" alt="Research Publications"></a>
 							<p>2015-16 Sem2</p>
 						</div>
 

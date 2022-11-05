@@ -54,7 +54,7 @@
 				</div>
 				<div class="flex_2">
 					<div class="col-xs-12 col-sm-12 col-md-9">
-						<img src="images/Tushar Gaikwad.jpg" alt="Best placement engineering college in Pune provideing job opportunities " width=800 height=400>
+						<img src="images/Tushar Gaikwad.jpg" alt="Best placement engineering college in Pune provideing job opportunities " width=840 height=400>
 						<div class="hod_page">
 							<div class="hod_page_1">
 								<p class="hod_name">Mr. Gaikwad Tushar Balkrishna</p>
