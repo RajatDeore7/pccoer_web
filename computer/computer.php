@@ -23,6 +23,7 @@
 
 	<!--Font Awesome Stylesheets -->
 	<link href="../css/all.min.css" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
 
 </head>
 
@@ -87,7 +88,7 @@
 
 
 					<button class="accordion">
-						<h3>Programme Educational Objectives of the Department:</h3>
+						<h3>Programme Educational Objectives of the Department <i class="fa-solid fa-angle-down"></i></h3>
 					</button>
 					<div class="panel">
 						<p> <b>PEO1:</b> To prepare globally competent graduates having strong fundamentals, domain knowledge, updated with modern technology to provide the effective solutions for engineering problems.<br>
@@ -98,7 +99,7 @@
 					</div>
 
 					<button class="accordion">
-						<h3>Programme Specific Outcomes of the Department</h3>
+						<h3>Programme Specific Outcomes of the Department <i class="fa-solid fa-angle-down"></i></h3>
 					</button>
 					<div class="panel">
 						<p> <b>PSO1:</b> Problem-Solving Skills- The ability to apply standard practices and strategies in software project development using open-ended programming environments to deliver a quality project.<br>
@@ -108,7 +109,7 @@
 					</div>
 
 					<button class="accordion">
-						<h3>Department Achievements& Highlights</h3>
+						<h3>Department Achievements& Highlights <i class="fa-solid fa-angle-down"></i></h3>
 					</button>
 					<div class="panel">
 						<ul class="ul-margin">
