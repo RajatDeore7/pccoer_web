@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <title>C-Cube Department of Computer Engineering | Pimpri Chinchwad College of Engineering And Research | PCCOER - PCMC, Pune</title>
+    <title>Clubs of Department of Computer Engineering | Pimpri Chinchwad College of Engineering And Research | PCCOER - PCMC, Pune</title>
     <meta name="description" content="Download the syllabus and academic calendar of department of, computer engineering Pimpri Chinchwad College of Engineering And Research." />
     <meta name="keywords" content="pimpri chinchwad college of engineering and research, computer engineering, syllabus, academic calendar">
 
@@ -19,6 +19,8 @@
 
     <!--Font Awesome Stylesheets -->
     <link href="../css/all.min.css" rel="stylesheet">
+
+    <link rel="stylesheet" href="./computer.css">
 
 </head>
 
@@ -36,7 +38,7 @@
                         <ol class="breadcrumb">
                             <li class="breadcrumb-item"><i class="fa fa-home"></i> Home</li>
                             <li class="breadcrumb-item">Computer</li>
-                            <li class="breadcrumb-item"><a href="#">C-Cube</a></li>
+                            <li class="breadcrumb-item"><a href="#">Clubs</a></li>
                         </ol>
                     </nav>
                 </div>
@@ -53,51 +55,18 @@
                 <div class="col-xs-12 col-sm-12 col-md-9">
                     <div class="hdg-bdr"><span class="hdg-bdr-1"></span><span class="hdg-bdr-2"></span><span class="hdg-bdr-3"></span></div>
                     <br>
-                    <div>
-                        <p><a href="faculty.php">C-Cube</a> / <a href="http://pccoer.acm.org/">ACM</a> /
-                            <a href="faculty.php">GDSC</a> / <a href="nonteach.php">GFG</a>
-                        </p>
-                    </div>
-                    <h1 align="center">C-Cube</h1>
+                    <h1 align="center">Clubs</h1>
                     <hr>
+                    <div class="clubs_main">
 
-                    <div class="col-md-12">
-
-                        <div class="col-md-3">
-                            <a href="pdf/c-cube/ACAD-R-16 C-Cube- Report HTML CSS.pdf" target="_blank"><img src="./../applied-science/images/download.png" alt="Research Publications"></a>
-                            <p>ACAD-R-16 C-Cube-Report HTML,CSS</p>
+                        <div class="clubs_1">
+                            <div class="clubs_C-Cube"><a href="./c-cube.php"><img src="./images/clubs/c-cube.png" alt="C-cube_logo" height="200" width="200"></a></div>
+                            <div class="clubs_GFG"><a href="#"><img src="./images/clubs/STUDENT (1).png" alt="GFG_logo" height="200" width="200" style="border-radius: 50%;"></a></div>
                         </div>
-
-                        <div class="col-md-3">
-                            <a href="pdf/c-cube/C-CUBE Member LIST 2022-23-FINAL.pdf" target="_blank"><img src="./../applied-science/images/download.png" alt="Research Publications"></a>
-                            <p>C-CUBE Member LIST 2022-23-FINAL</p>
+                        <div class="clubs_2">
+                            <div class="clubs_GDSC"><a href="https://vedantaz.github.io/web_gdsc/#/"><img src="./images/clubs/_GDSC Logo .png" alt="GDSC_logo" height="200" width="200" style="border-radius: 50%;"></a></div>
+                            <div class="clubs_ACM"><a href="http://pccoer.acm.org/"><img src="./images/clubs/acmxpccoer.png" alt="ACM_logo" height="200" width="200" style="border-radius: 50%;"></a></div>
                         </div>
-
-                        <div class="col-md-3">
-                            <a href="pdf/c-cube/Report -  HTML CSS session.pdf" target="_blank"><img src="./../applied-science/images/download.png" alt="Research Publications"></a>
-                            <p>Report-HTML,CSS session</p>
-                        </div>
-
-                        <div class="col-md-3">
-                            <a href="pdf/c-cube/Report - Farewell VIGAM 2K22.pdf" target="_blank"><img src="./../applied-science/images/download.png" alt="Research Publications"></a>
-                            <p>Report-Farewell VIGAM 2K22</p>
-                        </div>
-
-                        <div class="col-md-3">
-                            <a href="pdf/c-cube/Report - Fresher's Party.pdf" target="_blank"><img src="./../applied-science/images/download.png" alt="Research Publications"></a>
-                            <p>Report-Fresher's Party</p>
-                        </div>
-
-                        <div class="col-md-3">
-                            <a href="pdf/c-cube/Report - Moshi.pdf" target="_blank"><img src="./../applied-science/images/download.png" alt="Research Publications"></a>
-                            <p>Report-Moshi</p>
-                        </div>
-
-                        <div class="col-md-3">
-                            <a href="pdf/c-cube/Report - Teachers' day.pdf" target="_blank"><img src="./../applied-science/images/download.png" alt="Research Publications"></a>
-                            <p>Report-Teachers' day</p>
-                        </div>
-
                     </div>
                 </div>
             </div>

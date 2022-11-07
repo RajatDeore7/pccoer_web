@@ -54,14 +54,16 @@
 				</div>
 				<div class="flex_2">
 					<div class="col-xs-12 col-sm-12 col-md-9">
-						<img src="images/Tushar Gaikwad.jpg" alt="Best placement engineering college in Pune provideing job opportunities " width=840 height=400>
+						<img src="images/Tushar Gaikwad.jpg" alt="Best placement engineering college in Pune provideing job opportunities " width=845 height=400>
 						<div class="hod_page">
 							<div class="hod_page_1">
-								<p class="hod_name">Mr. Gaikwad Tushar Balkrishna</p>
+								<p class="hod_name"><b>Mr. Gaikwad Tushar Balkrishna</b></p>
 							</div>
 							<div class="hod_page_2">
 								<div class="hod_page_2.1">
-									<p><b>Designation: </b>Head Of First Year Engineering Department And Asst. Professor</p>
+									<p><b>Designation: </b>Head Of First Year Engineering
+										Department<br> And Asst. Professor
+									</p>
 								</div>
 								<div class="hod_page_2.1">
 									<b>Qualification: </b>M.Sc (Chemistry) - .(NET)

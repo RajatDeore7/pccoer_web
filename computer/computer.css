@@ -108,3 +108,24 @@ p.indus_para {
 td {
     padding: 10px;
 }
+
+
+
+/* clubs */
+div.clubs_main {
+    display: flex;
+    justify-content: space-around;
+}
+
+div.clubs_1 {
+    padding: 40px;
+}
+
+div.clubs_2 {
+    padding: 40px;
+}
+
+div.clubs_C-Cube {
+    text-align: center;
+    padding: 10px 0 40px 0;
+}

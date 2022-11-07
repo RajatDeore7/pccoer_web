@@ -64,6 +64,11 @@
 						</div>
 
 						<div class="col-md-3">
+							<a href="pdf/Acheivements Student 2021-22.pdf" target="_blank"><img src="./../applied-science/images/download.png" alt="Research Publications"></a>
+							<p>Acheivements Student 2021-22</p>
+						</div>
+
+						<div class="col-md-3">
 							<a href="pdf/Acheivements-student-2020-21.pdf" target="_blank"><img src="./../applied-science/images/download.png" alt="Research Publications"></a>
 							<p>Acheivements Student 2020-21</p>
 						</div>
