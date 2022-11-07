@@ -59,7 +59,7 @@
                     <br>
                     <h1 align="center">Event</h1>
                     <hr>
-                    <h3><u><a href="pdf/Yearwise-Events List_2020-21_to_2017-18.pdf" target="_blank">Yearwise Events List</a></u></h3>
+                    <h3><a href="pdf/Yearwise-Events List_2020-21_to_2017-18.pdf" target="_blank">Yearwise Events List</a></h3>
 
                     <h2>Club Videos</h2>
 
@@ -83,32 +83,32 @@
 
                     <br>
 
-                    <h2><u>Introduction to Life Transforming Mentoring by Mr Dinesh Anantwar (23rd September 2020)</u></h2>
+                    <h2>Introduction to Life Transforming Mentoring by Mr Dinesh Anantwar (23rd September 2020)</h2>
                     <table class="table table-bordered table-responsive">
                         <tbody>
                             <tr>
-                                <td><img src="images/event/Event 1.png" style="width: 287px; height: 240px;" alt=""></td>
-                                <td><img src="images/event/Event 2.png" style="width: 287px; height: 240px;" alt=""></td>
+                                <td><img src="images/event/Event 1.png" style="width: 400px; height: 250px;" alt=""></td>
+                                <td><img src="images/event/Event 2.png" style="width: 400px; height: 240px;" alt=""></td>
                             </tr>
                         </tbody>
                     </table>
                     <div>
-                        <h2><u>Webinar on Overseas Career Guidance by Akash Ambilwade (9thDecember 2020)</u></h2>
+                        <h2>Webinar on Overseas Career Guidance by Akash Ambilwade (9thDecember 2020)</h2>
                         <table class="table table-bordered table-responsive">
                             <tbody>
                                 <tr>
-                                    <td><img src="images/event/Event 3.png" alt=""></td>
+                                    <td><img src="images/event/Event 3.png" alt="" style="width: 830px; height: 300px;"></td>
                                 </tr>
                             </tbody>
                         </table>
                     </div>
                     <div>
                         <div>
-                            <h2><u>Coding Competition CodeAntha (30th January, 2021)</u></h2>
+                            <h2>Coding Competition CodeAntha (30th January, 2021)</h2>
                             <table class="table table-bordered table-responsive">
                                 <tbody>
                                     <tr>
-                                        <td><img src="images/event/Event 4.png" alt=""></td>
+                                        <td><img src="images/event/Event 4.png" alt="" style="width: 830px; height: 300px;"></td>
                                     </tr>
                                 </tbody>
                             </table>
@@ -117,27 +117,27 @@
                             <table class="table table-bordered table-responsive">
                                 <tbody>
                                     <tr>
-                                        <td><img src="images/event/Event 5.png" alt=""></td>
+                                        <td><img src="images/event/Event 5.png" alt="" style="width: 830px; height: 300px;"></td>
                                     </tr>
                                 </tbody>
                             </table>
                         </div>
                         <div>
-                            <h2><u> F.E. Induction Computer Department (31st January, 2021)</u></h2>
+                            <h2> F.E. Induction Computer Department (31st January, 2021)</h2>
                             <table class="table table-bordered table-responsive">
                                 <tbody>
                                     <tr>
-                                        <td><img src="images/event/Event 6.png" alt=""></td>
+                                        <td><img src="images/event/Event 6.png" alt="" style="width: 830px; height: 300px;"></td>
                                     </tr>
                                 </tbody>
                             </table>
                         </div>
                         <div>
-                            <h2><u>Online activities under Lockdown MOCK GD’s for TE STUDENTS</u></h2>
+                            <h2>Online activities under Lockdown MOCK GD’s for TE STUDENTS</h2>
                             <table class="table table-bordered table-responsive">
                                 <tbody>
                                     <tr>
-                                        <td><img src="images/event/event-1.jpg" alt="Online activities under Lockdown MOCK GD’s for TE STUDENTS, PCCOER"></td>
+                                        <td><img src="images/event/event-1.jpg" alt="Online activities under Lockdown MOCK GD’s for TE STUDENTS, PCCOER" style="width: 830px; height: 300px;"></td>
                                     </tr>
                                 </tbody>
                             </table>
@@ -145,14 +145,12 @@
                         </div>
 
                         <div>
-                            <h3><u>TALK with Seniors</u></h3>
+                            <h3>TALK with Seniors</h3>
                             <table class="table table-bordered table-responsive">
                                 <tbody>
                                     <tr>
-                                        <td><img src="images/event/event-2.jpg" alt="TALK with Seniors, PCCOER"></td>
-                                    </tr>
-                                    <tr>
-                                        <td><img src="images/event/event-3.jpg" alt="TALK with Seniors, PCCOER"></td>
+                                        <td><img src="images/event/event-2.jpg" alt="TALK with Seniors, PCCOER" style="width: 350px; height: 400px; padding-left:50px;"></td>
+                                        <td><img src="images/event/event-3.jpg" alt="TALK with Seniors, PCCOER" style="width: 350px; height: 400px; padding-left:50px;"></td>
                                     </tr>
                                 </tbody>
                             </table>
@@ -160,14 +158,12 @@
                         </div>
 
                         <div>
-                            <h3><u>TALK WITH US</u></h3>
+                            <h3>TALK WITH US</h3>
                             <table class="table table-bordered table-responsive">
                                 <tbody>
                                     <tr>
-                                        <td><img src="images/event/event-4.jpg" alt="TALK WITH US, PCCOER"></td>
-                                    </tr>
-                                    <tr>
-                                        <td><img src="images/event/event-5.jpg" alt="TALK WITH US, PCCOER"></td>
+                                        <td><img src="images/event/event-4.jpg" alt="TALK WITH US, PCCOER" style="width: 350px; height: 400px; padding-left:50px;"></td>
+                                        <td><img src="images/event/event-5.jpg" alt="TALK WITH US, PCCOER" style="width: 350px; height: 400px; padding-left:50px;"></td>
                                     </tr>
                                 </tbody>
                             </table>
@@ -175,14 +171,12 @@
                         </div>
 
                         <div>
-                            <h3><u>MOCK INTERVIEWS</u></h3>
+                            <h3>MOCK INTERVIEWS</h3>
                             <table class="table table-bordered table-responsive">
                                 <tbody>
                                     <tr>
-                                        <td><img src="images/event/event-6.jpg" alt="MOCK INTERVIEWS, PCCOER"></td>
-                                    </tr>
-                                    <tr>
-                                        <td><img src="images/event/event-7.jpg" alt="MOCK INTERVIEWS, PCCOER"></td>
+                                        <td><img src="images/event/event-6.jpg" alt="MOCK INTERVIEWS, PCCOER" style="width: 350px; height: 400px; padding-left:50px;"></td>
+                                        <td><img src="images/event/event-7.jpg" alt="MOCK INTERVIEWS, PCCOER" style="width: 350px; height: 400px; padding-left:50px;"></td>
                                     </tr>
                                 </tbody>
                             </table>
@@ -190,17 +184,17 @@
                         </div>
 
                         <div>
-                            <p><u>Session on All about higher studies in US and UK was taken by Ashish Salunke, Chetan Pathade and Chaitnya Nirhali was done for FE, SE, and TE and BE computer students. 60 + students attended.</u></p>
+                            <p>Session on All about higher studies in US and UK was taken by Ashish Salunke, Chetan Pathade and Chaitnya Nirhali was done for FE, SE, and TE and BE computer students. 60 + students attended.</p>
                             <table class="table table-bordered table-responsive">
                                 <tbody>
                                     <tr>
-                                        <td><img src="images/event/event-8.jpg" alt="Session on All about higher studies in US and UK, PCCOER"></td>
+                                        <td><img src="images/event/event-8.jpg" alt="Session on All about higher studies in US and UK, PCCOER" style="width: 830px; height: 300px;"></td>
                                     </tr>
                                     <tr>
-                                        <td><img src="images/event/event-9.jpg" alt="Session on All about higher studies in US and UK, PCCOER"></td>
+                                        <td><img src="images/event/event-9.jpg" alt="Session on All about higher studies in US and UK, PCCOER" style="width: 830px; height: 300px;"></td>
                                     </tr>
                                     <tr>
-                                        <td><img src="images/event/event-10.jpg" alt="Session on All about higher studies in US and UK, PCCOER"></td>
+                                        <td><img src="images/event/event-10.jpg" alt="Session on All about higher studies in US and UK, PCCOER" style="width: 830px; height: 300px;"></td>
                                     </tr>
                                 </tbody>
                             </table>
@@ -209,11 +203,11 @@
 
 
                         <div>
-                            <p><u>Online PTM 2020 was conducted on 11/05/2020 (during lockdown ) for SE at 4.00 pm to 5.00 pm, TE at 5.00 pm to 6.00 pm and for BE from 6.00 pm to 7.00 pm</u></p>
+                            <p>Online PTM 2020 was conducted on 11/05/2020 (during lockdown ) for SE at 4.00 pm to 5.00 pm, TE at 5.00 pm to 6.00 pm and for BE from 6.00 pm to 7.00 pm</p>
                             <table class="table table-bordered table-responsive">
                                 <tbody>
                                     <tr>
-                                        <td><img src="images/event/event-11.jpg" alt="Online PTM 2020 was conducted on 11/05/2020, PCCOER"></td>
+                                        <td><img src="images/event/event-11.jpg" alt="Online PTM 2020 was conducted on 11/05/2020, PCCOER" style="padding-left:200px;"></td>
                                     </tr>
 
                                 </tbody>
@@ -222,21 +216,21 @@
                         </div>
 
                         <div>
-                            <p><strong><u>C-Cube Literacy Camp (7th February 2020)</u></strong></p>
+                            <p><strong>C-Cube Literacy Camp (7th February 2020)</strong></p>
                             <p>On the 7th of February 2020, we conducted Literacy Campaign for ZP School Students of Zilla Parishad School Mau Village. Various events and activities led to a successful event and a great day for all the Students. Event was coordinated by Mrs. Sonali Lunawat</p>
                             <table class="table table-bordered table-responsive">
                                 <tbody>
                                     <tr>
-                                        <td><img src="images/event/event-12.jpg" alt="C-Cube Literacy Camp (7th February 2020), PCCOER"></td>
+                                        <td><img src="images/event/event-12.jpg" alt="C-Cube Literacy Camp (7th February 2020), PCCOER" style="width: 830px; height: 300px;"></td>
                                     </tr>
                                     <tr>
-                                        <td><img src="images/event/event-13.jpg" alt="C-Cube Literacy Camp (7th February 2020), PCCOER"></td>
+                                        <td><img src="images/event/event-13.jpg" alt="C-Cube Literacy Camp (7th February 2020), PCCOER" style="width: 830px; height: 300px;"></td>
                                     </tr>
                                     <tr>
-                                        <td><img src="images/event/event-14.jpg" alt="C-Cube Literacy Camp (7th February 2020), PCCOER"></td>
+                                        <td><img src="images/event/event-14.jpg" alt="C-Cube Literacy Camp (7th February 2020), PCCOER" style="width: 830px; height: 300px;"></td>
                                     </tr>
                                     <tr>
-                                        <td><img src="images/event/event-15.jpg" alt="C-Cube Literacy Camp (7th February 2020), PCCOER"></td>
+                                        <td><img src="images/event/event-15.jpg" alt="C-Cube Literacy Camp (7th February 2020), PCCOER" style="width: 830px; height: 300px;"></td>
                                     </tr>
                                 </tbody>
                             </table>
@@ -254,10 +248,8 @@
                             <table class="table table-bordered table-responsive">
                                 <tbody>
                                     <tr>
-                                        <td><img src="images/event/event-16.jpg" alt="Four Days Workshop On “Data Analytics using Python”"></td>
-                                    </tr>
-                                    <tr>
-                                        <td><img src="images/event/event-17.jpg" alt="Four Days Workshop On “Data Analytics using Python”"></td>
+                                        <td><img src="images/event/event-16.jpg" alt="Four Days Workshop On “Data Analytics using Python”" style="width: 400px; height: 300px;"></td>
+                                        <td><img src=" images/event/event-17.jpg" alt="Four Days Workshop On “Data Analytics using Python”" style="width: 400px; height: 300px;"></td>
                                     </tr>
 
                                 </tbody>
@@ -270,19 +262,15 @@
                             <p><strong>Date :</strong> 7 th January 2020</p>
                             <p><strong>Participants : </strong>80 Students for Shivbhumi Vidyalaya ,Yamuna nagar, Nigdi</p>
                             <p><strong>Description :</strong> Students were taught with Basics of Computer and HTML was introduced.</p>
-                            <table class="table table-bordered table-responsive">
+                            <table class=" table table-bordered table-responsive">
                                 <tbody>
                                     <tr>
-                                        <td><img src="images/event/event-18.jpg" alt="Hour of Code"></td>
+                                        <td><img src="images/event/event-18.jpg" alt="Hour of Code" style="width: 400px; height: 300px;"></td>
+                                        <td><img src="images/event/event-19.jpg" alt="Hour of Code" style="width: 400px; height: 300px;"></td>
                                     </tr>
                                     <tr>
-                                        <td><img src="images/event/event-19.jpg" alt="Hour of Code"></td>
-                                    </tr>
-                                    <tr>
-                                        <td><img src="images/event/event-20.jpg" alt="Hour of Code"></td>
-                                    </tr>
-                                    <tr>
-                                        <td><img src="images/event/event-21.jpg" alt="Hour of Code"></td>
+                                        <td><img src="images/event/event-20.jpg" alt="Hour of Code" style="width: 400px; height: 300px;"></td>
+                                        <td><img src="images/event/event-21.jpg" alt="Hour of Code" style="width: 400px; height: 300px;"></td>
                                     </tr>
 
                                 </tbody>
@@ -309,10 +297,8 @@
                             <table class="table table-bordered table-responsive">
                                 <tbody>
                                     <tr>
-                                        <td><img src="images/event/event-22.jpg" alt="Resume Writing Session"></td>
-                                    </tr>
-                                    <tr>
-                                        <td><img src="images/event/event-23.jpg" alt="Resume Writing Session"></td>
+                                        <td><img src="images/event/event-22.jpg" alt="Resume Writing Session" style="width: 400px; height: 300px;"></td>
+                                        <td><img src=" images/event/event-23.jpg" alt="Resume Writing Session" style="width: 400px; height: 300px;"></td>
                                     </tr>
 
                                 </tbody>
@@ -327,7 +313,7 @@
                             Mrs.Shewta A.Koparde<br>
                             Mrs.Vaishali p.Latke.<br>
                         </p>
-                        <table class="table table-bordered table-responsive">
+                        <table class=" table table-bordered table-responsive">
                             <tbody>
                                 <tr>
                                     <td><img src="images/event/certificate.PNG" alt="ne week Online Faculty development program, PCCOER"></td>
@@ -346,8 +332,8 @@
                         <table class="table table-bordered table-responsive">
                             <tbody>
                                 <tr>
-                                    <td><img src="images/event/lecture-1.JPEG" style="width: 287px; height: 240px;" alt="Lecture On Theory Of Computation 1, PCCOER"></td>
-                                    <td><img src="images/event/lecture-2.JPEG" style="width: 287px; height: 240px;" alt="Lecture On Theory Of Computation 2, PCCOER"></td>
+                                    <td><img src="images/event/lecture-1.JPEG" style="width: 400px; height: 300px;" alt="Lecture On Theory Of Computation 1, PCCOER"></td>
+                                    <td><img src="images/event/lecture-2.JPEG" style="width: 400px; height: 300px;" alt="Lecture On Theory Of Computation 2, PCCOER"></td>
                                 </tr>
                             </tbody>
                         </table>
@@ -361,8 +347,8 @@
                         <table class="table table-bordered table-responsive">
                             <tbody>
                                 <tr>
-                                    <td><img src="images/event/oop-lecture-1.JPEG" style="width: 287px; height: 240px;" alt="Lecture On Object Oriented Programming 1, PCCOER"></td>
-                                    <td><img src="images/event/oop-lecture-2.jpg" style="width: 287px; height: 240px;" alt="Lecture On Object Oriented Programming 2, PCCOER"></td>
+                                    <td><img src="images/event/oop-lecture-1.JPEG" style="width: 400px; height: 300px;" alt="Lecture On Object Oriented Programming 1, PCCOER"></td>
+                                    <td><img src="images/event/oop-lecture-2.jpg" style="width: 400px; height: 300px;" alt="Lecture On Object Oriented Programming 2, PCCOER"></td>
                                 </tr>
                             </tbody>
                         </table>
@@ -376,8 +362,8 @@
                         <table class="table table-bordered table-responsive">
                             <tbody>
                                 <tr>
-                                    <td><img src="images/event/lecture-3.jpg" style="width: 287px; height: 240px;" alt="Preparing for the Future & Applications of Machine Learning/AI in the industry 1, PCCOER"></td>
-                                    <td><img src="images/event/lecture-4.jpg" style="width: 287px; height: 240px;" alt="Preparing for the Future & Applications of Machine Learning/AI in the industry 2, PCCOER"></td>
+                                    <td><img src="images/event/lecture-3.jpg" style="width: 400px; height: 300px;" alt="Preparing for the Future & Applications of Machine Learning/AI in the industry 1, PCCOER"></td>
+                                    <td><img src="images/event/lecture-4.jpg" style="width: 400px; height: 300px;" alt="Preparing for the Future & Applications of Machine Learning/AI in the industry 2, PCCOER"></td>
                                 </tr>
                             </tbody>
                         </table>
@@ -391,8 +377,8 @@
                         <table class="table table-bordered table-responsive">
                             <tbody>
                                 <tr>
-                                    <td><img src="images/event/drone-workshop-1.jpg" style="width: 287px; height: 240px;" alt="A workshop on Drone Assembly 1, PCCOER"></td>
-                                    <td><img src="images/event/drone-workshop-2.jpg" style="width: 287px; height: 240px;" alt="A workshop on Drone Assembly 2, PCCOER"></td>
+                                    <td><img src="images/event/drone-workshop-1.jpg" style="width: 400px; height: 300px;" alt="A workshop on Drone Assembly 1, PCCOER"></td>
+                                    <td><img src="images/event/drone-workshop-2.jpg" style="width: 400px; height: 300px;" alt="A workshop on Drone Assembly 2, PCCOER"></td>
                                 </tr>
                             </tbody>
                         </table>
@@ -404,8 +390,8 @@
                         <table class="table table-bordered table-responsive">
                             <tbody>
                                 <tr>
-                                    <td><img src="images/event/ptm-1.jpg" style="width: 287px; height: 240px;" alt="Preparing for the Future & Applications of Machine Learning/AI in the industry 1, PCCOER"></td>
-                                    <td><img src="images/event/ptm-2.jpg" style="width: 287px; height: 240px;" alt="Preparing for the Future & Applications of Machine Learning/AI in the industry 2, PCCOER"></td>
+                                    <td><img src="images/event/ptm-1.jpg" style="width: 400px; height: 300px;" alt="Preparing for the Future & Applications of Machine Learning/AI in the industry 1, PCCOER"></td>
+                                    <td><img src="images/event/ptm-2.jpg" style="width: 400px; height: 300px;" alt="Preparing for the Future & Applications of Machine Learning/AI in the industry 2, PCCOER"></td>
                                 </tr>
                             </tbody>
                         </table>
@@ -419,8 +405,8 @@
                         <table class="table table-bordered table-responsive">
                             <tbody>
                                 <tr>
-                                    <td><img src="images/event/industrial-visit-barclays-1.jpg" style="width: 287px; height: 240px;" alt="BARCLAYS, Quadron Business Park Pvt. Ltd., Plot No.28, Block Q1, Block, Q4, Hinjawadi PhCoase 2 Rd, Hinjewadi Rajiv Gandhi Infotech Park, MIDC, Pune, Maharashtra 411057."></td>
-                                    <td><img src="images/event/industrial-visit-barclays-2.jpg" style="width: 287px; height: 240px;" alt="BARCLAYS, Quadron Business Park Pvt. Ltd., Plot No.28, Block Q1, Block, Q4, Hinjawadi PhCoase 2 Rd, Hinjewadi Rajiv Gandhi Infotech Park, MIDC, Pune, Maharashtra 411057."></td>
+                                    <td><img src="images/event/industrial-visit-barclays-1.jpg" style="width: 400px; height: 300px;" alt="BARCLAYS, Quadron Business Park Pvt. Ltd., Plot No.28, Block Q1, Block, Q4, Hinjawadi PhCoase 2 Rd, Hinjewadi Rajiv Gandhi Infotech Park, MIDC, Pune, Maharashtra 411057."></td>
+                                    <td><img src="images/event/industrial-visit-barclays-2.jpg" style="width: 400px; height: 300px;" alt="BARCLAYS, Quadron Business Park Pvt. Ltd., Plot No.28, Block Q1, Block, Q4, Hinjawadi PhCoase 2 Rd, Hinjewadi Rajiv Gandhi Infotech Park, MIDC, Pune, Maharashtra 411057."></td>
                                 </tr>
                             </tbody>
                         </table>
@@ -433,7 +419,7 @@
                         <table class="table table-bordered table-responsive">
                             <tbody>
                                 <tr>
-                                    <td><img src="images/event/industrial-visit-zensar.jpg" style="width: 287px; height: 240px;" alt="TE students of Computer engineering Department participant Zensar Technologies Limited."></td>
+                                    <td><img src="images/event/industrial-visit-zensar.jpg" style="width: 830px; height: 300px;" alt="TE students of Computer engineering Department participant Zensar Technologies Limited."></td>
                                 </tr>
                             </tbody>
                         </table>
@@ -446,7 +432,7 @@
                         <table class="table table-bordered table-responsive">
                             <tbody>
                                 <tr>
-                                    <td><img src="images/event/programming-workshop-2019.jpg" style="width: 287px; height: 240px;" alt="SE students of Computer engineering Department participant JAVA Programming Workshop."></td>
+                                    <td><img src="images/event/programming-workshop-2019.jpg" style="width: 830px; height: 300px;" alt="SE students of Computer engineering Department participant JAVA Programming Workshop."></td>
                                 </tr>
                             </tbody>
                         </table>
@@ -459,8 +445,8 @@
                         <table class="table table-bordered table-responsive">
                             <tbody>
                                 <tr>
-                                    <td><img src="images/event/expert-lecture-feb19-1.jpg" style="width: 287px; height: 240px;" alt="TE students of Computer engineering Department participant Expert Lecture on “Design & Analysis Of Algorithm”."></td>
-                                    <td><img src="images/event/expert-lecture-feb19-2.jpg" style="width: 287px; height: 240px;" alt="TE students of Computer engineering Department participant Expert Lecture on “Design & Analysis Of Algorithm”."></td>
+                                    <td><img src="images/event/expert-lecture-feb19-1.jpg" style="width: 400px; height: 300px;" alt="TE students of Computer engineering Department participant Expert Lecture on “Design & Analysis Of Algorithm”."></td>
+                                    <td><img src="images/event/expert-lecture-feb19-2.jpg" style="width: 400px; height: 300px;" alt="TE students of Computer engineering Department participant Expert Lecture on “Design & Analysis Of Algorithm”."></td>
                                 </tr>
                             </tbody>
                         </table>
@@ -472,8 +458,8 @@
                         <table class="table table-bordered table-responsive">
                             <tbody>
                                 <tr>
-                                    <td><img src="images/event/parent-teacher-meet-mrh19-1.jpg" style="width: 287px; height: 240px;" alt="Parent Teacher Meet"></td>
-                                    <td><img src="images/event/parent-teacher-meet-mrh19-2.jpg" style="width: 287px; height: 240px;" alt="Parent Teacher Meet"></td>
+                                    <td><img src="images/event/parent-teacher-meet-mrh19-1.jpg" style="width: 400px; height: 300px;" alt="Parent Teacher Meet"></td>
+                                    <td><img src="images/event/parent-teacher-meet-mrh19-2.jpg" style="width: 400px; height: 300px;" alt="Parent Teacher Meet"></td>
                                 </tr>
                             </tbody>
                         </table>
@@ -485,8 +471,8 @@
                         <table class="table table-bordered table-responsive">
                             <tbody>
                                 <tr>
-                                    <td><img src="images/event/pckon-1.jpg" style="width: 287px; height: 240px;" alt="PCKON"></td>
-                                    <td><img src="images/event/pckon-2.jpg" style="width: 287px; height: 240px;" alt="PCKON"></td>
+                                    <td><img src="images/event/pckon-1.jpg" style="width: 400px; height: 300px;" alt="PCKON"></td>
+                                    <td><img src="images/event/pckon-2.jpg" style="width: 400px; height: 300px;" alt="PCKON"></td>
                                 </tr>
                             </tbody>
                         </table>
@@ -498,8 +484,8 @@
                         <table class="table table-bordered table-responsive">
                             <tbody>
                                 <tr>
-                                    <td><img src="images/event/visit-orphanage-19-1.jpg" style="width: 287px; height: 240px;" alt="PCKON"></td>
-                                    <td><img src="images/event/visit-orphanage-19-2.jpg" style="width: 287px; height: 240px;" alt="PCKON"></td>
+                                    <td><img src="images/event/visit-orphanage-19-1.jpg" style="width: 400px; height: 300px;" alt="PCKON"></td>
+                                    <td><img src="images/event/visit-orphanage-19-2.jpg" style="width: 400px; height: 300px;" alt="PCKON"></td>
                                 </tr>
                             </tbody>
                         </table>
@@ -510,12 +496,12 @@
                         <table class="table table-bordered table-responsive">
                             <tbody>
                                 <tr>
-                                    <td><img src="images/event/IMG-1.jpg" style="width: 287px; height: 240px;" alt="Workshop on Linux Administration for Second year students1"></td>
-                                    <td><img src="images/event/IMG-2.jpg" style="width: 287px; height: 240px;" alt="Workshop on Linux Administration for Second year students2"></td>
+                                    <td><img src="images/event/IMG-1.jpg" style="width: 400px; height: 300px;" alt="Workshop on Linux Administration for Second year students1"></td>
+                                    <td><img src="images/event/IMG-2.jpg" style="width: 400px; height: 300px;" alt="Workshop on Linux Administration for Second year students2"></td>
                                 </tr>
                                 <tr>
-                                    <td><img src="images/event/IMG-3.jpg" style="width: 287px; height: 240px;" alt="Workshop on Linux Administration for Second year students3"></td>
-                                    <td><img src="images/event/IMG-4.jpg" style="width: 287px; height: 240px;" alt="Workshop on Linux Administration for Second year students4"></td>
+                                    <td><img src="images/event/IMG-3.jpg" style="width: 400px; height: 300px;" alt="Workshop on Linux Administration for Second year students3"></td>
+                                    <td><img src="images/event/IMG-4.jpg" style="width: 400px; height: 300px;" alt="Workshop on Linux Administration for Second year students4"></td>
                                 </tr>
                             </tbody>
                         </table>
@@ -527,8 +513,8 @@
                         <table class="table table-bordered table-responsive">
                             <tbody>
                                 <tr>
-                                    <td><img src="images/event/mr-rahul-madke-giving-seminar.jpg" style="width: 287px; height: 240px;" alt="Workshop on Tableau -A Business Intelligence Tool  for Third year students1"></td>
-                                    <td><img src="images/event/tableau-business-workshop-with-students.jpg" style="width: 287px; height: 240px;" alt="Workshop on Tableau -A Business Intelligence Tool  for Third year students2"></td>
+                                    <td><img src="images/event/mr-rahul-madke-giving-seminar.jpg" style="width: 400px; height: 300px;" alt="Workshop on Tableau -A Business Intelligence Tool  for Third year students1"></td>
+                                    <td><img src="images/event/tableau-business-workshop-with-students.jpg" style="width: 400px; height: 300px;" alt="Workshop on Tableau -A Business Intelligence Tool  for Third year students2"></td>
                                 </tr>
                             </tbody>
                         </table>
@@ -542,8 +528,8 @@
                         <table class="table table-bordered table-responsive">
                             <tbody>
                                 <tr>
-                                    <td><img src="images/event/drdo-1.jpg" style="width: 287px; height: 240px;" alt="Recruitments & Placement in DRDO1"></td>
-                                    <td><img src="images/event/drdo-2.jpg" style="width: 287px; height: 240px;" alt="Recruitments & Placement in DRDO2"></td>
+                                    <td><img src="images/event/drdo-1.jpg" style="width: 400px; height: 300px;" alt="Recruitments & Placement in DRDO1"></td>
+                                    <td><img src="images/event/drdo-2.jpg" style="width: 400px; height: 300px;" alt="Recruitments & Placement in DRDO2"></td>
                                 </tr>
                             </tbody>
                         </table>
@@ -554,24 +540,24 @@
                         <table class="table table-bordered table-responsive">
                             <tbody>
                                 <tr>
-                                    <td><img src="images/event/01-two-days-workshop-machine-learning-using-python.JPEG" style="width: 287px; height: 240px;" alt="FDP Workshop on Machine Learning Using Python1"></td>
-                                    <td><img src="images/event/2-days-fdp-workshop-1.jpg" style="width: 287px; height: 240px;" alt="FDP Workshop on Machine Learning Using Python1
+                                    <td><img src="images/event/01-two-days-workshop-machine-learning-using-python.JPEG" style="width: 400px; height: 300px;" alt="FDP Workshop on Machine Learning Using Python1"></td>
+                                    <td><img src="images/event/2-days-fdp-workshop-1.jpg" style="width: 400px; height: 300px;" alt="FDP Workshop on Machine Learning Using Python1
 "></td>
                                 </tr>
                                 <tr>
-                                    <td><img src="images/event/2-days-fdp-workshop-2.jpg" style="width: 287px; height: 240px;" alt="FDP Workshop on Machine Learning Using Python1
+                                    <td><img src="images/event/2-days-fdp-workshop-2.jpg" style="width: 400px; height: 300px;" alt="FDP Workshop on Machine Learning Using Python1
 "></td>
-                                    <td><img src="images/event/2-days-fdp-workshop-3.jpg" style="width: 287px; height: 240px;" alt="FDP Workshop on Machine Learning Using Python1
+                                    <td><img src="images/event/2-days-fdp-workshop-3.jpg" style="width: 400px; height: 300px;" alt="FDP Workshop on Machine Learning Using Python1
 "></td>
                                 </tr>
                                 <tr>
-                                    <td><img src="images/event/2-days-fdp-workshop-4.jpg" style="width: 287px; height: 240px;" alt="FDP Workshop on Machine Learning Using Python1
+                                    <td><img src="images/event/2-days-fdp-workshop-4.jpg" style="width: 400px; height: 300px;" alt="FDP Workshop on Machine Learning Using Python1
 "></td>
-                                    <td><img src="images/event/03-arrival-of-chief-guest-and-guest-of-honor.JPEG" style="width: 287px; height: 240px;" alt="FDP Workshop on Machine Learning Using Python1"></td>
+                                    <td><img src="images/event/03-arrival-of-chief-guest-and-guest-of-honor.JPEG" style="width: 400px; height: 300px;" alt="FDP Workshop on Machine Learning Using Python1"></td>
                                 </tr>
                                 <tr>
-                                    <td><img src="images/event/04-inauguration-of-workshop.JPEG" style="width: 287px; height: 240px;" alt="FDP Workshop on Machine Learning Using Python1"></td>
-                                    <td><img src="images/event/2-days-fdp-workshop-5.jpg" style="width: 287px; height: 240px;" alt="FDP Workshop on Machine Learning Using Python1"></td>
+                                    <td><img src="images/event/04-inauguration-of-workshop.JPEG" style="width: 400px; height: 300px;" alt="FDP Workshop on Machine Learning Using Python1"></td>
+                                    <td><img src="images/event/2-days-fdp-workshop-5.jpg" style="width: 400px; height: 300px;" alt="FDP Workshop on Machine Learning Using Python1"></td>
                                 </tr>
                             </tbody>
                         </table>
@@ -582,20 +568,20 @@
                       <table class="table table-bordered table-responsive">
                         <tbody>
                           <tr>
-                            <td><img src="images/event/01-two-days-workshop-machine-learning-using-python.JPG" style="width: 287px; height: 240px;" alt=""></td>
-                            <td><img src="images/event/02-registrtaion-for-workshop-on-machine-learning-using-python.JPG" style="width: 287px; height: 240px;" alt=""></td>
+                            <td><img src="images/event/01-two-days-workshop-machine-learning-using-python.JPG" style="width: 400px; height: 300px;" alt=""></td>
+                            <td><img src="images/event/02-registrtaion-for-workshop-on-machine-learning-using-python.JPG" style="width: 400px; height: 300px;" alt=""></td>
                           </tr>
 						  <tr>
-                            <td><img src="images/event/03-arrival-of-chief-guest-and-guest-of-honor.JPG" style="width: 287px; height: 240px;" alt=""></td>
-                            <td><img src="images/event/04-inauguration-of-workshop.JPG" style="width: 287px; height: 240px;" alt=""></td>
+                            <td><img src="images/event/03-arrival-of-chief-guest-and-guest-of-honor.JPG" style="width: 400px; height: 300px;" alt=""></td>
+                            <td><img src="images/event/04-inauguration-of-workshop.JPG" style="width: 400px; height: 300px;" alt=""></td>
                           </tr>
 						  <tr>
-                            <td><img src="images/event/05-dignitaries.JPG" style="width: 287px; height: 240px;" alt=""></td>
-                            <td><img src="images/event/06-dr-parikshit-mahalle-workshop.jpg" style="width: 287px; height: 240px;" alt=""></td>
+                            <td><img src="images/event/05-dignitaries.JPG" style="width: 400px; height: 300px;" alt=""></td>
+                            <td><img src="images/event/06-dr-parikshit-mahalle-workshop.jpg" style="width: 400px; height: 300px;" alt=""></td>
                           </tr>
 						  <tr>
-                            <td><img src="images/event/07-dr-archana-chaugule-felicitating-dr-jayashree-prasad.JPG" style="width: 287px; height: 240px;" alt=""></td>
-                            <td><img src="images/event/08-prof-mahendra-salunke-felicitating-dr-anagha-kulkarni.JPG" style="width: 287px; height: 240px;" alt=""></td>
+                            <td><img src="images/event/07-dr-archana-chaugule-felicitating-dr-jayashree-prasad.JPG" style="width: 400px; height: 300px;" alt=""></td>
+                            <td><img src="images/event/08-prof-mahendra-salunke-felicitating-dr-anagha-kulkarni.JPG" style="width: 400px; height: 300px;" alt=""></td>
                           </tr>
                         </tbody>
                       </table> -->
@@ -607,8 +593,8 @@
                         <table class="table table-bordered table-responsive">
                             <tbody>
                                 <tr>
-                                    <td><img src="images/event/Party11.jpg" style="width: 287px; height: 240px;" alt="ACM Chapter Inauguration1"></td>
-                                    <td><img src="images/event/Party12.jpg" style="width: 287px; height: 240px;" alt="ACM Chapter Inauguration2"></td>
+                                    <td><img src="images/event/Party11.jpg" style="width: 400px; height: 300px;" alt="ACM Chapter Inauguration1"></td>
+                                    <td><img src="images/event/Party12.jpg" style="width: 400px; height: 300px;" alt="ACM Chapter Inauguration2"></td>
                                 </tr>
                             </tbody>
                         </table>
@@ -620,12 +606,12 @@
                         <table class="table table-bordered table-responsive">
                             <tbody>
                                 <tr>
-                                    <td><img src="images/event/Party7.jpg" style="width: 287px; height: 240px;" alt="ACM Chapter Inauguration3"></td>
-                                    <td><img src="images/event/Party8.jpg" style="width: 287px; height: 240px;" alt="ACM Chapter Inauguration4"></td>
+                                    <td><img src="images/event/Party7.jpg" style="width: 400px; height: 300px;" alt="ACM Chapter Inauguration3"></td>
+                                    <td><img src="images/event/Party8.jpg" style="width: 400px; height: 300px;" alt="ACM Chapter Inauguration4"></td>
                                 </tr>
                                 <tr>
-                                    <td><img src="images/event/Party9.jpg" style="width: 287px; height: 240px;" alt="ACM Chapter Inauguration5"></td>
-                                    <td><img src="images/event/Party10.jpg" style="width: 287px; height: 240px;" alt="ACM Chapter Inauguration6"></td>
+                                    <td><img src="images/event/Party9.jpg" style="width: 400px; height: 300px;" alt="ACM Chapter Inauguration5"></td>
+                                    <td><img src="images/event/Party10.jpg" style="width: 400px; height: 300px;" alt="ACM Chapter Inauguration6"></td>
                                 </tr>
                             </tbody>
                         </table>
@@ -650,8 +636,8 @@
                         <table class="table table-bordered table-responsive">
                             <tbody>
                                 <tr>
-                                    <td><img src="images/event/Party5.jpg" style="width: 287px; height: 240px;" alt="An Auspicious Tribute on Teacher’s Day& C – Cube Inauguration Program1"></td>
-                                    <td><img src="images/event/Party6.jpg" style="width: 287px; height: 240px;" alt="An Auspicious Tribute on Teacher’s Day& C – Cube Inauguration Program2"></td>
+                                    <td><img src="images/event/Party5.jpg" style="width: 400px; height: 300px;" alt="An Auspicious Tribute on Teacher’s Day& C – Cube Inauguration Program1"></td>
+                                    <td><img src="images/event/Party6.jpg" style="width: 400px; height: 300px;" alt="An Auspicious Tribute on Teacher’s Day& C – Cube Inauguration Program2"></td>
                                 </tr>
                             </tbody>
                         </table>
@@ -663,9 +649,9 @@
                         <table class="table table-bordered table-responsive">
                             <tbody>
                                 <tr>
-                                    <td><img src="images/event/Party3.jpg" style="width: 287px; height: 240px;" alt="Computer Literacy Camp 2017(1)
+                                    <td><img src="images/event/Party3.jpg" style="width: 400px; height: 300px;" alt="Computer Literacy Camp 2017(1)
 "></td>
-                                    <td><img src="images/event/Party4.jpg" style="width: 287px; height: 240px;" alt="Computer Literacy Camp 2017(2)
+                                    <td><img src="images/event/Party4.jpg" style="width: 400px; height: 300px;" alt="Computer Literacy Camp 2017(2)
 "></td>
                                 </tr>
                             </tbody>
@@ -679,9 +665,9 @@
                         <table class="table table-bordered table-responsive">
                             <tbody>
                                 <tr>
-                                    <td><img src="images/event/Party1.jpg" style="width: 287px; height: 240px;" alt="Fresher’s Party 2017(1)
+                                    <td><img src="images/event/Party1.jpg" style="width: 400px; height: 300px;" alt="Fresher’s Party 2017(1)
 "></td>
-                                    <td><img src="images/event/Party2.jpg" style="width: 287px; height: 240px;" alt="Fresher’s Party 2017(2)
+                                    <td><img src="images/event/Party2.jpg" style="width: 400px; height: 300px;" alt="Fresher’s Party 2017(2)
 "></td>
                                 </tr>
                             </tbody>
@@ -692,12 +678,10 @@
                         <table class="table table-bordered table-responsive">
                             <tbody>
                                 <tr>
-                                    <td><img src="images/event/1(1).png" alt="Inauguration by Principal Sir1
-">
+                                    <td><img src="images/event/1(1).png" alt="Inauguration by Principal Sir1" style="width: 400px; height: 300px;">
                                         <p>Inauguration by Principal Sir</p>
                                     </td>
-                                    <td><img src="images/event/2(1).png" alt="Inauguration by Principal Sir2
-">
+                                    <td><img src="images/event/2(1).png" alt="Inauguration by Principal Sir2" style="width: 400px; height: 300px;">
                                         <p>Principal Sir Addressing</p>
                                     </td>
                                 </tr>
@@ -706,12 +690,10 @@
                         <table class="table table-bordered table-responsive">
                             <tbody>
                                 <tr>
-                                    <td><img src="images/event/3(1).png" alt="Inauguration by Principal Sir3
-">
+                                    <td><img src="images/event/3(1).png" alt="Inauguration by Principal Sir3" style="width: 400px; height: 300px;">
                                         <p>Mini project evaluation</p>
                                     </td>
-                                    <td><img src="images/event/4(1).png" alt="Inauguration by Principal Sir4
-">
+                                    <td><img src="images/event/4(1).png" alt="Inauguration by Principal Sir4" style="width: 400px; height: 300px;">
                                         <p>Mini project evaluation</p>
                                     </td>
                                 </tr>
@@ -726,11 +708,11 @@
                             <tbody>
                                 <tr>
                                     <td><img src="images/event/5(1).png" alt="Workshop on Cloud Computing-Felicitation of Speaker
-">
+" style="width: 400px; height: 300px;">
                                         <p>Felicitation of Speaker</p>
                                     </td>
                                     <td><img src="images/event/6(1).png" alt="Workshop on Cloud Computing-Speaker delivering session
-">
+" style="width: 400px; height: 300px;">
                                         <p>Speaker delivering session</p>
                                     </td>
                                 </tr>
@@ -744,11 +726,11 @@
                             <tbody>
                                 <tr>
                                     <td><img src="images/event/7(1).png" alt="Seminar on Business Intelligence1
-">
+" style="width: 400px; height: 300px;">
                                         <p>Felicitation of Speaker</p>
                                     </td>
                                     <td><img src="images/event/8(1).png" alt="Seminar on Business Intelligence2
-">
+" style="width: 400px; height: 300px;">
                                         <p>Speaker delivering seminar</p>
                                     </td>
                                 </tr>
@@ -762,11 +744,11 @@
                             <tbody>
                                 <tr>
                                     <td><img src="images/event/9(1).png" alt="Seminar on Enhancing Employability Skills1
-">
+" style="width: 400px; height: 300px;">
                                         <p>Felicitation of Speaker</p>
                                     </td>
                                     <td><img src="images/event/10(1).png" alt="Seminar on Enhancing Employability Skills2
-">
+" style="width: 400px; height: 300px;">
                                         <p>Speaker delivering seminar</p>
                                     </td>
                                 </tr>
@@ -779,11 +761,11 @@
                             <tbody>
                                 <tr>
                                     <td><img src="images/event/11(1).png" alt="Hands on session on HADOOP 1
-">
+" style="width: 400px; height: 300px;">
                                         <p>Felicitation of Speaker</p>
                                     </td>
                                     <td><img src="images/event/12(1).png" alt="Hands on session on HADOOP 2
-">
+" style="width: 400px; height: 300px;">
                                         <p>Speaker delivering session</p>
                                     </td>
                                 </tr>
@@ -796,11 +778,11 @@
                             <tbody>
                                 <tr>
                                     <td><img src="images/event/13(1).png" alt="Competition under C-Cube1
-">
+" style="width: 400px; height: 300px;">
                                         <p>Best out of Waste</p>
                                     </td>
                                     <td><img src="images/event/14(1).png" alt="Competition under C-Cube2
-">
+" style="width: 400px; height: 300px;">
                                         <p>Just a minute</p>
                                     </td>
                                 </tr>
@@ -810,11 +792,11 @@
                             <tbody>
                                 <tr>
                                     <td><img src="images/event/15(1).png" alt="Competition under C-Cube3
-">
+" style="width: 400px; height: 300px;">
                                         <p>Poster Competition</p>
                                     </td>
                                     <td><img src="images/event/16(1).png" alt="Competition under C-Cube4
-">
+" style="width: 400px; height: 300px;">
                                         <p>Mehendi Competition</p>
                                     </td>
                                 </tr>
@@ -828,11 +810,11 @@
                             <tbody>
                                 <tr>
                                     <td><img src="images/event/17(1).png" alt="How to read and write Technical Paper1
-">
+" style="width: 400px; height: 300px;">
                                         <p>Felicitation of Speaker</p>
                                     </td>
                                     <td><img src="images/event/18(1).png" alt="How to read and write Technical Paper2
-">
+" style="width: 400px; height: 300px;">
                                         <p>Speaker delivering seminar</p>
                                     </td>
                                 </tr>
@@ -845,11 +827,11 @@
                             <tbody>
                                 <tr>
                                     <td><img src="images/event/19(1).png" alt="Technical Topic Presentation1
-">
+" style="width: 400px; height: 300px;">
                                         <p>Team of Judges</p>
                                     </td>
                                     <td><img src="images/event/20(1).png" alt="Technical Topic Presentation2
-">
+" style="width: 400px; height: 300px;">
                                         <p>Winner of the event</p>
                                     </td>
                                 </tr>
@@ -863,9 +845,9 @@
                             <tbody>
                                 <tr>
                                     <td><img src="images/event/21(1).png" alt="Career Planning1
-"></td>
+" style="width: 400px; height: 300px;"></td>
                                     <td><img src="images/event/22(1).png" alt="Career Planning2
-"></td>
+" style="width: 400px; height: 300px;"></td>
                                 </tr>
                             </tbody>
                         </table>
@@ -878,11 +860,11 @@
                             <tbody>
                                 <tr>
                                     <td><img src="images/event/23(1).png" alt="Felicitation of Speaker1
-">
+" style="width: 400px; height: 300px;">
                                         <p>Felicitation of Speaker</p>
                                     </td>
                                     <td><img src="images/event/24(1).png" alt="Felicitation of Speaker2
-">
+" style="width: 400px; height: 300px;">
                                         <p>Speaker delivering seminar</p>
                                     </td>
                                 </tr>
@@ -896,9 +878,9 @@
                             <tbody>
                                 <tr>
                                     <td><img src="images/event/25(1).png" alt="Research Opportunities in Robotic1
-"></td>
+" style="width: 400px; height: 300px;"></td>
                                     <td><img src="images/event/26(1).png" alt="Research Opportunities in Robotic2
-"></td>
+" style="width: 400px; height: 300px;"></td>
                                 </tr>
                             </tbody>
                         </table>
@@ -911,9 +893,9 @@
                             <tbody>
                                 <tr>
                                     <td><img src="images/event/27(1).png" alt="Dr. H.U Tiwari addressing students on Patent Filling1
-"></td>
+" style="width: 400px; height: 300px;"></td>
                                     <td><img src="images/event/28(1).png" alt="Dr. H.U Tiwari addressing students on Patent Filling2
-"></td>
+" style="width: 400px; height: 300px;"></td>
                                 </tr>
                             </tbody>
                         </table>
@@ -930,9 +912,9 @@
                             <tbody>
                                 <tr>
                                     <td><img src="images/event/29(1).png" alt="Seminar organized for SE Computer students1
-"></td>
+" style="width: 400px; height: 300px;"></td>
                                     <td><img src="images/event/30(2).png" alt="Seminar organized for SE Computer students2
-"></td>
+" style="width: 400px; height: 300px;"></td>
                                 </tr>
                             </tbody>
                         </table>
@@ -941,11 +923,11 @@
                             <tbody>
                                 <tr>
                                     <td><img src="images/event/31(1).png" alt="Welcome addressing note by Principal and Head of the Department to SE Computer Students1
-">
+" style="width: 400px; height: 300px;">
                                         <p>Distribution of Certificate</p>
                                     </td>
                                     <td><img src="images/event/32(1).png" alt="Welcome addressing note by Principal and Head of the Department to SE Computer Students2
-">
+" style="width: 400px; height: 300px;">
                                         <p>Mr. Nagaarajun</p>
                                     </td>
                                 </tr>
@@ -959,11 +941,11 @@
                             <tbody>
                                 <tr>
                                     <td><img src="images/event/33(1).png" alt="Advance Data Structure1
-">
+" style="width: 400px; height: 300px;">
                                         <p>Registration</p>
                                     </td>
                                     <td><img src="images/event/34(1).png" alt="Advance Data Structure2
-">
+" style="width: 400px; height: 300px;">
                                         <p>Dr. P. Mahalle</p>
                                     </td>
                                 </tr>
@@ -981,7 +963,7 @@
                             <tbody>
                                 <tr>
                                     <td><img src="images/event/35(1).png" alt="Generating Function and Recurrence Relation
-"></td>
+" style="width: 830px; height: 300px;"></td>
                                 </tr>
                             </tbody>
                         </table>
@@ -994,10 +976,10 @@
                             <tbody>
                                 <tr>
                                     <td><img src="images/event/36(1).png" alt="Speaker delivering seminar1
-">
+" style="width: 400px; height: 300px;">
                                     </td>
                                     <td><img src="images/event/37(1).png" alt="Speaker delivering seminar2
-"></td>
+" style="width: 400px; height: 300px;"></td>
                                 </tr>
                             </tbody>
                         </table>
@@ -1006,11 +988,11 @@
                             <tbody>
                                 <tr>
                                     <td><img src="images/event/38(1).png" alt="C- Cube Inauguration-Felicitation of Speaker1
-">
+" style="width: 400px; height: 300px;">
                                         <p>Felicitation of Speaker</p>
                                     </td>
                                     <td><img src="images/event/39(1).png" alt="C- Cube Inauguration-Speaker delivering session1
-">
+" style="width: 400px; height: 300px;">
                                         <p>Speaker delivering session</p>
                                     </td>
                                 </tr>
@@ -1020,11 +1002,11 @@
                             <tbody>
                                 <tr>
                                     <td><img src="images/event/40(1).png" alt="C- Cube Inauguration-Felicitation of Speaker2
-">
+" style="width: 400px; height: 300px;">
                                         <p>Felicitation of Speaker</p>
                                     </td>
                                     <td><img src="images/event/41(1).png" alt="C- Cube Inauguration-Speaker delivering session2
-">
+" style="width: 400px; height: 300px;">
                                         <p>Speaker delivering session</p>
                                     </td>
                                 </tr>
@@ -1039,9 +1021,9 @@
                             <tbody>
                                 <tr>
                                     <td><img src="images/event/42(1).png" alt="Computer Literacy Program1
-"></td>
+" style="width: 400px; height: 300px;"></td>
                                     <td><img src="images/event/43(1).png" alt="Computer Literacy Program2
-"></td>
+" style="width: 400px; height: 300px;"></td>
                                 </tr>
                             </tbody>
                         </table>
@@ -1050,7 +1032,7 @@
                             <tbody>
                                 <tr>
                                     <td><img src="images/event/44(1).png" alt="Foreign Language and it’s Benefits on Date: 09/07/2015
-"></td>
+" style="width: 830px; height: 300px;"></td>
                                 </tr>
                             </tbody>
                         </table>
@@ -1064,11 +1046,11 @@
                             <tbody>
                                 <tr>
                                     <td><img src="images/event/45(1).png" alt="Programming with Data Structure-Felicitation of Speaker
-">
+" style="width: 400px; height: 300px;">
                                         <p>Felicitation of Speaker</p>
                                     </td>
                                     <td><img src="images/event/46(1).png" alt="Programming with Data Structure-Speaker delivering seminar
-">
+" style="width: 400px; height: 300px;">
                                         <p>Speaker delivering seminar</p>
                                     </td>
                                 </tr>
