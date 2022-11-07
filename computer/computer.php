@@ -31,8 +31,7 @@
 
 	<?php include '../header.php'; ?>
 
-
-	<!-- <div class="inner-page-banner"></div> -->
+	<div class="inner-page-banner"></div>
 
 
 
