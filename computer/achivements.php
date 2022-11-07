@@ -59,7 +59,7 @@
 					<div class="col-md-12">
 
 						<div class="col-md-3">
-							<a href="pdf/Faculty-Achievement-Computer.pdf" target="_blank"><img src="./../applied-science/images/download.png" alt="Research Publications"></a>
+							<a href="pdf/achievements-naac[2827]-merged.pdf" target="_blank"><img src="./../applied-science/images/download.png" alt="Research Publications"></a>
 							<p>Faculty Achievement</p>
 						</div>
 

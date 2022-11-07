@@ -59,7 +59,7 @@
 						<img src="./images/hod-comp-dept-pccoer.jpg" alt="Best placement engineering college in Pune provideing job opportunities " width=850 height=400>
 						<div class="hod_page">
 							<div class="hod_page_1">
-								<p class="hod_name">Dr. Archana Ajit Chaugule</p>
+								<p class="hod_name"><b>Dr. Archana Ajit Chaugule</b></p>
 							</div>
 							<div class="hod_page_2">
 								<div class="hod_page_2.1">

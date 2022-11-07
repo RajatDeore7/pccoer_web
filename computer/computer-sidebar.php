@@ -6,7 +6,7 @@
 			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href='computer.php'>About Department</a></li>
 			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href='hod-desk.php'>HOD Desk</a></li>
 			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href='faculty.php'>Faculty & Staff</a></li>
-			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href='./pdf/Comp_Infrastructure_Details.pdf'>Infrastruchure & Facilities</a></li>
+			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href='./pdf/7C.Classrooms and Laboratory Photos  of  Computer Department (1).pdf'>Infrastruchure & Facilities</a></li>
 			<!-- <li <?php if ($pagename == "") echo 'class="active"'; ?>><a href='research.php'>Research</a></li> -->
 			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href='download.php'>Downloads</a></li>
 			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href='achivements.php'>Achievements</a></li>
