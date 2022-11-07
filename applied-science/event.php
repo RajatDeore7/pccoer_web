@@ -166,11 +166,11 @@
 					<table class="table table-bordered table-responsive">
 						<tbody>
 							<tr>
-								<td><img src="images/event/poster-competition-1.jpg" alt="First Year Engineering PBL Poster Competition 2019-20, PCCOER" style="margin: 0 auto; width:350px; height:300px;"></td>
-								<td><img src="images/event/poster-competition-2.jpg" alt="First Year Engineering PBL Poster Competition 2019-20, PCCOER" style="margin: 0 auto; width:350px; height:300px;"></td>
+								<td><img src="images/event/poster-competition-1.jpg" alt="First Year Engineering PBL Poster Competition 2019-20, PCCOER" style="width: 400px; height: 300px;"></td>
+								<td><img src="images/event/poster-competition-2.jpg" alt="First Year Engineering PBL Poster Competition 2019-20, PCCOER" style="width: 400px; height: 300px;"></td>
 							</tr>
 							<!-- <tr>
-								<td><img src="images/event/poster-competition-3.jpg" alt="First Year Engineering PBL Poster Competition 2019-20, PCCOER" style="margin: 0 auto; width:350px; height:300px;"></td>
+								<td><img src="images/event/poster-competition-3.jpg" alt="First Year Engineering PBL Poster Competition 2019-20, PCCOER" style="width: 400px; height: 300px;"></td>
 
 							</tr> -->
 						</tbody>
@@ -184,8 +184,8 @@
 					<table class="table table-bordered table-responsive">
 						<tbody>
 							<tr>
-								<td><img src="images/event/photography-inauguration-1.jpg" alt="Photography Club Inauguration & Exhibition 2019-20, PCCOER" style="margin: 0 auto; width:350px; height:300px;"></td>
-								<td><img src="images/event/photography-inauguration-2.jpg" alt="Photography Club Inauguration & Exhibition 2019-20, PCCOER" style="margin: 0 auto; width:350px; height:300px;"></td>
+								<td><img src="images/event/photography-inauguration-1.jpg" alt="Photography Club Inauguration & Exhibition 2019-20, PCCOER" style="width: 400px; height: 300px;"></td>
+								<td><img src="images/event/photography-inauguration-2.jpg" alt="Photography Club Inauguration & Exhibition 2019-20, PCCOER" style="width: 400px; height: 300px;"></td>
 							</tr>
 						</tbody>
 					</table>
@@ -196,8 +196,8 @@
 					<table class="table table-bordered table-responsive">
 						<tbody>
 							<tr>
-								<td><img src="images/event/electric-vehicle-workshop-1.jpg" alt="Electric Vehicle Workshop 2019-20, PCCOER" style="margin: 0 auto; width:350px; height:300px;"></td>
-								<td><img src="images/event/electric-vehicle-workshop-2.jpg" alt="Electric Vehicle Workshop  2019-20, PCCOER" style="margin: 0 auto; width:350px; height:300px;"></td>
+								<td><img src="images/event/electric-vehicle-workshop-1.jpg" alt="Electric Vehicle Workshop 2019-20, PCCOER" style="width: 400px; height: 300px;"></td>
+								<td><img src="images/event/electric-vehicle-workshop-2.jpg" alt="Electric Vehicle Workshop  2019-20, PCCOER" style="width: 400px; height: 300px;"></td>
 							</tr>
 						</tbody>
 					</table>
@@ -207,8 +207,8 @@
 					<table class="table table-bordered table-responsive">
 						<tbody>
 							<tr>
-								<td><img src="images/event/visit-mother-teresa-1.jpg" alt="Visit to Mother Teresa old age home 2019-20, PCCOER" style="margin: 0 auto; width:350px; height:300px;"></td>
-								<td><img src="images/event/visit-mother-teresa-2.jpg" alt="Visit to Mother Teresa old age home  2019-20, PCCOER" style="margin: 0 auto; width:350px; height:300px;"></td>
+								<td><img src="images/event/visit-mother-teresa-1.jpg" alt="Visit to Mother Teresa old age home 2019-20, PCCOER" style="width: 400px; height: 300px;"></td>
+								<td><img src="images/event/visit-mother-teresa-2.jpg" alt="Visit to Mother Teresa old age home  2019-20, PCCOER" style="width: 400px; height: 300px;"></td>
 							</tr>
 						</tbody>
 					</table>
@@ -218,8 +218,8 @@
 					<table class="table table-bordered table-responsive">
 						<tbody>
 							<tr>
-								<td><img src="images/event/power-mind-workshop-1.jpg" alt="A workshop on the power of mind and confidence building 2019-20, PCCOER" style="margin: 0 auto; width:350px; height:300px;"></td>
-								<td><img src="images/event/power-mind-workshop-2.jpg" alt="A workshop on the power of mind and confidence building 2019-20, PCCOER" style="margin: 0 auto; width:350px; height:300px;"></td>
+								<td><img src="images/event/power-mind-workshop-1.jpg" alt="A workshop on the power of mind and confidence building 2019-20, PCCOER" style="width: 400px; height: 300px;"></td>
+								<td><img src="images/event/power-mind-workshop-2.jpg" alt="A workshop on the power of mind and confidence building 2019-20, PCCOER" style="width: 400px; height: 300px;"></td>
 							</tr>
 						</tbody>
 					</table>
@@ -229,8 +229,8 @@
 					<table class="table table-bordered table-responsive">
 						<tbody>
 							<tr>
-								<td><img src="images/event/wall-magazine-fe-1.jpg" alt="Wall magazine by FE students  2019-20, PCCOER" style="margin: 0 auto; width:350px; height:300px;"></td>
-								<td><img src="images/event/wall-magazine-fe-2.jpg" alt="Wall magazine by FE students   2019-20, PCCOER" style="margin: 0 auto; width:350px; height:300px;"></td>
+								<td><img src="images/event/wall-magazine-fe-1.jpg" alt="Wall magazine by FE students  2019-20, PCCOER" style="width: 400px; height: 300px;"></td>
+								<td><img src="images/event/wall-magazine-fe-2.jpg" alt="Wall magazine by FE students   2019-20, PCCOER" style="width: 400px; height: 300px;"></td>
 							</tr>
 						</tbody>
 					</table>
@@ -240,8 +240,8 @@
 					<table class="table table-bordered table-responsive">
 						<tbody>
 							<tr>
-								<td><img src="images/event/guest-lecture-1.jpg" alt="Guest lecture 2019-20, PCCOER" style="margin: 0 auto; width:350px; height:300px;"></td>
-								<td><img src="images/event/guest-lecture-2.jpg" alt="Guest Lecture 2019-20, PCCOER" style="margin: 0 auto; width:350px; height:300px;"></td>
+								<td><img src="images/event/guest-lecture-1.jpg" alt="Guest lecture 2019-20, PCCOER" style="width: 400px; height: 300px;"></td>
+								<td><img src="images/event/guest-lecture-2.jpg" alt="Guest Lecture 2019-20, PCCOER" style="width: 400px; height: 300px;"></td>
 							</tr>
 						</tbody>
 					</table>
@@ -252,7 +252,7 @@
 					<table class="table table-bordered table-responsive">
 						<tbody>
 							<tr>
-								<td><img src="images/event/webinar-lockdown.jpg" alt="First Year Webinar 2019-20, PCCOER" style="margin: 0 auto; width:350px; height:300px;"></td>
+								<td><img src="images/event/webinar-lockdown.jpg" alt="First Year Webinar 2019-20, PCCOER" style="width: 400px; height: 300px;"></td>
 							</tr>
 						</tbody>
 					</table>
@@ -263,7 +263,7 @@
 					<table class="table table-bordered table-responsive">
 						<tbody>
 							<tr>
-								<td><img src="images/event/fy-ptm.jpg" alt="First Year PTM 2019-20, PCCOER" style="margin: 0 auto; width:350px; height:300px;"></td>
+								<td><img src="images/event/fy-ptm.jpg" alt="First Year PTM 2019-20, PCCOER" style="width: 400px; height: 300px;"></td>
 
 							</tr>
 						</tbody>
@@ -275,16 +275,16 @@
 					<table class="table table-bordered table-responsive">
 						<tbody>
 							<tr>
-								<td><img src="images/event/orientation-induction-programme-1.jpg" alt="Orientation Induction programme 2019-20, PCCOER" style="margin: 0 auto; width:350px; height:300px;"></td>
-								<td><img src="images/event/orientation-induction-programme-2.jpg" alt="Orientation Induction programme 2019-20, PCCOER" style="margin: 0 auto; width:350px; height:300px;"></td>
+								<td><img src="images/event/orientation-induction-programme-1.jpg" alt="Orientation Induction programme 2019-20, PCCOER" style="width: 400px; height: 300px;"></td>
+								<td><img src="images/event/orientation-induction-programme-2.jpg" alt="Orientation Induction programme 2019-20, PCCOER" style="width: 400px; height: 300px;"></td>
 							</tr>
 							<tr>
-								<td><img src="images/event/orientation-induction-programme-3.jpg" alt="Orientation Induction programme 2019-20, PCCOER" style="margin: 0 auto; width:350px; height:300px;"></td>
-								<td><img src="images/event/orientation-induction-programme-4.jpg" alt="Orientation Induction programme 2019-20, PCCOER" style="margin: 0 auto; width:350px; height:300px;"></td>
+								<td><img src="images/event/orientation-induction-programme-3.jpg" alt="Orientation Induction programme 2019-20, PCCOER" style="width: 400px; height: 300px;"></td>
+								<td><img src="images/event/orientation-induction-programme-4.jpg" alt="Orientation Induction programme 2019-20, PCCOER" style="width: 400px; height: 300px;"></td>
 							</tr>
 							<tr>
-								<td><img src="images/event/orientation-induction-programme-5.jpg" alt="Orientation Induction programme 2019-20, PCCOER" style="margin: 0 auto; width:350px; height:300px;"></td>
-								<td><img src="images/event/orientation-induction-programme-6.jpg" alt="Orientation Induction programme 2019-20, PCCOER" style="margin: 0 auto; width:350px; height:300px;"></td>
+								<td><img src="images/event/orientation-induction-programme-5.jpg" alt="Orientation Induction programme 2019-20, PCCOER" style="width: 400px; height: 300px;"></td>
+								<td><img src="images/event/orientation-induction-programme-6.jpg" alt="Orientation Induction programme 2019-20, PCCOER" style="width: 400px; height: 300px;"></td>
 							</tr>
 						</tbody>
 					</table>
@@ -294,8 +294,8 @@
 					<table class="table table-bordered table-responsive">
 						<tbody>
 							<tr>
-								<td><img src="images/event/visit-nss-camp-1.jpg" alt="Visit to NSS Camp – 10th January 2020, PCCOER" style="margin: 0 auto; width:350px; height:300px;"></td>
-								<td><img src="images/event/visit-nss-camp-2.jpg" alt="Visit to NSS Camp – 10th January 2020, PCCOER" style="margin: 0 auto; width:350px; height:300px;"></td>
+								<td><img src="images/event/visit-nss-camp-1.jpg" alt="Visit to NSS Camp – 10th January 2020, PCCOER" style="width: 400px; height: 300px;"></td>
+								<td><img src="images/event/visit-nss-camp-2.jpg" alt="Visit to NSS Camp – 10th January 2020, PCCOER" style="width: 400px; height: 300px;"></td>
 							</tr>
 						</tbody>
 					</table>
@@ -308,8 +308,8 @@
 					<table class="table table-bordered table-responsive">
 						<tbody>
 							<tr>
-								<td><img src="images/event/workshop-mind-power-1.jpg" alt="Workshop on Mind Power & Confidence Building – 8th January 2020, PCCOER" style="margin: 0 auto; width:350px; height:300px;"></td>
-								<td><img src="images/event/workshop-mind-power-2.jpg" alt="Workshop on Mind Power & Confidence Building – 8th January 2020, PCCOER" style="margin: 0 auto; width:350px; height:300px;"></td>
+								<td><img src="images/event/workshop-mind-power-1.jpg" alt="Workshop on Mind Power & Confidence Building – 8th January 2020, PCCOER" style="width: 400px; height: 300px;"></td>
+								<td><img src="images/event/workshop-mind-power-2.jpg" alt="Workshop on Mind Power & Confidence Building – 8th January 2020, PCCOER" style="width: 400px; height: 300px;"></td>
 							</tr>
 						</tbody>
 					</table>
@@ -322,8 +322,8 @@
 					<table class="table table-bordered table-responsive">
 						<tbody>
 							<tr>
-								<td><img src="images/event/workshop-mind-education-1.jpg" alt="Workshop on Mind Education – 13th January 2020, PCCOER" style="margin: 0 auto; width:350px; height:300px;"></td>
-								<td><img src="images/event/workshop-mind-education-2.jpg" alt="Workshop on Mind Education – 13th January 2020, PCCOER" style="margin: 0 auto; width:350px; height:300px;"></td>
+								<td><img src="images/event/workshop-mind-education-1.jpg" alt="Workshop on Mind Education – 13th January 2020, PCCOER" style="width: 400px; height: 300px;"></td>
+								<td><img src="images/event/workshop-mind-education-2.jpg" alt="Workshop on Mind Education – 13th January 2020, PCCOER" style="width: 400px; height: 300px;"></td>
 							</tr>
 						</tbody>
 					</table>
@@ -336,8 +336,8 @@
 					<table class="table table-bordered table-responsive">
 						<tbody>
 							<tr>
-								<td><img src="images/event/session-human-values-1.jpg" alt="Session on Human Values – 9th January 2020, PCCOER" style="margin: 0 auto; width:350px; height:300px;"></td>
-								<td><img src="images/event/session-human-values-2.jpg" alt="Session on Human Values – 9th January 2020, PCCOER" style="margin: 0 auto; width:350px; height:300px;"></td>
+								<td><img src="images/event/session-human-values-1.jpg" alt="Session on Human Values – 9th January 2020, PCCOER" style="width: 400px; height: 300px;"></td>
+								<td><img src="images/event/session-human-values-2.jpg" alt="Session on Human Values – 9th January 2020, PCCOER" style="width: 400px; height: 300px;"></td>
 							</tr>
 						</tbody>
 					</table>
@@ -350,8 +350,8 @@
 					<table class="table table-bordered table-responsive">
 						<tbody>
 							<tr>
-								<td><img src="images/event/words-maya-session-1.jpg" alt="Words Maya Session – 9th January 2020, PCCOER" style="margin: 0 auto; width:350px; height:300px;"></td>
-								<td><img src="images/event/words-maya-session-2.jpg" alt="Words Maya Session – 9th January 2020, PCCOER" style="margin: 0 auto; width:350px; height:300px;"></td>
+								<td><img src="images/event/words-maya-session-1.jpg" alt="Words Maya Session – 9th January 2020, PCCOER" style="width: 400px; height: 300px;"></td>
+								<td><img src="images/event/words-maya-session-2.jpg" alt="Words Maya Session – 9th January 2020, PCCOER" style="width: 400px; height: 300px;"></td>
 							</tr>
 						</tbody>
 					</table>
@@ -364,8 +364,8 @@
 					<table class="table table-bordered table-responsive">
 						<tbody>
 							<tr>
-								<td><img src="images/event/body-mind-education-1.jpg" alt="Body and Mind Education – 8th January 2020, PCCOER" style="margin: 0 auto; width:350px; height:300px;"></td>
-								<td><img src="images/event/body-mind-education-2.jpg" alt="Body and Mind Education – 8th January 2020, PCCOER" style="margin: 0 auto; width:350px; height:300px;"></td>
+								<td><img src="images/event/body-mind-education-1.jpg" alt="Body and Mind Education – 8th January 2020, PCCOER" style="width: 400px; height: 300px;"></td>
+								<td><img src="images/event/body-mind-education-2.jpg" alt="Body and Mind Education – 8th January 2020, PCCOER" style="width: 400px; height: 300px;"></td>
 							</tr>
 						</tbody>
 					</table>
@@ -387,17 +387,17 @@
 					<table class="table table-bordered table-responsive">
 						<tbody>
 							<tr>
-								<td><img src="images/event/physics-orientation-workshop-1.jpg" alt="Physics Orientation Workshop of Revised Syllabus 2019 1, PCCOER" style="width:360px; height:240px;"></td>
-								<td><img src="images/event/physics-orientation-workshop-2.jpg" alt="Physics Orientation Workshop of Revised Syllabus 2019 2, PCCOER" style="width:360px; height:240px;">
+								<td><img src="images/event/physics-orientation-workshop-1.jpg" alt="Physics Orientation Workshop of Revised Syllabus 2019 1, PCCOER" style="width: 400px; height: 300px;"></td>
+								<td><img src="images/event/physics-orientation-workshop-2.jpg" alt="Physics Orientation Workshop of Revised Syllabus 2019 2, PCCOER" style="width: 400px; height: 300px;">
 								</td>
 							</tr>
 							<tr>
-								<td><img src="images/event/physics-orientation-workshop-3.jpg" alt="Physics Orientation Workshop of Revised Syllabus 2019 3, PCCOER" style="width:360px; height:240px;"></td>
-								<td><img src="images/event/physics-orientation-workshop-4.jpg" alt="Physics Orientation Workshop of Revised Syllabus 2019 4, PCCOER" style="width:360px; height:240px;">
+								<td><img src="images/event/physics-orientation-workshop-3.jpg" alt="Physics Orientation Workshop of Revised Syllabus 2019 3, PCCOER" style="width: 400px; height: 300px;"></td>
+								<td><img src="images/event/physics-orientation-workshop-4.jpg" alt="Physics Orientation Workshop of Revised Syllabus 2019 4, PCCOER" style="width: 400px; height: 300px;">
 								</td>
 							</tr>
 							<!-- <tr>
-								<td><img src="images/event/physics-orientation-workshop-5.JPG" alt="Physics Orientation Workshop of Revised Syllabus 2019 5, PCCOER" style="width:360px; height:240px;"></td>
+								<td><img src="images/event/physics-orientation-workshop-5.JPG" alt="Physics Orientation Workshop of Revised Syllabus 2019 5, PCCOER" style="width: 400px; height: 300px;"></td>
 
 							</tr> -->
 						</tbody>
@@ -409,18 +409,18 @@
 					<table class="table table-bordered table-responsive">
 						<tbody>
 							<tr>
-								<td><img src="images/event/maths-workshop-pccoer-1.jpg" alt="Best engineering college in Pune" style="width:360px; height:240px;"></td>
-								<td><img src="images/event/maths-workshop-pccoer-2.jpg" alt="Best placement enginerring colleges in Pune " style="width:360px; height:240px;">
+								<td><img src="images/event/maths-workshop-pccoer-1.jpg" alt="Best engineering college in Pune" style="width: 400px; height: 300px;"></td>
+								<td><img src="images/event/maths-workshop-pccoer-2.jpg" alt="Best placement enginerring colleges in Pune " style="width: 400px; height: 300px;">
 								</td>
 							</tr>
 							<tr>
-								<td><img src="images/event/maths-workshop-pccoer-3.jpg" alt="Best engineering college in Pune" style="width:360px; height:240px;"></td>
-								<td><img src="images/event/maths-workshop-pccoer-4.jpg" alt="Best placement enginerring colleges in Pune " style="width:360px; height:240px;">
+								<td><img src="images/event/maths-workshop-pccoer-3.jpg" alt="Best engineering college in Pune" style="width: 400px; height: 300px;"></td>
+								<td><img src="images/event/maths-workshop-pccoer-4.jpg" alt="Best placement enginerring colleges in Pune " style="width: 400px; height: 300px;">
 								</td>
 							</tr>
 							<tr>
-								<td><img src="images/event/maths-workshop-pccoer-5.jpg" alt="Best engineering college in Pune" style="width:360px; height:240px;"></td>
-								<td><img src="images/event/maths-workshop-pccoer-6.jpg" alt="Best placement enginerring colleges in Pune " style="width:360px; height:240px;">
+								<td><img src="images/event/maths-workshop-pccoer-5.jpg" alt="Best engineering college in Pune" style="width: 400px; height: 300px;"></td>
+								<td><img src="images/event/maths-workshop-pccoer-6.jpg" alt="Best placement enginerring colleges in Pune " style="width: 400px; height: 300px;">
 								</td>
 							</tr>
 						</tbody>
@@ -447,8 +447,8 @@
 						<table class="table table-bordered table-responsive">
 							<tbody>
 								<tr>
-									<td><img src="images/event/induction-1.JPG" alt="Best engineering college in Pune" style="width:360px; height:240px;"></td>
-									<td><img src="images/event/induction-2.JPG" alt="Best placement enginerring colleges in Pune " style="width:360px; height:240px;">
+									<td><img src="images/event/induction-1.JPG" alt="Best engineering college in Pune" style="width: 400px; height: 300px;"></td>
+									<td><img src="images/event/induction-2.JPG" alt="Best placement enginerring colleges in Pune " style="width: 400px; height: 300px;">
 									</td>
 								</tr>
 							</tbody>
@@ -478,13 +478,13 @@
 						<table class="table table-bordered table-responsive">
 							<tbody>
 								<tr>
-									<td><img src="images/event/study_sucess_lecture.jpg" alt="Events at PCCOER" style="width:360px; height:240px;"></td>
-									<td><img src="images/event/guest.jpg" alt="Events at PCCOER " style="width:360px; height:240px;">
+									<td><img src="images/event/study_sucess_lecture.jpg" alt="Events at PCCOER" style="width: 400px; height: 300px;"></td>
+									<td><img src="images/event/guest.jpg" alt="Events at PCCOER " style="width: 400px; height: 300px;">
 									</td>
 								</tr>
 								<tr>
-									<td><img src="images/event/Study_sucess.jpg" alt="Events at PCCOER" style="width:360px; height:240px;"></td>
-									<td><img src="images/event/positive_thinking.jpg" alt="Events at PCCOER" style="width:360px; height:240px;">
+									<td><img src="images/event/Study_sucess.jpg" alt="Events at PCCOER" style="width: 400px; height: 300px;"></td>
+									<td><img src="images/event/positive_thinking.jpg" alt="Events at PCCOER" style="width: 400px; height: 300px;">
 									</td>
 								</tr>
 							</tbody>
@@ -513,13 +513,13 @@
 						<table class="table table-bordered table-responsive">
 							<tbody>
 								<tr>
-									<td><img src="images/event/ev1.jpg" alt="Events at PCCOER" style="width:360px; height:240px;"></td>
-									<td><img src="images/event/ev2.jpg" alt="Events at PCCOER" style="width:360px; height:240px;">
+									<td><img src="images/event/ev1.jpg" alt="Events at PCCOER" style="width: 400px; height: 300px;"></td>
+									<td><img src="images/event/ev2.jpg" alt="Events at PCCOER" style="width: 400px; height: 300px;">
 									</td>
 								</tr>
 								<!-- <tr>
-									<td><img src="ev3.jpg" alt="Events at PCCOER" style="width:360px; height:240px;"></td>
-									 <td><img src="positive_thinking.jpg" alt="Best placement enginerring colleges in Pune " style="width:360px; height:240px;">
+									<td><img src="ev3.jpg" alt="Events at PCCOER" style="width: 400px; height: 300px;"></td>
+									 <td><img src="positive_thinking.jpg" alt="Best placement enginerring colleges in Pune " style="width: 400px; height: 300px;">
                                     </td>
 								</tr> -->
 							</tbody>
@@ -541,13 +541,13 @@
 						<table class="table table-bordered table-responsive">
 							<tbody>
 								<tr>
-									<td><img src="images/event/Enthusiasts-1.jpg" alt="Events at PCCOER" style="width:360px; height:240px;"></td>
-									<td><img src="images/event/Enthusiasts-2.jpg" alt="Events at PCCOER" style="width:360px; height:240px;">
+									<td><img src="images/event/Enthusiasts-1.jpg" alt="Events at PCCOER" style="width: 400px; height: 300px;"></td>
+									<td><img src="images/event/Enthusiasts-2.jpg" alt="Events at PCCOER" style="width: 400px; height: 300px;">
 									</td>
 								</tr>
 								<tr>
-									<td><img src="images/event/Enthusiasts-3.jpg" alt="Events at PCCOER" style="width:360px; height:240px;"></td>
-									<td><img src="images/event/Enthusiasts-4.jpg" alt="Events at PCCOER" style="width:360px; height:240px;">
+									<td><img src="images/event/Enthusiasts-3.jpg" alt="Events at PCCOER" style="width: 400px; height: 300px;"></td>
+									<td><img src="images/event/Enthusiasts-4.jpg" alt="Events at PCCOER" style="width: 400px; height: 300px;">
 									</td>
 								</tr>
 							</tbody>
@@ -567,8 +567,8 @@
 						<table class="table table-bordered table-responsive">
 							<tbody>
 								<tr>
-									<td><img src="images/event/IVR-1.jpg" alt="Events at PCCOER" style="width:360px; height:240px;"></td>
-									<td><img src="images/event/IVR-2.jpg" alt="Events at PCCOER" style="width:360px; height:240px;">
+									<td><img src="images/event/IVR-1.jpg" alt="Events at PCCOER" style="width: 400px; height: 300px;"></td>
+									<td><img src="images/event/IVR-2.jpg" alt="Events at PCCOER" style="width: 400px; height: 300px;">
 									</td>
 								</tr>
 							</tbody>
@@ -590,8 +590,8 @@
 						<table class="table table-bordered table-responsive">
 							<tbody>
 								<tr>
-									<td><img src="images/event/ptm1.jpg" alt="Events at PCCOER"></td>
-									<td><img src="images/event/ptm2.jpg" alt="Events at PCCOER">
+									<td><img src="images/event/ptm1.jpg" alt="Events at PCCOER" style="width: 400px; height: 300px;"></td>
+									<td><img src="images/event/ptm2.jpg" alt="Events at PCCOER" style="width: 400px; height: 300px;">
 									</td>
 								</tr>
 								<!-- <tr>
@@ -619,8 +619,8 @@
 					<table class="table table-bordered table-responsive">
 						<tbody>
 							<tr>
-								<td><img src="images/event/Art-of-living1.jpg" alt="Events at PCCOER" style="width:360px; height:240px;"></td>
-								<td><img src="images/event/Art-of-living2.jpg" alt="Events at PCCOER" style="width:360px; height:240px;"></td>
+								<td><img src="images/event/Art-of-living1.jpg" alt="Events at PCCOER" style="width: 400px; height: 300px;"></td>
+								<td><img src="images/event/Art-of-living2.jpg" alt="Events at PCCOER" style="width: 400px; height: 300px;"></td>
 							</tr>
 						</tbody>
 					</table>
@@ -638,23 +638,23 @@
 						<table class="table table-bordered table-responsive">
 							<tbody>
 								<tr>
-									<td><img src="images/event/Induction-1.jpg" alt="Events at PCCOER" style="width:360px; height:240px;"></td>
-									<td><img src="images/event/Induction-2.jpg" alt="Events at PCCOER" style="width:360px; height:240px;">
+									<td><img src="images/event/Induction-1.jpg" alt="Events at PCCOER" style="width: 400px; height: 300px;"></td>
+									<td><img src="images/event/Induction-2.jpg" alt="Events at PCCOER" style="width: 400px; height: 300px;">
 									</td>
 								</tr>
 								<tr>
-									<td><img src="images/event/Induction-3.jpg" alt="Events at PCCOER" style="width:360px; height:240px;"></td>
-									<td><img src="images/event/Induction-4.jpg" alt="Events at PCCOER" style="width:360px; height:240px;">
+									<td><img src="images/event/Induction-3.jpg" alt="Events at PCCOER" style="width: 400px; height: 300px;"></td>
+									<td><img src="images/event/Induction-4.jpg" alt="Events at PCCOER" style="width: 400px; height: 300px;">
 									</td>
 								</tr>
 								<tr>
-									<td><img src="images/event/Induction-5.jpg" alt="Events at PCCOER" style="width:360px; height:240px;"></td>
-									<td><img src="images/event/Induction-6.jpeg" alt="Events at PCCOER" style="width:360px; height:240px;">
+									<td><img src="images/event/Induction-5.jpg" alt="Events at PCCOER" style="width: 400px; height: 300px;"></td>
+									<td><img src="images/event/Induction-6.jpeg" alt="Events at PCCOER" style="width: 400px; height: 300px;">
 									</td>
 								</tr>
 								<!-- <tr>
-									<td><img src="images/event/Induction-7.jpg" alt="Events at PCCOER" style="width:360px; height:240px;"></td>
-									<td><img src="images/event/Induction-1.jpg" alt="Best placement enginerring colleges in Pune " style="width:360px; height:240px;">
+									<td><img src="images/event/Induction-7.jpg" alt="Events at PCCOER" style="width: 400px; height: 300px;"></td>
+									<td><img src="images/event/Induction-1.jpg" alt="Best placement enginerring colleges in Pune " style="width: 400px; height: 300px;">
                                     </td>
 								</tr> -->
 							</tbody>
@@ -671,8 +671,8 @@
 						<table class="table table-bordered table-responsive">
 							<tbody>
 								<tr>
-									<td><img src="images/event/pccoer-indu1.png" alt="Events at PCCOER"></td>
-									<td><img src="images/event/pccoer-indu2.png" alt="Events at PCCOER"></td>
+									<td><img src="images/event/pccoer-indu1.png" alt="Events at PCCOER" style="width: 400px; height: 300px;"></td>
+									<td><img src="images/event/pccoer-indu2.png" alt="Events at PCCOER" style="width: 400px; height: 300px;"></td>
 								</tr>
 								<!-- <tr>
 									<td><img src="images/event/pccoer-indu1.png" alt="Events at PCCOER"></td>
@@ -686,8 +686,8 @@
 						<table class="table table-bordered table-responsive">
 							<tbody>
 								<tr>
-									<td><img src="images/event/induction2016-1.png" alt="Events at PCCOER"></td>
-									<td><img src="images/event/induction2016-2.png" alt="BesEvents at PCCOER"></td>
+									<td><img src="images/event/induction2016-1.png" alt="Events at PCCOER" style="width: 400px; height: 300px;"></td>
+									<td><img src="images/event/induction2016-2.png" alt="BesEvents at PCCOER" style="width: 400px; height: 300px;"></td>
 								</tr>
 							</tbody>
 						</table>
@@ -695,8 +695,8 @@
 						<table class="table table-bordered table-responsive">
 							<tbody>
 								<tr>
-									<td><img src="images/event/felicitation-1.png" alt="Events at PCCOER"></td>
-									<td><img src="images/event/felicitation-2.png" alt="Events at PCCOER"></td>
+									<td><img src="images/event/felicitation-1.png" alt="Events at PCCOER" style="width: 400px; height: 300px;"></td>
+									<td><img src="images/event/felicitation-2.png" alt="Events at PCCOER" style="width: 400px; height: 300px;"></td>
 								</tr>
 							</tbody>
 						</table>
@@ -705,8 +705,8 @@
 						<table class="table table-bordered table-responsive">
 							<tbody>
 								<tr>
-									<td><img src="images/event/tp-1.png" alt="Events at PCCOER"></td>
-									<td><img src="images/event/tp-2.png" alt="Events at PCCOER"></td>
+									<td><img src="images/event/tp-1.png" alt="Events at PCCOER" style="width: 400px; height: 300px;"></td>
+									<td><img src="images/event/tp-2.png" alt="Events at PCCOER" style="width: 400px; height: 300px;"></td>
 								</tr>
 							</tbody>
 						</table>
@@ -714,8 +714,8 @@
 						<table class="table table-bordered table-responsive">
 							<tbody>
 								<tr>
-									<td><img src="images/event/parentmeet-1.png" alt="Events at PCCOER"></td>
-									<td><img src="images/event/parentmeet-2.png" alt="Events at PCCOER"></td>
+									<td><img src="images/event/parentmeet-1.png" alt="Events at PCCOER" style="width: 400px; height: 300px;"></td>
+									<td><img src="images/event/parentmeet-2.png" alt="Events at PCCOER" style="width: 400px; height: 300px;"></td>
 								</tr>
 							</tbody>
 						</table>
@@ -730,10 +730,10 @@
 						<table class="table table-bordered table-responsive">
 							<tbody>
 								<tr>
-									<td><img src="images/event/parentmeet-3.png" alt="Events at PCCOER">
+									<td><img src="images/event/parentmeet-3.png" alt="Events at PCCOER" style="width: 400px; height: 300px;">
 										<p class="table-text">Welcome of Parents.</p>
 									</td>
-									<td><img src="images/event/parentmeet-4.png" alt="Events at PCCOER">
+									<td><img src="images/event/parentmeet-4.png" alt="Events at PCCOER" style="width: 400px; height: 300px;">
 										<p class="table-text">PPT Presentation by Prof. Sonali Kanase(F.E)</p>
 									</td>
 								</tr>
@@ -759,8 +759,8 @@
 					<table class="table table-bordered table-responsive">
 						<tbody>
 							<tr>
-								<td><img src="images/event/art-of-living-1.jpg" alt="Events at PCCOER "></td>
-								<td><img src="images/event/art-of-living-2.jpg" alt="Events at PCCOER"></td>
+								<td><img src="images/event/art-of-living-1.jpg" alt="Events at PCCOER " style="width: 400px; height: 300px;"></td>
+								<td><img src="images/event/art-of-living-2.jpg" alt="Events at PCCOER" style="width: 400px; height: 300px;"></td>
 							</tr>
 						</tbody>
 					</table>
