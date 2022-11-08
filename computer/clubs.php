@@ -65,7 +65,7 @@
                         </div>
                         <div class="clubs_2">
                             <div class="clubs_GDSC"><a href="https://vedantaz.github.io/web_gdsc/#/"><img src="./images/clubs/_GDSC Logo .png" alt="GDSC_logo" height="200" width="200" style="border-radius: 50%;"></a></div>
-                            <div class="clubs_ACM"><a href="http://pccoer.acm.org/"><img src="./images/clubs/acmxpccoer.png" alt="ACM_logo" height="200" width="200" style="border-radius: 50%;"></a></div>
+                            <div class="clubs_ACM"><a href="https://acmpccoer.netlify.app/"><img src="./images/clubs/acmxpccoer.png" alt="ACM_logo" height="200" width="200" style="border-radius: 50%;"></a></div>
                         </div>
                     </div>
                 </div>
