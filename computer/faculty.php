@@ -115,7 +115,7 @@
                   </div>
                   <div class="flip-card-back">
                     <p class="faculty_name"><b>Mrs. Sonali S. Lunawat</b></p>
-                    <p class="faculty_card_link"><b>Qualification: </b>B.E.(CE), M.E.(Computer Engineering)</p>
+                    <p class="faculty_card_link"><b>Qualification: </b>B.E.(CE), M.E.(Computer Engineering), PhD (Persuing)</p>
                     <p class="faculty_card_link"><b>Experience: </b> <b>Teaching:</b> 13 Years</p>
                     <p class="faculty_card_link"><b>Email-Id:</b> sonali.lunawat@pccoer.in</p>
                     <a href="https://sonallunawat4u.wordpress.com/" class="faculty_blog"><i class="fa-solid fa-blog"></i></a>
@@ -210,7 +210,7 @@
                   <div class="flip-card-back">
                     <p class="faculty_name"><b>Ms. Vaishali Prasad Latke</b></p>
                     <p class="faculty_card_link"><b>Qualification: </b>BE Computer-Engineering, ME Computer-Engineering, PhD (Pursuing)</p>
-                    <p class="faculty_card_link"><b>Experience: </b> <b>Teaching:</b> 12 Years</p>
+                    <p class="faculty_card_link"><b>Experience: </b> <b>Teaching:</b> 13 Years</p>
                     <p class="faculty_card_link"><b>Email-Id:</b> vaishali.latke@pccoer.in</p>
                     <a href="https://vaishalilatke.wixsite.com/blog" class="faculty_blog"><i class="fa-solid fa-blog"></i></a>
                     <a href="./pdf/view-profile/Vaishali LAtke.pdf" class="faculty_blog"><i class="fa-solid fa-user"></i></a>
@@ -254,7 +254,7 @@
                   <div class="flip-card-back">
                     <p class="faculty_name"><b>Mrs. Minal R. Bodke</b></p>
                     <p class="faculty_card_link"><b>Qualification: </b>PhD (Pursuing), M.E(Information Technology)</p>
-                    <p class="faculty_card_link"><b>Experience:</b><b>Teaching:</b>6 Months<br> <b>Teaching Assistant:</b> 2 Years</p>
+                    <p class="faculty_card_link"><b>Experience:</b><b>Teaching:</b>6 Months<br> <b>Assistant Professor:</b> 4 Years</p>
                     <p class="faculty_card_link"><b>Email-Id:</b> minal.bodke@pccoer.in</p>
                     <a href="https://minalbodke.wordpress.com/" class="faculty_blog"><i class="fa-solid fa-blog"></i></a>
                     <a href="./pdf/view-profile/Faculty Profile MRB.pdf" class="faculty_blog"><i class="fa-solid fa-user"></i></a>

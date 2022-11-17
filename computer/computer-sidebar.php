@@ -11,7 +11,7 @@
 			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href='download.php'>Downloads</a></li>
 			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href='achivements.php'>Achievements</a></li>
 			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href='event.php'>Department Activities</a></li>
-			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href='./pdf/Comp_Department_Highlights.pdf'>Department Highlights</a></li>
+			<!-- <li <?php if ($pagename == "") echo 'class="active"'; ?>><a href='./pdf/Comp_Department_Highlights.pdf'>Department Highlights</a></li> -->
 			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href='students-view.php'>Student's View</a></li>
 			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href='result.php'>Result</a></li>
 			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href='placements.php'>Placements & Higher Studies</a></li>

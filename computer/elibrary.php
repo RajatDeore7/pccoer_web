@@ -60,7 +60,7 @@
 					<h1 align="center">E-Library</h1>
 					<hr>
 					<ul class="research">
-						<li>
+						<!-- <li>
 							<div class="research_main">
 								<div>
 									<a href="http://pccoerelearning.com">
@@ -71,7 +71,7 @@
 									<a href="pdf/Faculty_publication_YearWise_Details.pdf" class="elibrary_link"><i class="fa-solid fa-link"></i></a>
 								</div>
 							</div>
-						</li>
+						</li> -->
 						<li>
 							<div class="research_main">
 								<div>
