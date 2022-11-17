@@ -60,7 +60,7 @@
                     <h1 align="center">Result</h1>
                     <hr>
                     <h3>2021-22 TERM-II</h3>
-                    <iframe src="./pdf/2021-22 TERM-II_0001.pdf" width="900px" height="800px">
+                    <iframe src="./pdf/Final Result of SE TE BE 2021-22.docx.pdf" width="900px" height="800px">
                     </iframe>
                     <!-- <br>
                     <br>

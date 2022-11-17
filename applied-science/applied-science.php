@@ -75,6 +75,7 @@
 						5. To provide training in the area of mental, spiritual growth, sound health, good conduct and communication for students which shall be based on our values and ethics.
 					</p>
 
+					<h3><a href="./pdf/COURSE-OUTCOMES.pdf">COURSE OUTCOMES (COs):</a></h3>
 				</div>
 			</div>
 		</div>
