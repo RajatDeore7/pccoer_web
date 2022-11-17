@@ -479,7 +479,7 @@ figure:hover+span {
 }
 
 /* Inner Pages CSS */
-.inner-page-banner-computer {
+.inner-page-banner {
 	background: url(../images/IMG_6099.png);
 	background-size: 0px 0px;
 	background-attachment: fixed;
