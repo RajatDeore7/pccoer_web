@@ -479,8 +479,17 @@ figure:hover+span {
 }
 
 /* Inner Pages CSS */
-.inner-page-banner {
-	background: url(../computer/images/department-image/comp.jpg);
+.inner-page-banner-computer {
+	background: url(../images/IMG_6099.png);
+	background-size: 0px 0px;
+	background-attachment: fixed;
+	background-repeat: round;
+	background-size: cover;
+	height: 200px;
+}
+
+.inner-page-banner-firstyear {
+	background: url(../images/IMG_6099.png);
 	background-size: 0px 0px;
 	background-attachment: fixed;
 	background-repeat: round;
