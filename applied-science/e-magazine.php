@@ -60,6 +60,16 @@
 					<div class="col-md-12">
 
 						<div class="col-md-4">
+							<a href="pdf/Emagazine - A.Y. 2021-22 - Semester #1.pdf" target="_blank"><img src="images/download.png" alt="Research Publications"></a>
+							<p>E-MAGAZINE-21-22 SEM 1</p>
+						</div>
+
+						<div class="col-md-4">
+							<a href="pdf/Emagazine - A.Y. 2021-22 - Semester #2.pdf" target="_blank"><img src="images/download.png" alt="Research Publications"></a>
+							<p>E-MAGAZINE-21-22 SEM 2</p>
+						</div>
+
+						<div class="col-md-4">
 							<a href="pdf/E-MAGAZINE-18-19.pdf" target="_blank"><img src="images/download.png" alt="Research Publications"></a>
 							<p>E-MAGAZINE-18-19</p>
 						</div>
