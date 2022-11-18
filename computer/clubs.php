@@ -51,26 +51,21 @@
             <div class="row">
 
                 <?php include 'computer-sidebar.php'; ?>
-
-                <div class="col-xs-12 col-sm-12 col-md-9">
+                <div class="col-md-8">
                     <div class="hdg-bdr"><span class="hdg-bdr-1"></span><span class="hdg-bdr-2"></span><span class="hdg-bdr-3"></span></div>
                     <br>
                     <h1 align="center">Clubs</h1>
                     <hr>
-                    <div class="clubs_main">
 
-                        <div class="clubs_1">
-                            <div class="clubs_C-Cube"><a href="./c-cube.php"><img src="./images/clubs/c-cube.png" alt="C-cube_logo" height="200" width="200"></a></div>
-                            <div class="clubs_GFG"><a href="#"><img src="./images/clubs/STUDENT (1).png" alt="GFG_logo" height="200" width="200" style="border-radius: 50%;"></a></div>
-                        </div>
-                        <div class="clubs_2">
-                            <div class="clubs_GDSC"><a href="https://vedantaz.github.io/web_gdsc/#/"><img src="./images/clubs/_GDSC Logo .png" alt="GDSC_logo" height="200" width="200" style="border-radius: 50%;"></a></div>
-                            <div class="clubs_ACM"><a href="https://acmpccoer.netlify.app/"><img src="./images/clubs/acmxpccoer.png" alt="ACM_logo" height="200" width="200" style="border-radius: 50%;"></a></div>
-                        </div>
-                    </div>
+                    <div class="col-md-6" id="clubs"><a href="./c-cube.php"><img src="./images/clubs/c-cube.png" alt="C-cube_logo" height="200" width="200"></a></div>
+                    <div class="col-md-6" id="clubs"><a href="#"><img src="./images/clubs/STUDENT (1).png" alt="GFG_logo" height="200" width="200" style="border-radius: 50%; border:2px solid #000"></a></div>
+
+                    <div class="col-md-6" id="clubs"><a href="https://vedantaz.github.io/web_gdsc/#/"><img src="./images/clubs/_GDSC Logo .png" alt="GDSC_logo" height="200" width="200" style="border-radius: 50%; border:2px solid #000"></a></div>
+                    <div class="col-md-6" id="clubs"><a href="https://acmpccoer.netlify.app/"><img src="./images/clubs/acmxpccoer.png" alt="ACM_logo" height="200" width="200" style="border-radius: 50%; border:2px solid #000"></a></div>
                 </div>
             </div>
         </div>
+    </div>
     </div>
 
     <?php include '../footer.php'; ?>
