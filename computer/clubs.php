@@ -57,10 +57,9 @@
                     <h1 align="center">Clubs</h1>
                     <hr>
 
+                    <div class="col-md-6" id="clubs"><a href="https://vedantaz.github.io/web_gdsc/#/"><img src="./images/clubs/_GDSC Logo .png" alt="GDSC_logo" height="200" width="200" style="border-radius: 50%; border:2px solid #000"></a></div>
                     <div class="col-md-6" id="clubs"><a href="./c-cube.php"><img src="./images/clubs/c-cube.png" alt="C-cube_logo" height="200" width="200"></a></div>
                     <div class="col-md-6" id="clubs"><a href="#"><img src="./images/clubs/STUDENT (1).png" alt="GFG_logo" height="200" width="200" style="border-radius: 50%; border:2px solid #000"></a></div>
-
-                    <div class="col-md-6" id="clubs"><a href="https://vedantaz.github.io/web_gdsc/#/"><img src="./images/clubs/_GDSC Logo .png" alt="GDSC_logo" height="200" width="200" style="border-radius: 50%; border:2px solid #000"></a></div>
                     <div class="col-md-6" id="clubs"><a href="https://acmpccoer.netlify.app/"><img src="./images/clubs/acmxpccoer.png" alt="ACM_logo" height="200" width="200" style="border-radius: 50%; border:2px solid #000"></a></div>
                 </div>
             </div>
