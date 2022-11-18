@@ -38,7 +38,7 @@
                 <div class="col-md-12">
                     <nav aria-label="breadcrumb">
                         <ol class="breadcrumb">
-                            <li class="breadcrumb-item"><i class="fa fa-home"></i> Home</li>
+                            <li class="breadcrumb-item"><i class="fa fa-home"></i><a href="http://pccoernew.pcethosting.com/index.php"> Home</a></li>
                             <li class="breadcrumb-item">Computer Department</li>
                             <li class="breadcrumb-item"><a href="question-paper.php">Question Paper</a></li>
                             <li class="breadcrumb-item"><a href="#">BE Question Paper-2015 Pattern-1</a></li>

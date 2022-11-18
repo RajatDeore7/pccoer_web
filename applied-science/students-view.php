@@ -35,7 +35,7 @@
         <div class="col-md-12">
           <nav aria-label="breadcrumb">
             <ol class="breadcrumb">
-              <li class="breadcrumb-item"><i class="fa fa-home"></i> Home</li>
+              <li class="breadcrumb-item"><i class="fa fa-home"></i><a href="http://pccoernew.pcethosting.com/index.php"> Home</a></li>
               <li class="breadcrumb-item">Applied Science </li>
               <li class="breadcrumb-item"><a href="#">Student's View</a></li>
             </ol>
