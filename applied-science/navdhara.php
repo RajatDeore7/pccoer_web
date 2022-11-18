@@ -53,7 +53,7 @@
 				<div class="col-xs-12 col-sm-12 col-md-9">
 					<div class="hdg-bdr"><span class="hdg-bdr-1"></span><span class="hdg-bdr-2"></span><span class="hdg-bdr-3"></span></div>
 					<br>
-					<h1 align="center">FESA</h1>
+					<h1 align="center">NAVDHARA</h1>
 					<hr>
 
 					<div class="col-md-12">

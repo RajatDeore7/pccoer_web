@@ -73,7 +73,7 @@
                     <p class="faculty_name"><b>Dr. Archana Ajit Chaugule</b></p>
                     <p class="faculty_card_link"><b>Qualification:</b>Ph.D(Computer Engg)</p>
                     <p class="faculty_card_link"><b>Experience:</b><b>Teaching: </b>22.5 Yrs,<br><b>Industry:</b>1.5 Years</p>
-                    <p class="faculty_card_link"><b>Email-Id:</b> archana.chaugule@pccoer.inn</p>
+                    <p class="faculty_card_link"><b>Email-Id:</b> archana.chaugule@pccoer.in</p>
                     <a href="https://sites.google.com/pccoer.in/archanachaugule/" class="faculty_blog"><i class="fa-solid fa-blog"></i></a>
                     <a href="./pdf/view-profile/Faculty Profile AAC.pdf" class="faculty_blog"><i class="fa-solid fa-user"></i></a>
                     <a href="https://www.youtube.com/channel/UCfPAA2OcTJL3yHnaH9O8i0A/" class="faculty_blog"><i class="fa-brands fa-youtube"></i></a>
@@ -478,6 +478,10 @@
                 </div>
               </div>
             </div>
+
+          </div>
+          <h3>Adjunct Faculty</h3>
+          <div class=row>
             <div class="col-md-3" id="faculty-card">
               <div class="flip-card">
                 <div class="flip-card-inner_1">
@@ -510,9 +514,6 @@
                 </div>
               </div>
             </div>
-          </div>
-
-          <div class=row>
             <div class="col-md-3" id="faculty-card">
               <div class="flip-card">
                 <div class="flip-card-inner_1">

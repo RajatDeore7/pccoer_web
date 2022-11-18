@@ -365,6 +365,39 @@
                                     </td>
                                     <td valign="top">
                                         <p class="indus_para">
+                                            <strong>2021-22</strong>
+                                            <strong></strong>
+                                        </p>
+                                    </td>
+                                    <td valign="top">
+                                        <p class="indus_para">
+                                            52
+                                        </p>
+                                    </td>
+                                    <td valign="top">
+                                        <p class="indus_para">
+                                            45
+                                        </p>
+                                    </td>
+                                    <td valign="top">
+                                        <p class="indus_para">
+                                            33
+                                        </p>
+                                    </td>
+                                    <td valign="top">
+                                        <p class="indus_para">
+                                            78
+                                        </p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td valign="top">
+                                        <p class="indus_para">
+                                            1
+                                        </p>
+                                    </td>
+                                    <td valign="top">
+                                        <p class="indus_para">
                                             <strong>2020-21</strong>
                                             <strong></strong>
                                         </p>

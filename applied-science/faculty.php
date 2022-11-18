@@ -294,11 +294,11 @@
                     <div class="faculty_img">
                       <img src="images/faculty_teaching/IMG_20221015_104232.jpg" alt="faculty" height=150 width=150 class="faculty_card">
                     </div>
-                    <p class="faculty_name"><b>Mr. Nilsesh Hanumant Thube</b></p>
+                    <p class="faculty_name"><b>Mr. Nilesh Hanumant Thube</b></p>
                     <p class="faculty_card_link"><b>Designation: </b>Assistant Professor</p>
                   </div>
                   <div class="flip-card-back">
-                    <p class="faculty_name"><b>Mr. Nilsesh Hanumant Thube</b></p>
+                    <p class="faculty_name"><b>Mr. Nilesh Hanumant Thube</b></p>
                     <p class="faculty_card_link"><b>Qualification:</b>M.Sc. Mathematics(NET AIR52)</p>
                     <p class="faculty_card_link"><b>Experience: </b> <b>Teaching:</b> 4.5 Years</p>
                     <p class="faculty_card_link"><b>Email-Id:</b> nilesh.thube@pccoer.in</p>
