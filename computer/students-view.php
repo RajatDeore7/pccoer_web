@@ -48,38 +48,32 @@
   <div class="page_details">
     <div class="container">
       <div class="row">
-        <?php include 'computer-sidebar.php'; ?>
+        <div class="col-md-12">
+          <?php include 'computer-sidebar.php'; ?>
 
-        <div class="col-md-7">
           <div class="wm-title-full">
             <h2>Student's View</h2>
           </div>
-          <div class="views_main">
-            <div class="views">
-              <h3>Anjali Take's experience in PCCOER's College</h3>
-              <br>
-              <iframe width="300" height="150" src="https://www.youtube.com/embed/ZpHd00aiuXc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-            </div>
-            <div class="views">
-              <h3>Niranjani Wagh from computer Department</h3>
-              <br>
-              <iframe width="300" height="150" src="https://www.youtube.com/embed/EjWVVur4_uI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-            </div>
-            <div class="views">
-              <h3>Ankita vaidya from computer department sharing experience</h3>
-              <iframe width="300" height="150" src="https://www.youtube.com/embed/sWOEDBda7ag" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-            </div>
+
+          <div class="col-md-4">
+            <h3>Anjali Take's experience in PCCOER's College</h3>
+            <br>
+            <iframe width="300" height="150" src="https://www.youtube.com/embed/ZpHd00aiuXc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
           </div>
-          <div class="views_main">
-            <div class="views">
-              <h3>Saniya Naik from computer Engineering department</h3>
-              <br>
-              <iframe width="300" height="150" src="https://www.youtube.com/embed/lkNQxvxpI5s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-            </div>
-            <div class="views">
-              <h3>Shipad Agashe from computer department sharing experience</h3>
-              <iframe width="300" height="150" src="https://www.youtube.com/embed/39YGYkLnlt8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-            </div>
+          <div class="col-md-4">
+            <h3>Niranjani Wagh from computer Department</h3>
+            <br>
+            <iframe width="300" height="150" src="https://www.youtube.com/embed/EjWVVur4_uI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+          </div>
+          <!-- <div class="col-md-4">
+            <h3>Ankita vaidya from computer department sharing experience</h3>
+            <br>
+            <iframe width="300" height="150" src="https://www.youtube.com/embed/sWOEDBda7ag" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+          </div> -->
+          <div class="col-md-4">
+            <h3>Shipad Agashe from computer department sharing experience</h3>
+            <br>
+            <iframe width="300" height="150" src="https://www.youtube.com/embed/39YGYkLnlt8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
           </div>
         </div>
       </div>
