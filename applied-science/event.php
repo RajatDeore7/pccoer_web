@@ -57,6 +57,7 @@
 					<div class="hdg-bdr"><span class="hdg-bdr-1"></span><span class="hdg-bdr-2"></span><span class="hdg-bdr-3"></span></div>
 					<br>
 					<h1 align="center">Event</h1>
+					<h3><a href="./pdf/Scanned FE Event Calendar 2022-23 Term I.pdf">Event Calender 2022-2023 Term-I</a></h3>
 					<p><strong>Date: </strong> 1st March </p>
 					<table class="table table-bordered table-responsive">
 						<tbody>

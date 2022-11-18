@@ -115,7 +115,13 @@ a.faculty_blog {
     color: #000;
 }
 
-.fa-solid {
+.fa-blog {
+    font-size: 30px;
+    padding: 30px 4px;
+    color: #00b6dd;
+}
+
+.fa-user {
     font-size: 30px;
     padding: 30px 4px;
 }
@@ -123,6 +129,7 @@ a.faculty_blog {
 .fa-brands {
     font-size: 30px;
     padding: 30px 4px;
+    color: #ff0000;
 }
 
 /* nonteach */
