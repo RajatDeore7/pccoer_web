@@ -86,64 +86,65 @@
 					</p>
 					<h3><a href="./pdf/COURSE-OUTCOMES.docx.pdf">COURSE OUTCOMES (COs):</a></h3>
 
+					<div class="accordian_main">
+						<button class="accordion">
+							<h3>Programme Educational Objectives of the Department <i class="fa-solid fa-angle-down"></i></h3>
+						</button>
+						<div class="panel">
+							<p> <b>PEO1:</b> To prepare globally competent graduates having strong fundamentals, domain knowledge, updated with modern technology to provide the effective solutions for engineering problems.<br>
+								<b>PEO2:</b> To prepare the graduates to work as a committed professional with strong professional ethics and values, sense of responsibilities, understanding of legal, safety, health, societal, cultural and environmental issues.<br>
+								<b>PEO3:</b> To prepare committed and motivated graduates with research attitude, lifelong learning, investigative approach, and multidisciplinary thinking.<br>
+								<b>PEO4:</b> To prepare the graduates with strong managerial and communication skills to work effectively as individual as well as in teams.<br>
+							</p>
+						</div>
 
-					<button class="accordion">
-						<h3>Programme Educational Objectives of the Department <i class="fa-solid fa-angle-down"></i></h3>
-					</button>
-					<div class="panel">
-						<p> <b>PEO1:</b> To prepare globally competent graduates having strong fundamentals, domain knowledge, updated with modern technology to provide the effective solutions for engineering problems.<br>
-							<b>PEO2:</b> To prepare the graduates to work as a committed professional with strong professional ethics and values, sense of responsibilities, understanding of legal, safety, health, societal, cultural and environmental issues.<br>
-							<b>PEO3:</b> To prepare committed and motivated graduates with research attitude, lifelong learning, investigative approach, and multidisciplinary thinking.<br>
-							<b>PEO4:</b> To prepare the graduates with strong managerial and communication skills to work effectively as individual as well as in teams.<br>
-						</p>
-					</div>
+						<button class="accordion">
+							<h3>Programme Specific Outcomes of the Department <i class="fa-solid fa-angle-down"></i></h3>
+						</button>
+						<div class="panel">
+							<p> <b>PSO1:</b> Problem-Solving Skills- The ability to apply standard practices and strategies in software project development using open-ended programming environments to deliver a quality project.<br>
+								<b>PSO2:</b> Professional Skills-The ability to understand, analyze and develop computer programs in the areas related to algorithms, software testing, application software, web design, data analytics, IOT and networking for efficient design of computer-based systems.<br>
+								<b>PSO3:</b> Successful Career and Entrepreneurship- The ability to employ modern computer languages, environments, and platforms in creating innovative career paths to be an entrepreneur, and a zest for higher studies, and to generate IPR & Deliver a quality project.<br>
+							</p>
+						</div>
 
-					<button class="accordion">
-						<h3>Programme Specific Outcomes of the Department <i class="fa-solid fa-angle-down"></i></h3>
-					</button>
-					<div class="panel">
-						<p> <b>PSO1:</b> Problem-Solving Skills- The ability to apply standard practices and strategies in software project development using open-ended programming environments to deliver a quality project.<br>
-							<b>PSO2:</b> Professional Skills-The ability to understand, analyze and develop computer programs in the areas related to algorithms, software testing, application software, web design, data analytics, IOT and networking for efficient design of computer-based systems.<br>
-							<b>PSO3:</b> Successful Career and Entrepreneurship- The ability to employ modern computer languages, environments, and platforms in creating innovative career paths to be an entrepreneur, and a zest for higher studies, and to generate IPR & Deliver a quality project.<br>
-						</p>
-					</div>
-
-					<button class="accordion">
-						<h3>Department Achievements& Highlights <i class="fa-solid fa-angle-down"></i></h3>
-					</button>
-					<div class="panel">
-						<ul class="ul-margin">
-							<li>Smart India Hackathon winners consecutively for 2 years</li>
-							<li>Consistently excellent results</li>
-							<li>7- Lady Faculties and 1- Lab Assistant from the departments have participated in World Record of maximum number of patents filed by women's on a single day </li>
-							<li>12 Faculties and 4 Lab Assistant from the departments have participated in World Record of maximum number of copyrights filed on a single day </li>
-							<li>Board of studies member at Pillai,Panvel:01</li>
-							<li>Research Excellence Award 2019 by Institute of Scholar (INSC).:01</li>
-							<li>Committee member of The International Conference,China:02</li>
-							<li>Faculty Research articles published: 133</li>
-							<li>Student Research articles published: 78</li>
-							<li>Patents Published: 05, Granted: 01, Filed: 06</li>
-							<li>Faculty Copyrights: 70</li>
-							<li>Students Copyrights: 142</li>
-							<li>Active MoUs with Industry: 08</li>
-							<li>Products designed & developed by faculty & students: 27</li>
-							<li>Number of students placed in industry: 188</li>
-							<li>2 international placements</li>
-							<li>Number of students pursuing higher education: 11</li>
-							<li>Number of students turned Entrepreneur: 01</li>
-							<li>Association of computing machinery (ACM) student chapter, GOOGLE developer club and C-cube (Computer Cosmos Consortium) for students</li>
-							<li>Successful completion of MOOC (NPTEL, Coursera, Udemy, Sololearn, Microsoft Technology Associate, Internshala, British Council) courses by students: 363 </li>
-							<li>Participation of students in inter-Institute events: 198</li>
-							<li>Industrial Visit: 03 </li>
-							<li>Number of faculties pursuing PhD: 10</li>
-							<li>Chairman for SPPU Subjects: 4</li>
-							<li>Paper Setter for SPPU Subjects:7 </li>
-							<li>Subject Expert for syllabus design for SE and TE (2019):04 and 01</li>
-							<li>Session Chair Faculty for National Conference: 3</li>
-							<li>Faculty Editor for International Journal: 01</li>
-							<li>Membership of professional bodies by Faculty: 14</li>
-							<li>Books published by Faculty: 5</li>
-						</ul>
+						<button class="accordion">
+							<h3>Department Achievements& Highlights <i class="fa-solid fa-angle-down"></i></h3>
+						</button>
+						<div class="panel">
+							<ul class="ul-margin">
+								<li>Smart India Hackathon winners consecutively for 2 years</li>
+								<li>Consistently excellent results</li>
+								<li>7- Lady Faculties and 1- Lab Assistant from the departments have participated in World Record of maximum number of patents filed by women's on a single day </li>
+								<li>12 Faculties and 4 Lab Assistant from the departments have participated in World Record of maximum number of copyrights filed on a single day </li>
+								<li>Board of studies member at Pillai,Panvel:01</li>
+								<li>Research Excellence Award 2019 by Institute of Scholar (INSC).:01</li>
+								<li>Committee member of The International Conference,China:02</li>
+								<li>Faculty Research articles published: 133</li>
+								<li>Student Research articles published: 78</li>
+								<li>Patents Published: 05, Granted: 01, Filed: 06</li>
+								<li>Faculty Copyrights: 70</li>
+								<li>Students Copyrights: 142</li>
+								<li>Active MoUs with Industry: 08</li>
+								<li>Products designed & developed by faculty & students: 27</li>
+								<li>Number of students placed in industry: 188</li>
+								<li>2 international placements</li>
+								<li>Number of students pursuing higher education: 11</li>
+								<li>Number of students turned Entrepreneur: 01</li>
+								<li>Association of computing machinery (ACM) student chapter, GOOGLE developer club and C-cube (Computer Cosmos Consortium) for students</li>
+								<li>Successful completion of MOOC (NPTEL, Coursera, Udemy, Sololearn, Microsoft Technology Associate, Internshala, British Council) courses by students: 363 </li>
+								<li>Participation of students in inter-Institute events: 198</li>
+								<li>Industrial Visit: 03 </li>
+								<li>Number of faculties pursuing PhD: 10</li>
+								<li>Chairman for SPPU Subjects: 4</li>
+								<li>Paper Setter for SPPU Subjects:7 </li>
+								<li>Subject Expert for syllabus design for SE and TE (2019):04 and 01</li>
+								<li>Session Chair Faculty for National Conference: 3</li>
+								<li>Faculty Editor for International Journal: 01</li>
+								<li>Membership of professional bodies by Faculty: 14</li>
+								<li>Books published by Faculty: 5</li>
+							</ul>
+						</div>
 					</div>
 				</div>
 			</div>
