@@ -479,8 +479,35 @@ figure:hover+span {
 }
 
 /* Inner Pages CSS */
-.inner-page-banner {
+.inner-page-banner-computer {
 	background: url(../images/IMG_6099.png);
+	background-size: 0px 0px;
+	background-attachment: fixed;
+	background-repeat: round;
+	background-size: cover;
+	height: 200px;
+}
+
+.inner-page-banner-entc {
+	background: url(../images/IMG_6104.png);
+	background-size: 0px 0px;
+	background-attachment: fixed;
+	background-repeat: round;
+	background-size: cover;
+	height: 200px;
+}
+
+.inner-page-banner-mech {
+	background: url(../images/IMG_6108.png);
+	background-size: 0px 0px;
+	background-attachment: fixed;
+	background-repeat: round;
+	background-size: cover;
+	height: 200px;
+}
+
+.inner-page-banner-civil {
+	background: url(../images/IMG_6126.png);
 	background-size: 0px 0px;
 	background-attachment: fixed;
 	background-repeat: round;
