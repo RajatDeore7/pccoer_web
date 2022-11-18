@@ -18,7 +18,8 @@
 			<!-- <li <?php if ($pagename == "") echo 'class="active"'; ?>><a href='./pdf/innovative_methods.pdf'>Innovative Teaching Method</a></li> -->
 			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href='elibrary.php'>E-Library</a></li>
 			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href='e-magazine.php'>E-Magazine</a></li>
-			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href='./pdf/product-details.pdf'>Product Developed</a></li>
+			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href='./pdf/product-details.pdf'>InHouse Software Developed</a></li>
+			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href='./internship.php'>Internship</a></li>
 			<!-- <li <?php if ($pagename == "") echo 'class="active"'; ?>><a href='question-paper.php'>Question Paper</a></li> -->
 			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href='clubs.php'>Clubs</a></li>
 			<li <?php if ($pagename == "") echo 'class="active"'; ?>><a href='industry-interaction.php'>Industry Interaction</a></li>

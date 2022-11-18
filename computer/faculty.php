@@ -115,8 +115,8 @@
                   </div>
                   <div class="flip-card-back">
                     <p class="faculty_name"><b>Mrs. Sonali S. Lunawat</b></p>
-                    <p class="faculty_card_link"><b>Qualification: </b>B.E.(CE), M.E.(Computer Engineering), PhD (Persuing)</p>
-                    <p class="faculty_card_link"><b>Experience: </b> <b>Teaching:</b> 13 Years</p>
+                    <p class="faculty_card_link"><b>Qualification: </b>B.E.(CE), M.E.(Computer Engineering), PhD (Pursuing)</p>
+                    <p class="faculty_card_link"><b>Experience: </b> <b>Teaching:</b> 14 Years</p>
                     <p class="faculty_card_link"><b>Email-Id:</b> sonali.lunawat@pccoer.in</p>
                     <a href="https://sonallunawat4u.wordpress.com/" class="faculty_blog"><i class="fa-solid fa-blog"></i></a>
                     <a href="./pdf/view-profile/Faculty Profile SSL.pdf" class="faculty_blog"><i class="fa-solid fa-user"></i></a>
@@ -140,7 +140,7 @@
                   </div>
                   <div class="flip-card-back">
                     <p class="faculty_name"><b>Mr. Jameer Kotwal</b></p>
-                    <p class="faculty_card_link"><b>Qualification: </b>M.Tech (CSE), Phd(pursuing)</p>
+                    <p class="faculty_card_link"><b>Qualification: </b>M.Tech (CSE), Phd(Pursuing)</p>
                     <p class="faculty_card_link"><b>Experience: </b> <b>Teaching:</b> 14 Years</p>
                     <p class="faculty_card_link"><b>Email-Id:</b> jameer.kotwal@pccoer.in</p>
                     <a href="https://sites.google.com/view/jameer-kotwal/home" class="faculty_blog"><i class="fa-solid fa-blog"></i></a>
@@ -321,7 +321,7 @@
                   </div>
                   <div class="flip-card-back">
                     <p class="faculty_name"><b>Mrs. Madhuri N. Kumbhar</b></p>
-                    <p class="faculty_card_link"><b>Qualification: </b>M.E(Computer Engg.)</p>
+                    <p class="faculty_card_link"><b>Qualification: </b>M.E(Computer Engg.) PhD (Pursuing)</p>
                     <p class="faculty_card_link"><b>Experience: </b> <b>Teaching:</b> 9.5 Years</p>
                     <p class="faculty_card_link"><b>Email-Id:</b> madhuri.kumbhar@pccoer.in</p>
                     <a href="https://www.youtube.com/channel/UCtgOIdApbZAd8sCKYoTJYzA" class="faculty_blog"><i class="fa-brands fa-youtube"></i></a>

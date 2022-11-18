@@ -84,7 +84,7 @@
 						<b>M2:</b> Establish leadership skills, team spirit and high ethical values among the students to serve industrial demands and societal needs.<br>
 						<b>M3:</b> Guide students towards Research and Development, and a willingness to learn by connecting themselves to the global society.<br>
 					</p>
-					<h3><a href="./pdf/COURSE-OUTCOMES (1).pdf">COURSE OUTCOMES (COs):</a></h3>
+					<h3><a href="./pdf/COURSE-OUTCOMES.docx.pdf">COURSE OUTCOMES (COs):</a></h3>
 
 
 					<button class="accordion">

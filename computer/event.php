@@ -59,7 +59,7 @@
                     <br>
                     <h1 align="center">Event</h1>
                     <hr>
-                    <h3><a href="pdf/Yearwise-Events List_2020-21_to_2017-18.pdf" target="_blank">Yearwise Events List</a></h3>
+                    <h3><a href="pdf/Events_2022-2023.docx.pdf" target="_blank">Yearwise Events List</a></h3>
 
                     <h2>Club Videos</h2>
 

@@ -59,18 +59,8 @@
 					<div class="col-md-12">
 
 						<div class="col-md-4">
-							<a href="pdf/FESA%202020%20-%2021_0001.pdf" target="_blank"><img src="images/download.png" alt="Research Publications"></a>
-							<p>FESA 2020 - 21</p>
-						</div>
-
-						<div class="col-md-4">
-							<a href="pdf/FESA%202019%20-%2020_0001.pdf" target="_blank"><img src="images/download.png" alt="Research Publications"></a>
-							<p>FESA 2019 - 20</p>
-						</div>
-
-						<div class="col-md-4">
-							<a href="pdf/FESA%202018%20-%2019_0001.pdf" target="_blank"><img src="images/download.png" alt="Research Publications"></a>
-							<p>FESA 2018 - 19</p>
+							<a href="pdf/Navdhara Report.pdf" target="_blank"><img src="images/download.png" alt="Research Publications"></a>
+							<p>NAVDHARA</p>
 						</div>
 					</div>
 				</div>
