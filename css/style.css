@@ -524,6 +524,15 @@ figure:hover+span {
 	height: 200px;
 }
 
+.inner-page-banner-library {
+	background: url(../images/slider/IMG_20221118_121441.jpg);
+	background-size: 0px 0px;
+	background-attachment: fixed;
+	background-repeat: round;
+	background-size: cover;
+	height: 200px;
+}
+
 .page_details {
 	padding: 0px 0px;
 	padding-top: 20px;

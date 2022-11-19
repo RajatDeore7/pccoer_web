@@ -60,8 +60,21 @@
                     <h1 align="center">Industry Interaction</h1>
                     <hr>
                     <div class="col-md-12">
+
+
+
                         <div class="wm-title-full">
                             <h2>MOU’s Details</h2>
+                        </div>
+
+                        <div class="col-md-3">
+                            <a href="./pdf/CognaTech MOU_0001.pdf" target="_blank"><img src="./../applied-science/images/download.png" alt="Research Publications"></a>
+                            <p>CognaTech MoU</p>
+                        </div>
+
+                        <div class="col-md-3">
+                            <a href="./pdf/Bharat Soft MoU_0001.pdf" target="_blank"><img src="./../applied-science/images/download.png" alt="Research Publications"></a>
+                            <p>Bharat Soft MoU</p>
                         </div>
 
                         <table border="1" cellpadding="0" cellspacing="1" class="table-bordered table-responsive table-text" width="100%">
@@ -371,22 +384,22 @@
                                     </td>
                                     <td valign="top">
                                         <p class="indus_para">
-                                            52
+                                            56
                                         </p>
                                     </td>
                                     <td valign="top">
                                         <p class="indus_para">
-                                            45
+                                            44
                                         </p>
                                     </td>
                                     <td valign="top">
                                         <p class="indus_para">
-                                            33
+                                            -
                                         </p>
                                     </td>
                                     <td valign="top">
                                         <p class="indus_para">
-                                            78
+                                            100
                                         </p>
                                     </td>
                                 </tr>
