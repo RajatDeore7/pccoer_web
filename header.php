@@ -145,6 +145,13 @@
 							<ul>
 								<li><a href="<?php echo $serverpath; ?>administration.php">Organizational Chat</a></li>
 								<li><a href="<?php echo $serverpath; ?>governing-body.php">Govering Body</a></li>
+								<li><a href="<?php echo $serverpath; ?>college-Development-committee.php">College
+										Development Committee</a></li>
+								<li><a href="<?php echo $serverpath; ?>pdf/Mandatory-Disclosure-2021-22.PDF" target="_blank">Mandatory Disclosure</a>
+								</li>
+								<li><a href="<?php echo $serverpath; ?>aicte-approval-certificate-22-23.php">Letter Of
+										Approval</a></li>
+								<li><a href="<?php echo $serverpath; ?>Balancesheet.php">Balance Sheet</a></li>
 
 								<li>
 									<a href="#">Statutory Committees</a>
@@ -157,13 +164,6 @@
 									</ul>
 								</li>
 
-								<li><a href="<?php echo $serverpath; ?>college-Development-committee.php">College
-										Development Committee</a></li>
-								<li><a href="<?php echo $serverpath; ?>pdf/Mandatory-Disclosure-2021-22.PDF" target="_blank">Mandatory Disclosure</a>
-								</li>
-								<li><a href="<?php echo $serverpath; ?>aicte-approval-certificate-22-23.php">Letter Of
-										Approval</a></li>
-								<li><a href="<?php echo $serverpath; ?>Balancesheet.php">Balance Sheet</a></li>
 								<li><a href="<?php echo $serverpath; ?>rti-objectives-roles-responsibilities.php">Right to
 										information</a></li>
 								<li><a href="<?php echo $serverpath; ?>obc-cell.php">OBC Cell</a></li>

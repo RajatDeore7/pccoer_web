@@ -67,16 +67,6 @@
                             <h2>MOU’s Details</h2>
                         </div>
 
-                        <div class="col-md-3">
-                            <a href="./pdf/CognaTech MOU_0001.pdf" target="_blank"><img src="./../applied-science/images/download.png" alt="Research Publications"></a>
-                            <p>CognaTech MoU</p>
-                        </div>
-
-                        <div class="col-md-3">
-                            <a href="./pdf/Bharat Soft MoU_0001.pdf" target="_blank"><img src="./../applied-science/images/download.png" alt="Research Publications"></a>
-                            <p>Bharat Soft MoU</p>
-                        </div>
-
                         <table border="1" cellpadding="0" cellspacing="1" class="table-bordered table-responsive table-text" width="100%">
                             <tbody>
                                 <tr class="tablehead">
@@ -307,11 +297,7 @@
                                         <p>
                                             ICT ACADEMY | An Initiative of Government of India, State
                                             Government and Industry Fortune Business Centre,
-                                        </p>
-                                        <p>
                                             No: 513,5th Floor,KaspateWasti,Wakad,
-                                        </p>
-                                        <p>
                                             Pune - 411057
                                         </p>
                                     </td>
@@ -326,6 +312,75 @@
                                         </p>
                                         <p class="indus_para">
                                             77419 71714
+                                        </p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td width="43" valign="top">
+                                        <p class="indus_para">
+                                            08
+                                        </p>
+                                    </td>
+                                    <td width="126" valign="top">
+                                        <p class="indus_para">
+                                            COGNOTECH SOLUTIONS PRIVATE
+                                            LIMITED
+                                        </p>
+                                    </td>
+                                    <td width="240" valign="top">
+                                        <p>
+                                            COGNOTECH SOLUTIONS
+                                            PRIVATE LIMITED,Narhe, Pune, Maharashtra
+                                            411041
+                                        </p>
+                                    </td>
+                                    <td width="105" valign="top">
+                                        <p class="indus_para">
+                                            2022
+                                        </p>
+                                    </td>
+                                    <td width="102" valign="top">
+                                        <p class="indus_para">
+                                            Mr. Akshay
+                                            Shinde
+                                        </p>
+                                        <p class="indus_para">
+                                            7276606585
+                                        </p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td width="43" valign="top">
+                                        <p class="indus_para">
+                                            09
+                                        </p>
+                                    </td>
+                                    <td width="126" valign="top">
+                                        <p class="indus_para">
+                                            Bharat Soft
+                                            Solutions
+                                        </p>
+                                    </td>
+                                    <td width="240" valign="top">
+                                        <p>
+                                            Bharat Soft Solutions, 1st
+                                            Floor, Chitralekha Building,
+                                            Kothrud Pune., Pune, India,
+                                            Maharashtra
+                                        </p>
+                                    </td>
+                                    <td width="105" valign="top">
+                                        <p class="indus_para">
+                                            2022
+                                        </p>
+                                    </td>
+                                    <td width="102" valign="top">
+                                        <p class="indus_para">
+                                            Mr. Yogesh
+                                            Murumkar
+                                        </p>
+                                        <p class="indus_para">
+                                            9657080905
                                         </p>
                                     </td>
                                 </tr>

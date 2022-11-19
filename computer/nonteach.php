@@ -119,9 +119,9 @@
                     </div>
                     <p class="faculty_nonteach_name"><b>Mr. Sudarshan V. Kalbhor</b></p>
                     <p class="faculty_card_nonteach"><b>Department :</b> Computer</p>
-                    <p class="faculty_card_nonteach"><b>Designation :</b> System Admin</p>
+                    <p class="faculty_card_nonteach"><b>Designation :</b> Lab Assistant</p>
                     <p class="faculty_card_nonteach"><b>Qualification :</b> Diploma in CSE</p>
-                    <p class="faculty_card_nonteach"><b>Experience :</b> 4 months</p>
+                    <p class="faculty_card_nonteach"><b>Experience :</b> 1.3 Years</p>
                     <p class="faculty_card_nonteach"><b>Email-Id:</b> sudarshan.kalbhor@pccoer.in</p>
                   </div>
                 </div>
