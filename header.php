@@ -145,6 +145,18 @@
 							<ul>
 								<li><a href="<?php echo $serverpath; ?>administration.php">Organizational Chat</a></li>
 								<li><a href="<?php echo $serverpath; ?>governing-body.php">Govering Body</a></li>
+
+								<li>
+									<a href="#">Statutory Committees</a>
+									<ul>
+										<li><a href="<?php echo $serverpath; ?>arc-objectives-procedure.php">Anti Ragging Committee</a></li>
+										<li><a href="<?php echo $serverpath; ?>objectives-roles-responsibilities.php">Grievance Redressal Committee</a></li>
+										<li><a href="<?php echo $serverpath; ?>internal-complaint-committee.php">Internal Complaint Committee</a></li>
+										<li><a href="<?php echo $serverpath; ?>special-standing-cell.php">Special Standing Cell (Reservation Cell)</a></li>
+										<!-- <li><a href="<?php echo $serverpath; ?>">Student Counseling Cell</a></li> -->
+									</ul>
+								</li>
+
 								<li><a href="<?php echo $serverpath; ?>college-Development-committee.php">College
 										Development Committee</a></li>
 								<li><a href="<?php echo $serverpath; ?>pdf/Mandatory-Disclosure-2021-22.PDF" target="_blank">Mandatory Disclosure</a>
@@ -152,17 +164,9 @@
 								<li><a href="<?php echo $serverpath; ?>aicte-approval-certificate-22-23.php">Letter Of
 										Approval</a></li>
 								<li><a href="<?php echo $serverpath; ?>Balancesheet.php">Balance Sheet</a></li>
-								<li><a href="<?php echo $serverpath; ?>objectives-roles-responsibilities.php">Grievance
-										Redressal Committee</a></li>
 								<li><a href="<?php echo $serverpath; ?>rti-objectives-roles-responsibilities.php">Right to
 										information</a></li>
-								<li><a href="<?php echo $serverpath; ?>internal-complaint-committee.php">Internal Complanit
-										Committee</a></li>
 								<li><a href="<?php echo $serverpath; ?>obc-cell.php">OBC Cell</a></li>
-								<li><a href="<?php echo $serverpath; ?>arc-objectives-procedure.php">Anti-Ragging
-										Committee</a></li>
-								<li><a href="<?php echo $serverpath; ?>special-standing-cell.php">Special Standing Cell</a>
-								</li>
 								<li><a href="<?php echo $serverpath; ?>committee.php">Institute Portfolios</a></li>
 								<li><a href="<?php echo $serverpath; ?>student-policies.php">Institute Policies</a></li>
 							</ul>
@@ -250,11 +254,11 @@
 							<ul>
 								<li><a href="<?php echo $serverpath; ?>about-research-and-innovation.php">About Research
 										and Innovation</a></li>
-								<li><a href="<?php echo $serverpath; ?>about-research-and-innovation-committee.php">About
+								<li><a href="<?php echo $serverpath; ?>pdf/R&D%20comitte/R&D%20Commitee%20List%20AY2022-23.pdf">About
 										Committee</a></li>
 								<li><a href="<?php echo $serverpath; ?>pdf/Research-Policy.pdf" target="_blank">Research
 										Policy</a></li>
-								<li><a href="<?php echo $serverpath; ?>r&dcomitte.php">R & D Committee</a></li>
+								<li><a href="<?php echo $serverpath; ?>r&dcomitte.php">Paper Publications</a></li>
 								<li><a href="<?php echo $serverpath; ?>ipc.php">Innovation,Patent and Copyrights</a></li>
 								<li><a href="<?php echo $serverpath; ?>ies.php">Incubation
 										,Entrepreneurship&
@@ -266,6 +270,9 @@
 								</li>
 							</ul>
 						</li>
+
+
+
 						<!-- r and d end  -->
 
 
