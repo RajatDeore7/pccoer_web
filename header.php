@@ -111,7 +111,7 @@
 									<a href="<?php echo $serverpath; ?>mechanical/computer.php">Mechanical Engineering</a>
 								</li>
 								<li>
-									<a href="#">Electronics and Telecommunication Engineering </a>
+									<a href="<?php echo $serverpath; ?>entc/entc.php">Electronics and Telecommunication Engineering </a>
 								</li>
 								<li><a href="<?php echo $serverpath; ?>computer/computer.php">Computer Engineering</a>
 								</li>
@@ -154,14 +154,7 @@
 								<li><a href="<?php echo $serverpath; ?>Balancesheet.php">Balance Sheet</a></li>
 
 								<li>
-									<a href="#">Statutory Committees</a>
-									<ul>
-										<li><a href="<?php echo $serverpath; ?>arc-objectives-procedure.php">Anti Ragging Committee</a></li>
-										<li><a href="<?php echo $serverpath; ?>objectives-roles-responsibilities.php">Grievance Redressal Committee</a></li>
-										<li><a href="<?php echo $serverpath; ?>internal-complaint-committee.php">Internal Complaint Committee</a></li>
-										<li><a href="<?php echo $serverpath; ?>special-standing-cell.php">Special Standing Cell (Reservation Cell)</a></li>
-										<!-- <li><a href="<?php echo $serverpath; ?>">Student Counseling Cell</a></li> -->
-									</ul>
+									<a href="<?php echo $serverpath; ?>statutorycommittees.php">Statutory Committees</a>
 								</li>
 
 								<li><a href="<?php echo $serverpath; ?>rti-objectives-roles-responsibilities.php">Right to
