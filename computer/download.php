@@ -34,7 +34,7 @@
 				<div class="col-md-12">
 					<nav aria-label="breadcrumb">
 						<ol class="breadcrumb">
-							<li class="breadcrumb-item"><i class="fa fa-home"></i><a href="http://pccoernew.pcethosting.com/index.php"> Home</a></li>
+							<li class="breadcrumb-item"><i class="fa fa-home"></i><a href="<?php echo $serverpath; ?>"> Home</a></li>
 							<li class="breadcrumb-item">Computer</li>
 							<li class="breadcrumb-item"><a href="#">Download</a></li>
 						</ol>
